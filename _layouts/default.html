@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang='{{ page.lang | default: site.lang | default: "en" }}'>
+
+  {% include head.html %}
+
+  <body class="home">
+
+    <div class="main-content">
+      <div id="preload">
+        <div class="kd-bounce">
+          <div></div>
+          <div></div>
+        </div>
+      </div>
+
+      <div class="mobile">
+        <div class="container">
+          <div class="menu-mobile">
+            <span class="item item-1"></span>
+            <span class="item item-2"></span>
+            <span class="item item-3"></span>
+          </div>
+
+          <div class="logo">
+            <a href="index.html"> {{ site.title}} </a>
+          </div>
+        </div>
+      </div>
+      <div class="hide-menu"></div>
+
+      <div class="container">
+        <div class="row">
+          <div class="col-md-3">
+            {% include menu.html %}
+          </div>
+
+          <div class="col-md-9 col-md-offset-3">
+            <div class="projects">
+              {{ content }}
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Scripts -->
+    <script src="/assets/js/libs/jquery-1.12.4.min.js"></script>
+    <script src="/assets/js/libs/jquery.justifiedGallery.min.js"></script>
+    <script src="/assets/js/libs/jquery.magnific-popup.js"></script>
+    <script src="/assets/js/scripts.js"></script>
+    <!-- End Scripts -->
+
+  </body>
+
+</html>

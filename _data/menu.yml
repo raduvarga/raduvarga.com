@@ -1,0 +1,25 @@
+pages:
+
+- title: Home
+  url: /
+
+- title: About
+  url: /about-me
+
+- title: Music
+  url: /music
+
+- title: Video
+  url: /video
+
+- title: Photos
+  url: /photos
+
+- title: Collaborations
+  url: /collaborations
+
+- title: Concerts
+  url: /concerts
+
+- title: Contact
+  url: /contact

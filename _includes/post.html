@@ -1,0 +1,26 @@
+<article class="post">
+
+	<div class="post-media">
+		<a href="#">
+			<img src="{{ include.img }}">
+		</a>
+	</div>
+
+	<div class="post-content">
+		<h2 class="title"> {{ include.title }} </h2>
+
+		{% if include.website %}
+			<div class="post-details">
+				<a href="{{ include.website }}" class="post-url" target="_blank">{{ include.website }}</a>
+			</div>
+		{% endif %}
+
+		<!-- The Content -->
+		<div class="the-content">
+			{{ include.content }}
+		</div>
+		<!-- End The Content -->
+
+	</div>
+
+</article>

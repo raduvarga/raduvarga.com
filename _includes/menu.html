@@ -1,0 +1,37 @@
+<div class="header affix">
+  <div class="table">
+    <div class="table-cell">
+
+      <div class="logo">
+        <a href="index.html"> {{ site.title}} </a>
+      </div>
+
+      <div class="main-menu">
+        <nav>
+          <ul class="menu-list">
+
+          {% for item in site.data.menu.pages %}
+            {% if page.url == item.url or (page.url contains item.url and item.url != "/") %}
+              <li class="active">
+            {% else %}
+              <li>
+            {% endif %}
+                <a href="{{item.url}}">{{item.title}}</a>
+              </li>
+          {% endfor %}
+
+          </ul>
+        </nav>
+      </div>
+
+      {%- include social.html -%}
+
+      <div class="copyright">
+        <p>
+          Antonio-Radu Varga @ 2019. 
+        </p>
+      </div>
+
+    </div>
+  </div>
+</div>
