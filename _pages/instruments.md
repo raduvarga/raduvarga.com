@@ -1,10 +1,10 @@
 ---
-title: Collaborations
+title: Instruments
 layout: default
-permalink: /collaborations
+permalink: /instruments
 ---
 
-{%- for project in site.data.collaborations.items -%}
+{%- for project in site.data.instruments.items -%}
 
   {%- include project.html href = project.href
   						   img = project.img

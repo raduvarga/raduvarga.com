@@ -1,10 +1,13 @@
-pages:
+items:
 
 - title: Home
   url: /
 
 - title: About
-  url: /about-me
+  url: /about
+
+- title: Instruments
+  url: /instruments
 
 - title: Music
   url: /music
@@ -15,11 +18,14 @@ pages:
 - title: Photos
   url: /photos
 
+- title: Concerts
+  url: /concerts
+
 - title: Collaborations
   url: /collaborations
 
-- title: Concerts
-  url: /concerts
+# - title: Programming
+#   url: /programming
 
 - title: Contact
   url: /contact

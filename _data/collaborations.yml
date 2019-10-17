@@ -1,13 +1,9 @@
-artists:
+items:
 
 - name: Siti Naturaleza
-  img: /assets/img/collaborations/siti-naturaleza.jpg
+  img: /assets/img/siti-naturaleza.jpg
   href: /collaborations/siti-naturaleza
-  website: https://soundcloud.com/sitinaturaleza
-  description: Siti Naturalezais taking you on a deeply mystical journey, inspired by her connection to mother nature.
-
+  
 - name: Yevgenij Shifrin
-  img: /assets/img/collaborations/yevgenij-shifrin.jpg
+  img: /assets/img/yevgenij-shifrin.jpg
   href: /collaborations/yevgenij-shifrin
-  website: https://www.shifrinmusic.com
-  description: Yevgenij Shifrin is a Mystic Meditative Life Music performer, composer and teacher, Sufi music explorer, string multi instrumentalist, builder and player of a unique instrument called Setara - an integration of different Middle Eastern string instruments, connecting between traditions and times.

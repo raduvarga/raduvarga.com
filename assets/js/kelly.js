@@ -140,7 +140,7 @@
 
 
 		// 4. Project Details
-		var $imageProject = $('.images-project');
+		var $imageProject = $('.tiled-gallery');
 
 		if ( $imageProject.length) {
 			$imageProject.kellyMagnificPopup({

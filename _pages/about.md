@@ -1,7 +1,7 @@
 ---
 title: About Me
 layout: single-post
-permalink: /about-me
+permalink: /about
 img: /assets/img/gray.jpg
 ---
 

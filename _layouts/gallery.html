@@ -2,15 +2,17 @@
 layout: default
 ---
  
-{% for project in site.data.collaborations.artists %}
+<div class="tiled-gallery">
+
+{% for photo in site.data.photos.items %}
 
   <div class="project-item">
-    <a href="{{ project.href }}">
-      <img src="{{ project.img }}" alt="no-img">
+    <a href="/assets/img/{{ photo.src }}">
+    	<img src="/assets/img/{{ photo.src }}" alt="">
     </a>
-    <h2 class="title">
-      <a href="{{ project.href }}">{{ project.name }}</a>
-    </h2>
   </div>
 
 {% endfor %}
+
+</div>
+

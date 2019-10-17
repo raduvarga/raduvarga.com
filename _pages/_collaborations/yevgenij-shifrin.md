@@ -2,7 +2,7 @@
 title: Yevgnij Shifrin
 layout: single-post
 permalink: /collaborations/yevgenij-shifrin
-img: /assets/img/collaborations/yevgenij-shifrin.jpg
+img: /assets/img/yevgenij-shifrin.jpg
 website: https://www.shifrinmusic.com
 ---
 Yevgenij Shifrin is a Mystic Meditative Life Music performer, composer and teacher, Sufi music explorer, string multi instrumentalist, builder and player of a unique instrument called Setara - an integration of different Middle Eastern string instruments, connecting between traditions and times.
