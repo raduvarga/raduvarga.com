@@ -1,0 +1,19 @@
+---
+title: Photos
+layout: default
+permalink: /photos
+---
+
+<div class="tiled-gallery">
+
+{% for item in site.data.photos.items %}
+
+  <div class="project-item">
+    <a href="/assets/img/{{ item.src }}">
+    	<img src="/assets/img/{{ item.src }}" alt="">
+    </a>
+  </div>
+
+{% endfor %}
+
+</div>

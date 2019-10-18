@@ -6,7 +6,8 @@ $("#contact-form").submit(function (e) {
 	let subject = $("input[name=subject]").val();
 	let body = $("textarea[name=message]").val();
 
-	console.log("sending...");
+	console.log("sending email...");
+	$(".contact-message").html("");
 	$("#submit").prop("disabled", true);
 
 	Email.send({

@@ -1,0 +1,13 @@
+---
+title: Collaborations
+layout: default
+permalink: /collaborations
+---
+
+{%- for item in site.data.collaborations.items -%}
+
+  {%- include project.html href = item.href
+						   img = item.img
+						   name = item.name -%}
+
+{%- endfor -%}

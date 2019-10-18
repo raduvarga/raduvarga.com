@@ -1,0 +1,20 @@
+{% capture date %} {{include.date | date: '%Y-%b-%d' }}{% endcapture %}
+
+{% if include.href != null %}
+	{% assign trTag = '<tr class="clickable-row" href="' | append: include.href | append: '"' %}
+{% endif %}
+
+{% if include.href == null %}
+	{% assign trTag = '<tr' %}
+{% endif %}
+
+{%assign trTag = trTag | append: " date=" | append: date | append: ">" %}
+
+{{ trTag }}
+    <td>{{ include.date || date: '%a' }}</td>
+    <td>{{ include.date || date: '%d %b %Y' }}</td>
+    <td>{{ include.venue }}</td>
+    <td>{{ include.city }}</td>
+    <td>{{ include.country }}</td>
+    <!-- <td>{% if include.href != null %} <i class="fa fa-external-link"></i> {% endif %} </td> -->
+</tr>
