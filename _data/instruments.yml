@@ -1,17 +1,19 @@
 items:
 
-- name: Finger Drumming & Keys
+- name: Drum Pads
   img: /assets/img/gray.jpg
-  href: /instruments/midi
+
+- name: Keys
+  img: /assets/img/gray.jpg
 
 - name: Caval
   img: /assets/img/gray.jpg
-  href: /instruments/caval
 
 - name: Santur
   img: /assets/img/gray.jpg
-  href: /instruments/santur
 
-- name: Guitar & Bass
+- name: Guitar
   img: /assets/img/gray.jpg
-  href: /instruments/guitar
+
+- name: Bass
+  img: /assets/img/gray.jpg

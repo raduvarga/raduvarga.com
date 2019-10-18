@@ -827,7 +827,11 @@ body {
 			visibility: visible;
 			@include transition2(opacity 0.3s ease-in-out, visibility 0.3s ease-in-out);
 
-			a {
+			a:hover {
+				color: #ffffff !important;
+			}
+
+			a.clickable {
 				background-color: #ffffff;
 				color: #000000;
 				font-size: 14px;
@@ -840,13 +844,11 @@ body {
 
 			&:hover {
 				color: #000000 !important;
-				opacity: 0.5;
 			}
 		}
 		}
 	}
 }
-
 
 .pagination-wrap {
 
@@ -1375,6 +1377,10 @@ body {
 	.socials {
 		a {
 			margin-right: 10px;
+
+			&:hover {
+				color: $link_hover_color_white !important;
+			}
 		}
 		.fa-search {
 			color: #ffffff;

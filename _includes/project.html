@@ -1,8 +1,13 @@
+{% if include.href != null %}{%assign aTag = "<a href='" | append: include.href | append: "' class='clickable'>"%}{% endif %}
+{% if include.href == null %}{%assign aTag = "<a class='not-clickable'>"%}{% endif %}
+
 <div class="project-item">
-	<a href="{{ include.href }}">
+	{{ aTag }}
 	  <img src="{{ include.img }}" alt="no-img">
 	</a>
 	<h2 class="title">
-	  <a href="{{ include.href }}">{{ include.name }}</a>
+	  {{ aTag }}
+			{{ include.name }}
+		</a>
 	</h2>
 </div>
