@@ -6,13 +6,15 @@ permalink: /photos
 
 <div class="tiled-gallery">
 
-{% for item in site.data.photos.items %}
+{% for item in site.static_files %}
 
+  {% if item.path contains 'gallery' %}
   <div class="project-item">
-    <a href="/assets/img/{{ item.src }}">
-    	<img src="/assets/img/{{ item.src }}" alt="">
+    <a href="{{ item.path }}">
+    	<img src="{{ item.path }}" alt="">
     </a>
   </div>
+  {% endif %}
 
 {% endfor %}
 

@@ -39,6 +39,7 @@ $menu_font: 'Roboto', serif;
 $menu_size: 18px;
 $menu_line_height: 24px;
 $menu_color: #000000;
+$menu_padding: 40px;
 $menu_background: rgba(225, 225, 225, 0.1);
 $post_background: #ffffff;
 
@@ -1376,6 +1377,15 @@ body {
 
 		.logo {
 			color: #ffffff;
+			padding-top: 10px;
+			padding-bottom: 30px;
+		}
+		.socials {
+			padding-top: 30px;
+		}
+		.main-menu {
+			// margin-top: 30px;
+			// padding-bottom: 30px;
 		}
 
 		&.active {
@@ -1384,7 +1394,7 @@ body {
 	}
 	.main-menu,
 	.menu-left .main-menu {
-		max-height: 45%;
+		// max-height: 45%;
 		overflow-y: auto;
 		overflow-x: hidden;
 		a {

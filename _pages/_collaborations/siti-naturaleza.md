@@ -2,7 +2,7 @@
 title: Siti Naturaleza
 layout: single-post
 permalink: /collaborations/siti-naturaleza
-img: /assets/img/siti.jpg
+img: /assets/img/collaborations/siti.jpg
 website: https://soundcloud.com/sitinaturaleza
 ---
 Siti Naturaleza is taking you on a deeply mystical journey, inspired by her connection to mother nature.
@@ -17,5 +17,3 @@ Siti Naturaleza has been collaborating with various artists, creating live ambie
 There are no set lyrics. Siti Naturaleza is channelling what wants to come through. Each performance is an expression of raw, authentic emotions, intuitively following the rhythm of the sounds.
 
 Her mission is to share her gift to help others open their hearts, connect with their true essence and be guided from this place of internal, ancient wisdom that we all carry within ourselves.
-
-{% include youtube.html uri="VtoP1EtA45g" %}
