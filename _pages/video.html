@@ -5,7 +5,6 @@ permalink: /video
 ---
 
 {% for item in site.data.videos.items %}
-
-  {% include youtube.html uri=item.src %}
-
+  {% include youtube.html uri = item.src 
+  						  ratio = "hd" %}
 {% endfor %}

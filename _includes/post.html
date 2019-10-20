@@ -1,7 +1,24 @@
 <article class="post">
-	<div class="post-media">
-		<img src="{{ include.img }}">
-	</div>
+
+		<div class="post-media">
+
+			<div class="slick-items">
+
+				{% for item in include.img %}
+				<span>
+					<img src="{{ item }}">
+			</span>
+				{% endfor %}
+
+				{% for item in include.video %}
+				<span>
+					{% include youtube.html uri = item
+	  						  ratio = "hd" %}
+			</span>
+				{% endfor %}
+
+			</div>
+		</div>
 
 	<div class="post-content">
 		<h2 class="title"> {{ include.title }} </h2>

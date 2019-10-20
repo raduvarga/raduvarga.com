@@ -5,4 +5,3 @@ permalink: /about
 img: /assets/img/gray.jpg
 ---
 
-Antonio Radu Varga is a musician that ...

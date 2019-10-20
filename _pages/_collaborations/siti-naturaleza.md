@@ -2,7 +2,10 @@
 title: Siti Naturaleza
 layout: single-post
 permalink: /collaborations/siti-naturaleza
-img: /assets/img/collaborations/siti.jpg
+img: 
+- /assets/img/collaborations/siti.jpg
+- /assets/img/gallery/1 siti/1.jpg
+video: VtoP1EtA45g
 website: https://soundcloud.com/sitinaturaleza
 ---
 Siti Naturaleza is taking you on a deeply mystical journey, inspired by her connection to mother nature.

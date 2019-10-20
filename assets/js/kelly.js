@@ -99,11 +99,12 @@
 				margins = 6;
 
 			if (ww <= 600) {
-				margins = 0;
+				margins = 3;
 			}
 			$tiled.justifiedGallery({
 				rowHeight: 220,
 				margins: margins,
+				borders: 0,
 				lastRow: 'justify',
 				randomize: false
 			});
