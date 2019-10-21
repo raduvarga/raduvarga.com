@@ -19,7 +19,8 @@
 
 =========================================================================*/
 
-$body_background: #ffffff;
+$body_background: #f0f0f0;
+$post_background: #e4e4e4;
 $body_color: #333333;
 $body_font: 'Lato', serif;
 $body_size: 14px;
@@ -31,10 +32,9 @@ $link_hover_color: #000000;
 $link_hover_color_white: #ffffff;
 
 $title_font: 'Roboto', serif;
-// $title_color: #ababab;
-$title_color: #404040;
-$sub_title_color: #ababab;
-$event_past_color: #919191;
+$title_color: #4a4a4a;
+$sub_title_color: #a3a3a3;
+$event_past_color: #8c8c8c;
 $title_line_height: 30px;
 $title_size: 24px;
 
@@ -44,7 +44,6 @@ $menu_line_height: 24px;
 $menu_color: #000000;
 $menu_padding: 40px;
 $menu_background: rgba(225, 225, 225, 0.1);
-$post_background: #ffffff;
 
 $margin-bottom: 20px;
 
@@ -991,7 +990,7 @@ body {
 .project {
 	.detail-content {
 		padding: 50px;
-		background-color: #eeeeee;
+		background-color: $post_background;
 	}
 
 	.title {
@@ -1051,7 +1050,7 @@ body {
 		margin-bottom: 0;
 	}
 	.post-content {
-		background-color: #eeeeee;
+		background-color: $post_background;
 		padding: 50px 50px 40px;
 	}
 	.youtube-container  iframe {
