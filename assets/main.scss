@@ -32,8 +32,9 @@ $link_hover_color_white: #ffffff;
 
 $title_font: 'Roboto', serif;
 // $title_color: #ababab;
-$title_color: #828282;
+$title_color: #404040;
 $sub_title_color: #ababab;
+$event_past_color: #919191;
 $title_line_height: 30px;
 $title_size: 24px;
 
@@ -134,7 +135,7 @@ table {
 		text-align: center; 
 
 		&.past {
-			color: $title_color;
+			color: $event_past_color;
 		}
 
 		&:hover {
@@ -437,7 +438,7 @@ a {
 	&:hover {
 		color: $link_hover_color !important;
 	}
-	
+
 	&:hover, &:active {
 		outline: 0;
 	}
