@@ -20,9 +20,10 @@ $(".clickable-row").on('click', function (e, row, el) {
 
 $('[date]').each(function(e) { 
 	let concertDate = new Date($(this).attr("date"));
-	let now = Date.now();
+	let now = new Date();
+	now.setHours(0,0,0,0);
 
-  if(concertDate > now) {
+  if(concertDate >= now) {
   	$(this).addClass("upcoming");
   } else {
   	$(this).addClass("past");

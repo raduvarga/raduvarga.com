@@ -281,7 +281,8 @@ figure {
 hr {
 	-moz-box-sizing: content-box;
 	box-sizing: content-box;
-	height: 0;
+	height: 1px;
+	background-color: #ababab;
 }
 
 pre, textarea {
@@ -875,10 +876,11 @@ body {
 		margin-bottom: 0;
 	}
 
-	.title {
+	.title{
 		position: absolute;
-		top: 20px;
+		top: 10px;
 		left: 20px;
+		margin-bottom: 0px !important;
 
 		a {
 			background-color: #000000;
@@ -981,7 +983,10 @@ body {
 			opacity: 0.8;
 		}
 	}
+}
 
+.title {
+		margin-bottom: 0px !important;
 }
 
 .project {
@@ -992,7 +997,7 @@ body {
 
 	.title {
 		color: #000000;
-		margin-bottom: 30px;
+		margin-bottom: 0px !important;
 	}
 	a {
 		color: #000000 !important;
@@ -1064,7 +1069,7 @@ body {
 
 .slick-arrow {
 	cursor: pointer;
-	padding: 14px;
+	padding: 20px;
 
 	&:hover {
 		opacity: 0.75;
@@ -1084,7 +1089,7 @@ body {
 }
 
 .prev {
-	margin-left: -50px;
+	margin-left: -56px;
   display: block;
   position: absolute;
   z-index: 1000;
@@ -1093,7 +1098,7 @@ body {
 }
 
 .next {
-	margin-right: -50px;
+	margin-right: -56px;
   display: block;
   position: absolute;
   right: 0px;
@@ -1551,20 +1556,26 @@ body {
 
 @media screen and (max-width: 480px) {
 	.prev {
-		margin-left: -28px;
+		margin-left: -34px;
 		font-size: 10px;
 	}
-
 	.next {
-		margin-right: -28px;
+		margin-right: -34px;
 		font-size: 10px;
 	}
 
 	.projects {
 		padding-left: 0;
 		padding-right: 0;
-
 	}
+
+	.project-item {
+		.title {
+			top: 3px;
+			left: 13px;
+		}
+	}
+
 	.footer-inner {
 		margin-left: 0;
 		margin-right: 0;

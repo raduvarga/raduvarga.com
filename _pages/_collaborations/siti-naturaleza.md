@@ -20,3 +20,11 @@ Siti Naturaleza has been collaborating with various artists, creating live ambie
 There are no set lyrics. Siti Naturaleza is channelling what wants to come through. Each performance is an expression of raw, authentic emotions, intuitively following the rhythm of the sounds.
 
 Her mission is to share her gift to help others open their hearts, connect with their true essence and be guided from this place of internal, ancient wisdom that we all carry within ourselves.
+
+<hr>
+
+Togheter they have joined hearts to initiate spontaneous musical and energetic journeys, preparing an atmosphere that can morph between ceremonial/meditative and alive/moving. 
+
+The core of their spirits originates from their roots - Radu bringing his Romanian and Eastern European heritage into the mix - Siti bringing the sound of her natural home, the Indonesian rainforest alongside her adoptive one, the Amazon. 
+
+These strong roots combined with the various branches they have grown over the years of development and exploration create an explosive mix of organic and electronic, ethnic instruments and live beats, free time and downtempo that will leave you both dreaming and dancing.
