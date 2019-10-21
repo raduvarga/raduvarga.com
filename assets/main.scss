@@ -31,7 +31,8 @@ $link_hover_color: #000000;
 $link_hover_color_white: #ffffff;
 
 $title_font: 'Roboto', serif;
-$title_color: #ababab;
+// $title_color: #ababab;
+$title_color: #828282;
 $title_line_height: 30px;
 $title_size: 24px;
 
@@ -132,7 +133,7 @@ table {
 		text-align: center; 
 
 		&.past {
-			color: #828282;
+			color: $title_color;
 		}
 
 		&:hover {
