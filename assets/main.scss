@@ -33,6 +33,7 @@ $link_hover_color_white: #ffffff;
 $title_font: 'Roboto', serif;
 // $title_color: #ababab;
 $title_color: #828282;
+$sub_title_color: #ababab;
 $title_line_height: 30px;
 $title_size: 24px;
 
@@ -219,15 +220,6 @@ audio:not([controls]) {
 
 [hidden], template {
 	display: none;
-}
-
-a {
-	color: $title_color;
-	background-color: transparent;
-
-	&:hover, &:active {
-		outline: 0;
-	}
 }
 
 abbr[title] {
@@ -437,12 +429,17 @@ h6, .h6 {
 }
 
 a {
-	color: $title_color;
+	color: $sub_title_color;
+	background-color: transparent;
 	text-decoration: none;
 	@include transition(all 0.3s ease);
 
 	&:hover {
 		color: $link_hover_color !important;
+	}
+	
+	&:hover, &:active {
+		outline: 0;
 	}
 }
 
