@@ -7,14 +7,14 @@ items:
   img: /assets/img/instruments/santur.jpg
 
 - name: Guitar
-  img: /assets/img/instruments/guitar.jpeg
+  img: /assets/img/instruments/guitar.jpg
 
 - name: Bass
-  img: /assets/img/instruments/bass.jpeg
+  img: /assets/img/instruments/bass.jpg
 
 - name: Finger Drumming
-  img: /assets/img/instruments/finger_drumming.jpg
+  img: /assets/img/instruments/maschine.jpg
 
-- name: Keys & Looping
-  img: /assets/img/instruments/keys.jpg
+- name: Keys
+  img: /assets/img/instruments/akai.jpg
 
