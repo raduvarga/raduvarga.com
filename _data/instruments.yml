@@ -7,13 +7,13 @@ items:
   img: /assets/img/gray.jpg
 
 - name: Caval
-  img: /assets/img/gray.jpg
+  img: /assets/img/instruments/caval.jpg
 
 - name: Santur
-  img: /assets/img/gray.jpg
+  img: /assets/img/instruments/santur.jpg
 
 - name: Guitar
-  img: /assets/img/gray.jpg
+  img: /assets/img/instruments/guitar.jpeg
 
 - name: Bass
-  img: /assets/img/gray.jpg
+  img: /assets/img/instruments/bass.jpeg
