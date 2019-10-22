@@ -1,11 +1,5 @@
 items:
 
-- name: Finger Drumming
-  img: /assets/img/gray.jpg
-
-- name: Keys
-  img: /assets/img/gray.jpg
-
 - name: Caval
   img: /assets/img/instruments/caval.jpg
 
@@ -17,3 +11,10 @@ items:
 
 - name: Bass
   img: /assets/img/instruments/bass.jpeg
+
+- name: Finger Drumming
+  img: /assets/img/instruments/finger_drumming.jpg
+
+- name: Keys & Looping
+  img: /assets/img/instruments/keys.jpg
+

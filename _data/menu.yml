@@ -3,8 +3,8 @@ items:
 - title: Home
   url: /
 
-- title: About
-  url: /about
+# - title: About
+#   url: /about
 
 - title: Instruments
   url: /instruments
@@ -15,8 +15,8 @@ items:
 - title: Video
   url: /video
 
-- title: Photos
-  url: /photos
+- title: Photo
+  url: /photo
 
 - title: Concerts
   url: /concerts

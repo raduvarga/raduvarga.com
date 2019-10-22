@@ -2,7 +2,8 @@
 title: About Me
 layout: single-post
 permalink: /about
-img: /assets/img/about.jpg
+img: /assets/img/home.jpg
+aspect_photo: true
 ---
 
 About

@@ -2,22 +2,33 @@
 
 		<div class="post-media">
 
-			<div class="slick-items">
+			{% if include.aspect_photo == true %}
 
-				{% for item in include.img %}
-				<span>
-					<img src="{{ item }}">
-			</span>
-				{% endfor %}
+				<div class="aspect-ratio-photo" >
+						<img class="aspect-img post-img" src="{{ include.img }}">
+				</div>
 
-				{% for item in include.video %}
-				<span>
-					{% include youtube.html uri = item
-	  						  ratio = "hd" %}
-			</span>
-				{% endfor %}
+			{% else %}
 
-			</div>
+				<div class="slick-items"> 
+
+					{% for item in include.img %}
+					<span>
+						<img src="{{ item }}">
+					</span>
+					{% endfor %}
+
+					{% for item in include.video %}
+					<span>
+						{% include youtube.html uri = item
+		  						  ratio = "hd" %}
+				</span>
+					{% endfor %}
+
+				</div>
+
+			{% endif %}
+
 		</div>
 
 	<div class="post-content">

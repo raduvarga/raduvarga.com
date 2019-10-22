@@ -10,6 +10,17 @@
 
 (function ($) {
 
+// load default image
+$(window).load(function() {
+  $('img').each(function() {
+    if (!this.complete || typeof this.naturalWidth == "undefined" || this.naturalWidth == 0) {
+      // image was broken, replace with your new image
+      this.src = '/assets/img/gray.jpg';
+    }
+  });
+});
+
+// redirect event
 $(".clickable-row").on('click', function (e, row, el) {
 	console.log(e);
 	console.log(e.currentTarget);
@@ -30,6 +41,7 @@ $('[date]').each(function(e) {
   }
 });
 
+// slick swipe for projects
 $('.slick-items').slick({
 	infinite: false,
 	adaptiveHeight: true,
