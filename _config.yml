@@ -26,11 +26,11 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.raduvarga.com/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Social
-facebook_username: radu.a.varga
+facebook_username: antonioraduvarga
 instagram_username: antonioraduvarga
-youtube_channel: UC4yvQZ-P2tKyllgnp0Mf5sQ
-github_username:  vargaradu
-soundcloud_username: antonio-radu-varga
+youtube_channel: raduvarga
+github_username:  raduvarga
+soundcloud_username: raduvarga
 
 # Build settings
 theme: minima

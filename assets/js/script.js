@@ -11,14 +11,14 @@
 (function ($) {
 
 // load default image
-// $(window).load(function() {
-//   $('img').each(function() {
-//     if (!this.complete || typeof this.naturalWidth == "undefined" || this.naturalWidth == 0) {
-//       // image was broken, replace with your new image
-//       this.src = '/assets/img/gray.jpg';
-//     }
-//   });
-// });
+$(window).load(function() {
+  $('img').each(function() {
+    if (!this.complete || typeof this.naturalWidth == "undefined" || this.naturalWidth == 0) {
+      // image was broken, replace with your new image
+      this.src = '/assets/img/gray.jpg';
+    }
+  });
+});
 
 // redirect event
 $(".clickable-row").on('click', function (e, row, el) {
