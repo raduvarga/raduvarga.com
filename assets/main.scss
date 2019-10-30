@@ -152,6 +152,10 @@ table {
 	}
 }
 
+#player {
+	max-width: auto !important;
+}
+
 .fa-external-link {
 	padding: 0 10px 0 10px;
 }
@@ -180,12 +184,12 @@ table {
 	object-position: top;
 }
 
-.youtube-container {
+.aspect-ratio-container {
   margin-bottom: $margin-bottom;
 }
 
 /* Adjust the iframe so it's rendered in the outer-width and outer-height of it's parent */
-.youtube-container iframe {
+.aspect-ratio-container iframe {
   position: absolute;
   width: 100%;
   height: 100%;
@@ -1057,13 +1061,13 @@ body {
 		background-color: $post_background;
 		padding: 50px 50px 40px;
 	}
-	.youtube-container  iframe {
+	.aspect-ratio-container  iframe {
 		margin-bottom: 0;
 	}
 	.post-media {
 		width: 100%;
 
-		.youtube-container {
+		.aspect-ratio-container {
 			margin-bottom: 0px;
 		}
 	}
@@ -1430,7 +1434,7 @@ body {
 
 /* ===========  9. Responsive  =========== */
 @media screen and (max-width: 991px) {
-	.youtube-container {
+	.aspect-ratio-container {
 		margin-bottom: 10px;
 	}
 	.preload {

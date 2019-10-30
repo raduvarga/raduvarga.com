@@ -6,8 +6,13 @@ img:
 - /assets/img/collaborations/siti.jpg
 - /assets/img/gallery/1 siti/1.jpg
 video: VtoP1EtA45g
+soundcloud:
+- playlists/911857222
+- users/320552002
+bandcamp: 
 website: https://soundcloud.com/sitinaturaleza
 ---
+
 Siti Naturaleza is taking you on a deeply mystical journey, inspired by her connection to mother nature.
 
 Authentic, raw, a unique expression of the divine feminine. She is pouring all her heart into her art, creating an unforgettable experience that will touch you in the depths of your being.
