@@ -58,4 +58,20 @@ $('.slick-prev').click(function(){
     $('.slick-itemsa').slick('slickPrev');
 });
 
+// window.fbAsyncInit = function() {
+//   FB.init({
+//     appId      : '{your-app-id}',
+//     xfbml      : true,
+//     version    : 'v3.2'
+//   });
+
+//   // Get Embedded Video Player API Instance
+//   var my_video_player;
+//   FB.Event.subscribe('xfbml.ready', function(msg) {
+//     if (msg.type === 'video') {
+//       my_video_player = msg.instance;
+//     }
+//   });
+// };
+
 })(jQuery);

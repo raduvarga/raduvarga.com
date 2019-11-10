@@ -5,6 +5,13 @@ permalink: /video
 ---
 
 {% for item in site.data.videos.items %}
-  {% include youtube.html uri = item.src 
-  						  ratio = "hd" %}
+
+	{% if item.fb %}
+	  {% include facebook.html uri = item.fb 
+	  						 					   ratio = "hd" %}
+  {% elsif item.yt %}
+ 		{% include youtube.html uri = item.yt 
+  						  						ratio = "hd" %}
+  {% endif %}
+
 {% endfor %}
