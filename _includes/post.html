@@ -11,12 +11,6 @@
 			{% else %}
 
 				<div class="slick-items"> 
-					<!-- img -->
-					{% for item in include.img %}
-					<span>
-						<img src="{{ item }}">
-					</span>
-					{% endfor %}
 
 					<!-- video -->
 					{% for item in include.video %}
@@ -39,6 +33,13 @@
 					<span>
 						{% include bandcamp.html uri = item
 		  						  								 ratio = "photo" %}
+					</span>
+					{% endfor %}
+					
+					<!-- img -->
+					{% for item in include.img %}
+					<span>
+						<img src="{{ item }}">
 					</span>
 					{% endfor %}
 

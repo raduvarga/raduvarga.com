@@ -1,5 +1,11 @@
 items:
 
+- date: "2020-03-07"
+  venue: Nebenan
+  city: Leipzig
+  country: DE
+  href: https://www.facebook.com/events/
+
 - date: "2019-10-21"
   venue: LOFFT
   city: Leipzig

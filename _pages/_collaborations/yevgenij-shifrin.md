@@ -2,7 +2,9 @@
 title: Yevgenij Shifrin
 layout: single-post
 permalink: /collaborations/yevgenij-shifrin
-img: /assets/img/collaborations/yevgenij.jpg
+img: 
+- /assets/img/collaborations/yevgenij.jpg
+- /assets/img/collaborations/yevgenij-black.jpg
 video: 2NLxce5bBBY
 soundcloud: playlists/864579057
 <!-- bandcamp: album=4155025283 -->
