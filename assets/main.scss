@@ -595,6 +595,7 @@ body {
 	background: $body_background;
 	color: $body_color;
 	overflow-x: hidden;
+	overflow: overlay;
 	line-height: $body_line_height;
 	word-spacing: 1px;
 }
