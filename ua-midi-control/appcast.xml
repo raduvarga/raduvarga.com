@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>UA Midi Control</title>
+        <item>
+            <title>2.1</title>
+            <pubDate>Thu, 18 Jun 2020 17:11:38 +0200</pubDate>
+            <description><![CDATA[This is the first release of the full product.]]></description>
+            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+            <enclosure url="https://www.raduvarga.com/app.2.1.zip" sparkle:version="14" sparkle:shortVersionString="2.1" length="5954071" type="application/octet-stream" sparkle:edSignature="A6nTW2O6DKlHY2ugAhJZQ1LhxOkCNEj3WvlSxPWQjq0H0TaBQovX8xAj+Gdi7eU+fDojtz8kYDvbqAG6o8ydDg=="/>
+        </item>
+    </channel>
+</rss>
