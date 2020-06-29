@@ -9,6 +9,7 @@ img:
 - /assets/img/software/ua-screenshot-light.png
 video: 3LLFUaXEhuY
 html-class: software
+description: Software
 ---
 
 UA Midi Control allows you to control the Apollo Console software via Midi.

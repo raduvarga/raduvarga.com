@@ -9,6 +9,7 @@ img:
 - /assets/img/software/max-arm-exclusive.png
 website: https://maxforlive.com/profile/user/vargaradu
 html-class: max-for-live
+description: Software
 ---
 
 Various Max for Live devices for Ableton Live users, available for free on the official maxforlive website.

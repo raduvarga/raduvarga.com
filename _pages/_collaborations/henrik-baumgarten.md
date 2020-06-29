@@ -9,6 +9,7 @@ video: JwEKpQYzcPA
 soundcloud: playlists/1004160565
 bandcamp: 
 website: http://bediscology.de
+description: Collaborations
 ---
 
 Henrik Baumgarten, geboren in Berlin 1990, begann seine musikalische Ausbildung mit 11 Jahren.
