@@ -33,7 +33,7 @@ $link_hover_color_white: #ffffff;
 
 $title_font: 'Lato', serif;
 $title_color: #4a4a4a;
-$sub_title_color: #a3a3a3;
+$sub_title_color: #868686;
 $event_past_color: #8c8c8c;
 $title_line_height: 30px;
 $title_size: 24px;
@@ -1106,6 +1106,28 @@ body {
 			&:hover {
 				opacity: 0.5;
 			}
+		}
+
+		.title-download {
+			float: right;
+
+			a {
+				color: #000000;
+				font-size: 32px;
+				float: right;
+
+
+				&:hover {
+					opacity: 0.5;
+				}
+			}
+
+			p {
+				font-size: 11px;
+				text-align: right;
+				color: $sub_title_color;
+			}
+
 		}
 	}
 	.aspect-ratio-container  iframe {

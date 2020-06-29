@@ -8,6 +8,9 @@
 
 'use strict';
 
+let counterHitUrl = "https://api.countapi.xyz/hit/raduvarga.com/";
+let counterGetUrl = "https://api.countapi.xyz/get/raduvarga.com/";
+
 (function ($) {
 
 // load default image
@@ -58,20 +61,37 @@ $('.slick-prev').click(function(){
     $('.slick-itemsa').slick('slickPrev');
 });
 
-// window.fbAsyncInit = function() {
-//   FB.init({
-//     appId      : '{your-app-id}',
-//     xfbml      : true,
-//     version    : 'v3.2'
-//   });
+$("a.fa-download").on("click", function (e) {
+  let counterKey = $(e.currentTarget).attr("counter-key");
 
-//   // Get Embedded Video Player API Instance
-//   var my_video_player;
-//   FB.Event.subscribe('xfbml.ready', function(msg) {
-//     if (msg.type === 'video') {
-//       my_video_player = msg.instance;
-//     }
-//   });
-// };
+  if (counterKey && counterKey != "") {
+    $.ajax({url: counterHitUrl + counterKey, 
+      success: function(result) {
+        $(e.currentTarget).next().html(numberWithCommas(result.value));
+    }});
+  }
+});
+
+function refreshCounter(counterKey) {
+  let $counter = $(".title-download").find(".counter[counter-key=" + counterKey + "]");
+
+
+  console.log($counter.length);
+  // if we are on the counter page
+  if ($counter.length > 0) {
+
+
+    $.ajax({url: counterGetUrl + counterKey, 
+      success: function(result){
+        $counter.html(numberWithCommas(result.value));
+    }});
+  }
+}
+
+refreshCounter("ua-midi-control-app");
+
+function numberWithCommas(x) {
+    return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+}
 
 })(jQuery);

@@ -59,7 +59,11 @@
 				<h2 class="title"> {{ include.title }} </h2>
 			</span>
 			{% if include.download %}
-				<a href="{{ include.download }}" class="title-link fa fa-download"></a>
+				<div class="title-download">
+					<a href="{{ include.download }}" class="fa fa-download" counter-key="{{ include.counter-key }}"></a>
+					<p class="counter" counter-key="{{ include.counter-key }}"> </p>
+				</div>
+				
 			{% endif %}
 			{% if include.website %}
 				<a href="{{ include.website }}" class="title-link fa fa-external-link" target="_blank"></a>

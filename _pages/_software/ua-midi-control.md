@@ -4,6 +4,7 @@ layout: single-project
 permalink: /software/ua-midi-control
 logo: /assets/img/software/ua-logo.png
 download: http://ua-midi-control.raduvarga.com/UA Midi Control.zip
+counter-key: ua-midi-control-app
 img: 
 - /assets/img/software/ua-screenshot-dark.png
 - /assets/img/software/ua-screenshot-light.png
