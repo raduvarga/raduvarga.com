@@ -3,7 +3,7 @@ title: UA Midi Control
 layout: single-project
 permalink: /software/ua-midi-control
 logo: /assets/img/software/ua-logo.png
-download: http://ua-midi-control.raduvarga.com/UA Midi Control.zip
+download: https://objects-us-east-1.dream.io/ua-midi-control/UA%20Midi%20Control.zip
 counter-key: ua-midi-control-app
 img: 
 - /assets/img/software/ua-screenshot-dark.png
