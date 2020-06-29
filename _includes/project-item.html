@@ -1,0 +1,13 @@
+{% if include.href != null %}{%assign aTag = "<a href='" | append: include.href | append: "' class='clickable'>"%}{% endif %}
+{% if include.href == null %}{%assign aTag = "<a class='not-clickable'>"%}{% endif %}
+
+<div class="project-item aspect-ratio-photo">
+		{{ aTag }}
+		  <img class="aspect-img" src="{{ include.img }}" >
+		</a>
+	<h2 class="title">
+	  {{ aTag }}
+			{{ include.name }}
+		</a>
+	</h2>
+</div>

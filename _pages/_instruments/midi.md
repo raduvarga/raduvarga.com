@@ -1,6 +1,6 @@
 ---
 title: Midi
-layout: single-post
+layout: single-project
 permalink: /instruments/midi
 img: /assets/img/gray.jpg
 ---

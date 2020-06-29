@@ -38,7 +38,7 @@ theme: minima
 plugins:
   - jekyll-feed
 
-include: ['_pages', '_collaborations', '_instruments']
+include: ['_pages', '_collaborations', '_instruments', '_software']
 
 # Exclude from processing.
 # The following items will not be processed, by default.

@@ -1,6 +1,6 @@
 ---
 title: Caval
-layout: single-post
+layout: single-project
 permalink: /instruments/caval
 img: /assets/img/gray.jpg
 ---

@@ -1,0 +1,9 @@
+items:
+
+- name: UA Midi Control
+  img: /assets/img/software/ua-screenshot-dark.png
+  href: /software/ua-midi-control
+
+- name: Max for Live
+  img: /assets/img/software/max-for-live.png
+  href: /software/max-for-live

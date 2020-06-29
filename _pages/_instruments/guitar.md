@@ -1,6 +1,6 @@
 ---
 title: Guitar & Bass
-layout: single-post
+layout: single-project
 permalink: /instruments/guitar
 img: /assets/img/gray.jpg
 ---

@@ -1,9 +1,9 @@
 ---
 title: About Me
-layout: single-post
+layout: single-project
 permalink: /about
 img: /assets/img/home.jpg
-aspect_photo: true
+aspect-photo: true
 ---
 
 Radu Varga started his musical journey at the age of 14, when he picked up an old guitar laying around the house in his hometown Reghin, Romania. As with many teenagers, at the beginning electric guitar and rock music was the main focus, but after having his first guitar lesson at 16 and being immediately fascinated with Classical Guitar, he started studying it intensely and has been regularly going to masterclasses with world renowned players and teachers.

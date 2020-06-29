@@ -156,6 +156,23 @@ table {
 	max-width: auto !important;
 }
 
+.form-privacy input {
+	cursor: pointer;
+	width: 18px;
+	height: 18px;
+	margin-top: 2px;
+	position: relative;
+	margin-right: 8px;
+}
+
+.form-privacy span{
+	position: absolute;
+}
+
+.form-privacy a {
+	color: dodgerblue;
+}
+
 .fa-external-link {
 	padding: 0 10px 0 10px;
 }
@@ -168,7 +185,7 @@ table {
 }
 
 .aspect-ratio-photo {
-	position: relative;
+  position: relative;
   width: 100%;
   height: 0;
   padding-bottom: 66.66%;
@@ -557,6 +574,11 @@ img {
 	height: auto;
 	vertical-align: middle;
 	border: 0;
+}
+
+.max-for-live img {
+	max-height: 300px;
+	object-fit: contain;
 }
 
 input[type="search"], input[type="text"], input[type="url"], input[type="number"], input[type="password"], input[type="email"], input[type="file"], select, textarea {
@@ -992,10 +1014,6 @@ body {
 	}
 }
 
-.title {
-		margin-bottom: 0px !important;
-}
-
 .project {
 	.detail-content {
 		padding: 50px;
@@ -1006,6 +1024,7 @@ body {
 		color: #000000;
 		margin-bottom: 0px !important;
 	}
+
 	a {
 		color: #000000 !important;
 		font-weight: 700;
@@ -1061,6 +1080,33 @@ body {
 	.post-content {
 		background-color: $post_background;
 		padding: 50px 50px 40px;
+
+		.title-span {
+			display: inline-table;
+		}
+
+		.title-logo {
+			display: table-cell;
+			vertical-align: middle;
+			object-fit: cover;
+			margin-right: 14px;
+			width: 38px;
+		}
+
+		.title {
+			display: table-cell;
+			vertical-align: middle;
+		}
+
+		.title-link {
+			color: #000000;
+			float: right;
+			font-size: 32px;
+
+			&:hover {
+				opacity: 0.5;
+			}
+		}
 	}
 	.aspect-ratio-container  iframe {
 		margin-bottom: 0;
@@ -1116,7 +1162,7 @@ body {
 
 .post-details {
 	font-style: italic;
-	font-size: 12px;
+	font-size: 12.5px;
 
 	a {
 		display: inline-block;

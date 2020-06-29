@@ -1,6 +1,6 @@
 ---
 title: Siti Naturaleza
-layout: single-post
+layout: single-project
 permalink: /collaborations/siti-naturaleza
 img: 
 - /assets/img/collaborations/siti.jpg

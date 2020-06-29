@@ -6,8 +6,8 @@ items:
 - title: About
   url: /about
 
-- title: Instruments
-  url: /instruments
+# - title: Instruments
+#   url: /instruments
 
 - title: Music
   url: /music
@@ -24,8 +24,8 @@ items:
 - title: Collaborations
   url: /collaborations
 
-# - title: Programming
-#   url: /programming
+- title: Software
+  url: /software
 
 - title: Contact
   url: /contact

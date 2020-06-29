@@ -1,6 +1,6 @@
 ---
 title: Santur
-layout: single-post
+layout: single-project
 permalink: /instruments/santur
 img: /assets/img/gray.jpg
 ---

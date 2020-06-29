@@ -1,6 +1,6 @@
 ---
 title: The Anté Dote
-layout: single-post
+layout: single-project
 permalink: /collaborations/the-ante-dote
 img: /assets/img/collaborations/ante.jpg
 video: nsYJ-KgMkd4
