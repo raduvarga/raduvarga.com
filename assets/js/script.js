@@ -75,12 +75,8 @@ $("a.fa-download").on("click", function (e) {
 function refreshCounter(counterKey) {
   let $counter = $(".title-download").find(".counter[counter-key=" + counterKey + "]");
 
-
-  console.log($counter.length);
   // if we are on the counter page
   if ($counter.length > 0) {
-
-
     $.ajax({url: counterGetUrl + counterKey, 
       success: function(result){
         $counter.html(numberWithCommas(result.value));
