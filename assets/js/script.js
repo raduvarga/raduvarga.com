@@ -61,11 +61,11 @@ $('.slick-prev').click(function(){
     $('.slick-itemsa').slick('slickPrev');
 });
 
-$("a.fa-download").on("click", function (e) {
+$(".download-btn").on("click", function (e) {
   let counterKey = $(e.currentTarget).attr("counter-key");
 
   if (counterKey && counterKey != "") {
-    $.ajax({url: counterHitUrl + counterKey, 
+    $.ajax({url: counterHitUrl + counterKey,
       success: function(result) {
         $(e.currentTarget).next().html(numberWithCommas(result.value));
     }});

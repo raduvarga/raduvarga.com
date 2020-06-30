@@ -60,7 +60,10 @@
 			</span>
 			{% if include.download %}
 				<div class="title-download">
-					<a href="{{ include.download }}" class="fa fa-download" counter-key="{{ include.counter-key }}"></a>
+					<a href="{{ include.download }}" class="download-btn" counter-key="{{ include.counter-key }}">
+						<i class="fa fa-download"></i>
+						<b> Download </b>
+					</a>
 					<p class="counter" counter-key="{{ include.counter-key }}"> </p>
 				</div>
 				
