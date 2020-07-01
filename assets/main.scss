@@ -303,7 +303,7 @@ hr {
 	background-color: #ababab;
 }
 
-pre, textarea {
+pre {
 	overflow: auto;
 }
 
@@ -1391,9 +1391,11 @@ body {
 	}
 
 	textarea {
-		padding-top: 5px;
-		height: 100px;
-		resize: vertical;
+		padding-top: 6px;
+		padding-bottom: 6px;
+		resize: none;
+		overflow: hidden;
+		height: auto;
 	}
 	.submit {
 		display: inline-block;

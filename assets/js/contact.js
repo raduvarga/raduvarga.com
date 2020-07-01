@@ -4,11 +4,13 @@ $("#contact-form").submit(function (e) {
 	let name = $("input[name=name]").val();
 	let email = $("input[name=email]").val();
 	let subject = $("input[name=subject]").val();
-	let body = $("textarea[name=message]").val();
+	var body = $("textarea[name=message]").val();
 
 	console.log("sending email...");
 	$(".contact-message").html("");
 	$("#submit").prop("disabled", true);
+
+	body = body.replaceAll("\n", "<br>");
 
 	Email.send({
 		SecureToken : "62b91dc8-18f3-43bc-9531-f6b90c6e8a7d",
@@ -29,3 +31,11 @@ $("#contact-form").submit(function (e) {
   	}
 	});
 });
+
+String.prototype.replaceAll = function(search, replace){
+   return this.replace(new RegExp(search, 'g'), replace)
+}
+
+autosize($('textarea'));
+
+console.log("hello");
