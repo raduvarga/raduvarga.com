@@ -37,5 +37,3 @@ String.prototype.replaceAll = function(search, replace){
 }
 
 autosize($('textarea'));
-
-console.log("hello");
