@@ -15,14 +15,14 @@ description: Software
 
 UA Midi Control allows you to control the Apollo Console software via Midi.
 
-Features in the free version:
+Features in the <b> FREE </b> version:
 - Control: Volume, Pan, Solo, Mute, Gain, Pad, Phase, LowCut, 48V, Sends
 - Select the button type on your device (Knob, Momentary, Toggle)
 - Edit the range (Min/Max)
 - Mapping is linked to specific midi device
 
 
-Extra features in the full version:
+Extra features in the <b> FULL </b> version (7 Day Trial, then 19€):
 - Control: Effects
 - Synchronized feedback on your midi device with adjustable color
 - Save and load presets to file
