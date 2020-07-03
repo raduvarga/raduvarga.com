@@ -15,7 +15,9 @@ This information will be stored in my contact email account, so it would be just
 
 The way I will use your information is to reply to your inquiries.
 
-There is no other way your information is being stored or used.
+I might also send you relevant updates or changes in the future about the the products or services you have inquired about. 
+
+There is no other way your information is being stored or used than described above.
 
 The website doens't use cookies.
 

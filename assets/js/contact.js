@@ -1,5 +1,6 @@
 $("#contact-form").submit(function (e) {
 	e.preventDefault();
+	$("#submit").prop("disabled", true);
 
 	let name = $("input[name=name]").val();
 	let email = $("input[name=email]").val();
@@ -8,7 +9,6 @@ $("#contact-form").submit(function (e) {
 
 	console.log("sending email...");
 	$(".contact-message").html("");
-	$("#submit").prop("disabled", true);
 
 	body = body.replaceAll("\n", "<br>");
 
