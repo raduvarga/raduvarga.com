@@ -22,13 +22,13 @@ $("#contact-form").submit(function (e) {
 	    Body : body
 	}).then(function(message) {
 		console.log(message);
-		$("#submit").prop("disabled", false);
 
 		if(message == "OK") {
 			$(".contact-message").html("Your message was succesfully sent!");
-  	} else {
-  		$(".contact-message").html("There was an error sending your message: " + message);
-  	}
+	  	} else {
+			$("#submit").prop("disabled", false);
+	  		$(".contact-message").html("There was an error sending your message: " + message);
+	  	}
 	});
 });
 
