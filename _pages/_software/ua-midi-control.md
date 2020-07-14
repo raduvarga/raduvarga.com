@@ -22,7 +22,7 @@ Features in the <b> FREE </b> version:
 - Mapping is linked to specific midi device
 
 
-Extra features in the <b> FULL </b> version (7 Day Trial, then 19€):
+Extra features in the <b> FULL </b> version (14 Day Trial, then 19€):
 - Control: Effects
 - Synchronized feedback on your midi device with adjustable color
 - Save and load presets to file
