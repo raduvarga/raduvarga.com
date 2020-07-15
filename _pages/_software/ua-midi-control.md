@@ -16,7 +16,7 @@ description: Software
 UA Midi Control allows you to control the Apollo Console software via Midi.
 
 Features in the <b> FREE </b> version:
-- Control Input & Aux Channels
+- Control Input Channels
 - Control Channel Monitoring: Volume, Mute, Pan, Solo, Sends, UAD REC
 - Control Preamps: Gain, 48V, Low Cut, Phase, Pad 
 - Control Sends: Gain, Mute, Pan
@@ -25,8 +25,8 @@ Features in the <b> FREE </b> version:
 - Mapping is linked to specific midi device
 
 Extra features in the <b> FULL </b> version:
+- Control Aux & Output (Monitoring, CUE, HP) Channels
 - Control Effects: Power, all individual Parameters
-- Control Output Channels: Monitoring, CUE, HP
 - Synchronized feedback on your midi device with adjustable color
 - Save and load file presets
 
