@@ -24,7 +24,8 @@ Features in the <b> FREE </b> version:
 - Mapping is linked to specific midi device
 
 Extra features in the <b> FULL </b> version:
-- Control Effects: Power, all individual Parameters
+- Control Inserts: Power, all individual Effect Parameters
+- Control Unison: Power, all individual Effect Parameters
 - Control Aux: Volume, Mute, Mono, Inserts, Sends
 - Control Outputs (Monitoring, CUE, HP): Volume, Mute, Mono, Source
 - Synchronized feedback on your midi device with adjustable color
