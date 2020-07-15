@@ -29,6 +29,6 @@ Extra features in the <b> FULL </b> version:
 - Control Output Channels: Monitoring, CUE, HP
 - Synchronized feedback on your midi device with adjustable color
 - Save and load file presets
-- Pricing: 14 Day Trial, then ~~49~~€ 19€ (sale valid until 21 Jul 2020)
+- Pricing: 14 Day Trial, then ~~49€~~ 19€ (sale valid until 21 Jul 2020)
 
 The App is currently only available for Mac <i style="margin-left: 2px" class="fa fa-apple"></i>
