@@ -26,7 +26,7 @@ Features in the <b> FREE </b> version:
 Extra features in the <b> FULL </b> version:
 - Control Inserts & Unison: Power, all individual Effect Parameters
 - Control Aux: Volume, Mute, Mono, Inserts, Sends
-- Control Outputs (Monitoring, CUE, HP): Volume, Mute, Mono, Source
+- Control Outputs (Monitoring, CUE, HP): Volume, Mute, Mono, Dim, Alt, Source
 - Synchronized feedback on your midi device with adjustable color
 - Save and load file presets
 
