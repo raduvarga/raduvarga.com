@@ -1,8 +1,8 @@
 ---
 title: Henrik Baumgarten
-image: assets/img/collaborations/henrik.jpg
+image: /assets/img/collaborations/henrik.jpg
 layout: single-project
-permalink: collaborations/henrik-baumgarten
+permalink: /collaborations/henrik-baumgarten
 img: 
 - /assets/img/collaborations/henrik-black.jpg
 - /assets/img/collaborations/henrik.jpg
