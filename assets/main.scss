@@ -468,6 +468,16 @@ a {
 	}
 }
 
+.software .post-content .the-content {
+	a {
+		color: $link_hover_color !important;
+
+		&:hover {
+			color: $sub_title_color !important;
+		}
+	}
+}
+
 .quicklinks  a {
 	&:hover,
 	&:active,
