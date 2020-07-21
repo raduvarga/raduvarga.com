@@ -1,8 +1,8 @@
 ---
 title: The Anté Dote
-image: /assets/img/collaborations/ante.jpg
+image: assets/img/collaborations/ante.jpg
 layout: single-project
-permalink: /collaborations/the-ante-dote
+permalink: collaborations/the-ante-dote
 img: /assets/img/collaborations/ante.jpg
 video: nsYJ-KgMkd4
 website: https://ante-dote.net

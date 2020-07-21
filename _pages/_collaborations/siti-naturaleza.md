@@ -1,8 +1,8 @@
 ---
 title: Siti Naturaleza
-image: /assets/img/collaborations/siti.jpg
+image: assets/img/collaborations/siti.jpg
 layout: single-project
-permalink: /collaborations/siti-naturaleza
+permalink: collaborations/siti-naturaleza
 img: 
 - /assets/img/collaborations/siti.jpg
 - /assets/img/gallery/1 siti/1.jpg
