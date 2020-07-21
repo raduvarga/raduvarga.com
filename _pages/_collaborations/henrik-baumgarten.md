@@ -1,5 +1,6 @@
 ---
 title: Henrik Baumgarten
+image: /assets/img/collaborations/henrik.jpg
 layout: single-project
 permalink: /collaborations/henrik-baumgarten
 img: 

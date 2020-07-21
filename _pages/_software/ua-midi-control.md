@@ -1,5 +1,6 @@
 ---
 title: UA Midi Control
+image: /assets/img/software/ua-youtube.jpg
 layout: single-project
 permalink: /software/ua-midi-control
 logo: /assets/img/software/ua-logo.png

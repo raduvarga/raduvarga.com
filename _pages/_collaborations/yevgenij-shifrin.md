@@ -1,5 +1,6 @@
 ---
 title: Yevgenij Shifrin
+image: /assets/img/collaborations/yevgenij.jpg
 layout: single-project
 permalink: /collaborations/yevgenij-shifrin
 img: 
