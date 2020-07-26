@@ -33,9 +33,9 @@ Extra features in the <b> FULL </b> version:
 
 Pricing: 14 Day Trial, then 39€
 
-The App is currently only available for Mac <i style="margin-left: 2px" class="fa fa-apple"></i> 
+The App is currently only available for <b> Mac </b> <i style="margin-left: 2px" class="fa fa-apple"></i> 
 
-Fundraiser for the Windows Version: [https://www.gofundme.com/f/ua-midi-control-windows-version](https://www.gofundme.com/f/ua-midi-control-windows-version)
+Fundraiser for the <b> Windows </b> Version: [https://www.gofundme.com/f/ua-midi-control-windows-version](https://www.gofundme.com/f/ua-midi-control-windows-version)
 
 <i>If you get a Security error while opening the Mac App, do the following: Right Click on the App -> Open.</i> 
 
