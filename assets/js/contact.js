@@ -13,7 +13,7 @@ $("#contact-form").submit(function (e) {
 	body = body.replaceAll("\n", "<br>");
 
 	Email.send({
-		SecureToken : "062ca99c-b9a7-4fd4-80a0-ceb9e9bf963f",
+		SecureToken : "0f6f562b-6e9d-4f75-b6eb-1b45fbe8bbf1",
 	    To : "contact@raduvarga.com",
 	    From : "contact-form@raduvarga.com",
 	    FromName: name,
