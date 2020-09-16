@@ -8,7 +8,6 @@ img:
 - /assets/img/gallery/1 siti/1.jpg
 video: VtoP1EtA45g
 soundcloud:
-- playlists/911857222
 - users/320552002
 bandcamp: 
 website: https://soundcloud.com/sitinaturaleza

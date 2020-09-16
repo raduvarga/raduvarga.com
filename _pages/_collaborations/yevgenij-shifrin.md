@@ -7,7 +7,7 @@ img:
 - /assets/img/collaborations/yevgenij.jpg
 - /assets/img/collaborations/yevgenij-black.jpg
 video: 2NLxce5bBBY
-soundcloud: playlists/864579057
+<!-- soundcloud: playlists/864579057 -->
 <!-- bandcamp: album=4155025283 -->
 website: https://www.shifrinmusic.com
 description: Collaborations

@@ -7,7 +7,6 @@ img:
 - /assets/img/collaborations/henrik-black.jpg
 - /assets/img/collaborations/henrik.jpg
 video: JwEKpQYzcPA
-soundcloud: playlists/1004160565
 bandcamp: 
 website: http://bediscology.de
 description: Collaborations
