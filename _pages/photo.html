@@ -9,7 +9,7 @@ permalink: /photo
 {% for item in site.static_files %}
 
   {% if item.path contains 'gallery' and 
-  	 item.path contains "jpg" %}
+  	    (item.path contains "jpg" or item.path contains "jpeg") %}
   <div class="project-item">
     <a href="{{ item.path }}">
     	<img src="{{ item.path }}" alt="">
