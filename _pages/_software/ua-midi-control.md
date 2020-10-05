@@ -29,7 +29,8 @@ Extra features in the <b> FULL </b> version:
 - Control Aux: Volume, Mute, Mono, Inserts, Sends
 - Control Outputs (Monitoring, CUE, HP): Volume, Mute, Mono, Dim, Alt, Source
 - Synchronized feedback on your midi device with adjustable color
-- Save and load file presets
+- Save and load file Presets
+- Link Console Sessions with Presets and midi map them
 
 Pricing: 14 Day Trial, then 39€
 
