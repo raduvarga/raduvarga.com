@@ -10,6 +10,7 @@ img:
 - /assets/img/software/ua-screenshot-dark.png
 - /assets/img/software/ua-screenshot-light.png
 video: 3LLFUaXEhuY
+fundraiser: ua-midi-control
 html-class: software
 description: Software
 ---
@@ -25,8 +26,8 @@ Features in the <b> FREE </b> version:
 - Mapping is linked to specific midi device
 
 Extra features in the <b> FULL </b> version:
-- Control Inserts & Unison: Power, all individual Effect Parameters
-- Control Aux: Volume, Mute, Mono, Inserts, Sends
+- Control Inserts & Unison: Power, all Effect Parameters, all Effect Presets
+- Control Aux: Volume, Mute, Mono, Pre/Post, Inserts, Sends
 - Control Outputs (Monitoring, CUE, HP): Volume, Mute, Mono, Dim, Alt, Source
 - Synchronized feedback on your midi device with adjustable color
 - Save and load file Presets
@@ -34,9 +35,8 @@ Extra features in the <b> FULL </b> version:
 
 Pricing: 14 Day Trial, then 39€
 
-The App is currently only available for <b> Mac </b> <i style="margin-left: 2px" class="fa fa-apple"></i> 
+The App is only available for <b> Mac </b> <i style="margin-left: 2px" class="fa fa-apple"></i> at the moment. 
 
-Fundraiser for the <b> Windows </b> Version: [https://www.gofundme.com/f/ua-midi-control-windows-version](https://www.gofundme.com/f/ua-midi-control-windows-version)
+The <b> Windows </b> <i style="margin-left: 2px" class="fa fa-windows"></i> Version is currently in development. See details below.
 
-<i>If you get a Security error while opening the Mac App, do the following: Right Click on the App -> Open.</i> 
-
+<i>Note: If you get a Security error while opening the Mac App, do the following: <br/> Right Click on the App -> Open.</i> 

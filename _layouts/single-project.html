@@ -2,15 +2,14 @@
 layout: default
 ---
 
-{% include project.html   title = page.title
-	                      img = page.img
-	                      logo = page.logo
-	                      download = page.download
-	                      html-class = page.html-class
-	                      counter-key = page.counter-key
-	                      aspect-photo = page.aspect-photo
-	                      video = page.video
-	                      soundcloud = page.soundcloud
-	                      bandcamp = page.bandcamp
-	                      website = page.website
-	                      content = content  %}
+{% include project.html project = page
+						content = content %}
+
+
+{% if page.fundraiser != nil %}
+
+	{% assign fund = site.fundraisers | where:"slug", page.fundraiser-tag  | first %}
+
+	{% include fundraisers.html fundraiser = fund %}
+
+{% endif %}
