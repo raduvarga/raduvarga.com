@@ -27,7 +27,7 @@ In case of any requests about your data, please contact me via email or any of t
 <div class="post-footer">
 	<div class="post-share-wrap">
 		<div class="post-share">
-		{%- include social.html -%}
+			{% include social.html %}
 		</div>
 	</div>
 </div>

@@ -20,7 +20,7 @@ If you wish to get in contact for booking or any other reason, feel free to leav
 		<textarea name="message" placeholder="Message *" rows="6" required></textarea>
 	</div>
 	<div class="contact-item form-privacy">
-		<input  name="privacy" type="checkbox" required> </input>
+		<input name="privacy" type="checkbox" required>
 		<span> I accept the <a href="/privacy-policy" target="_blank"> Privacy Policy </a> </span>
 	</div>
 	<div class="contact-item form-submit">
@@ -32,7 +32,9 @@ If you wish to get in contact for booking or any other reason, feel free to leav
 <div class="post-footer">
 	<div class="post-share-wrap">
 		<div class="post-share">
-		{%- include social.html -%}
+
+		{% include social.html %}
+		
 		</div>
 	</div>
 </div>

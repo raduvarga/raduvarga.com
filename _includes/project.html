@@ -1,11 +1,11 @@
-<article class="post {{ include.html-class }}">
+<article class="post {{ include.project.html-class }}">
 
 		<div class="post-media">
 
-			{% if include.aspect-photo == true %}
+			{% if include.project.aspect-photo == true %}
 
 				<div class="aspect-ratio-photo" >
-						<img class="aspect-img post-img" src="{{ include.img }}">
+						<img class="aspect-img post-img" src="{{ include.project.img }}">
 				</div>
 
 			{% else %}
@@ -13,7 +13,7 @@
 				<div class="slick-items"> 
 
 					<!-- video -->
-					{% for item in include.video %}
+					{% for item in include.project.video %}
 					<span>
 						{% include youtube.html uri = item
 		  						  								ratio = "hd" %}
@@ -21,7 +21,7 @@
 					{% endfor %}
 
 					<!-- soundcloud -->
-					{% for item in include.soundcloud %}
+					{% for item in include.project.soundcloud %}
 					<span>
 						{% include soundcloud.html uri = item
 		  						  									 ratio = "photo" %}
@@ -29,7 +29,7 @@
 					{% endfor %}
 
 					<!-- bandcamp -->
-					{% for item in include.bandcamp %}
+					{% for item in include.project.bandcamp %}
 					<span>
 						{% include bandcamp.html uri = item
 		  						  								 ratio = "photo" %}
@@ -37,7 +37,7 @@
 					{% endfor %}
 					
 					<!-- img -->
-					{% for item in include.img %}
+					{% for item in include.project.img %}
 					<span>
 						<img src="{{ item }}">
 					</span>
@@ -52,36 +52,36 @@
 	<div class="post-content">
 		<div class="title-div">
 			<span class="title-span"> 
-				{% if include.logo %}
-					<img class="title-logo" src="{{ include.logo }}"></img>
+				{% if include.project.logo %}
+					<img class="title-logo" src="{{ include.project.logo }}"></img>
 				{% endif %}
 
-				<h2 class="title"> {{ include.title }} </h2>
+				<h2 class="title"> {{ include.project.title }} </h2>
 			</span>
-			{% if include.download %}
+			{% if include.project.download %}
 				<div class="title-download">
-					<a href="{{ include.download }}" class="download-btn" counter-key="{{ include.counter-key }}">
+					<a href="{{ include.project.download }}" class="download-btn" counter-key="{{ include.project.counter-key }}">
 						<i class="fa fa-download"></i>
 						<b> Download </b>
 					</a>
-					<p class="counter" counter-key="{{ include.counter-key }}"> </p>
+					<p class="counter" counter-key="{{ include.project.counter-key }}"> </p>
 				</div>
 				
 			{% endif %}
-			{% if include.website %}
-				<a href="{{ include.website }}" class="title-link fa fa-external-link" target="_blank"></a>
+			{% if include.project.website %}
+				<a href="{{ include.project.website }}" class="title-link fa fa-external-link" target="_blank"></a>
 			{% endif %}
 		 </div>
 
-		{% if include.website %}
+		{% if include.project.website %}
 			<div class="post-details">
-				<a href="{{ include.website }}" class="post-url" target="_blank">{{ include.website }}</a>
+				<a href="{{ include.project.website }}" class="post-url" target="_blank">{{ include.project.website }}</a>
 			</div>
 		{% endif %}
 
 		<!-- The Content -->
 		<div class="the-content">
-			{{ include.content }}
+			{{ include.project.content | markdownify }}
 		</div>
 		<!-- End The Content -->
 
