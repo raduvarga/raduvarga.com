@@ -3,9 +3,9 @@ title: Ongoing Development Features
 fundraisers:
 - talkback-button-ua-midi-control
 - midi-inputampoutput-chooser-ua-midi-control
+- mackie-control-ua-midi-control
 - tempo-and-tap-ua-midi-control
 - midi-takeover-mode-ua-midi-control
-- mackie-control-ua-midi-control
 - ua-midi-control-windows-version
 ---
 
