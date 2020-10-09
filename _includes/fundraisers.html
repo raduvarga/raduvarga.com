@@ -1,23 +1,13 @@
-<article class="post fundraiser">
+<article class="post changelog">
 	<div class="post-content">
 		<div class="title-div">
 			<span class="title-span">
-				<h2 class="title"> {{ include.fundraiser.title }} </h2>
+				<h2 class="title"> Changelog </h2>
 			</span>
 		 </div>
 
-		 <div class="the-content">
-
-			{{ include.fundraiser.content | markdownify }}
-
-		</div>
-
-		<div class="the-fundraisers">
-			{% for item in include.fundraiser.fundraisers %}
-			<span>
-				{% include fundraiser.html uri = item %}
-			</span>
-			{% endfor %}
+		<div class="the-changelog">
+			
 		</div>
 
 	</div>
