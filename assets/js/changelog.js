@@ -20,7 +20,7 @@
 
 	$.ajax({
 	  // url: "https://objects-us-east-1.dream.io/ua-midi-control/appcast.xml",
-	  url: "http://ua-midi-control.raduvarga.com/appcast.xml",
+	  url: "https://ua-midi-control.raduvarga.com/appcast.xml",
 	  context: document.body
 	}).done(function(obj) {
 	  
