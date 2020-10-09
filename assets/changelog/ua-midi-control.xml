@@ -130,5 +130,12 @@ Added "Latency" and "Theme" preferences.]]></description>
             <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
             <enclosure url="https://objects-us-east-1.dream.io/ua-midi-control/UA%20Midi%20Control.zip" sparkle:version="96" sparkle:shortVersionString="3.5.0" length="5910792" type="application/octet-stream" sparkle:edSignature="2DTylAau++AQsxdeXU1kUi1L3irt+BFz5DhS/BQtiG/c97SzUIQs13b8qwlaoX1NwWJgr1gU41zmtYhOjq3IBQ=="/>
         </item>
+        <item>
+            <title>3.5.0</title>
+            <pubDate>Fri, 09 Oct 2020 22:34:31 +0200</pubDate>
+            <description><![CDATA[Tesdt]]></description>
+            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+            <enclosure url="https://objects-us-east-1.dream.io/ua-midi-control/UA%20Midi%20Control.zip" sparkle:version="97" sparkle:shortVersionString="3.5.0" length="5915637" type="application/octet-stream" sparkle:edSignature="9zmNPdRyhySDWsY0aGDW7c0PP1yBA0bw6qxzURpt+V8VrcaddUm/j1aIFVLPWWIwbx8H+B7sGSu/bgyTzTJdCg=="/>
+        </item>
     </channel>
 </rss>
