@@ -11,6 +11,7 @@ img:
 - /assets/img/software/ua-screenshot-light.png
 video: 3LLFUaXEhuY
 fundraiser: ua-midi-control
+changelog: ua-midi-control
 html-class: software
 description: Software
 ---

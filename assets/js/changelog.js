@@ -1,30 +1,44 @@
 (function ($) {
+	
+ 	jQuery.fn.reverse = [].reverse;
 
-	// var settings = {
- //          'cache': false,
- //          'dataType': "jsonp",
- //          "async": true,
- //          "crossDomain": true,
- //          "url": "https://objects-us-east-1.dream.io/ua-midi-control/appcast.xml",
- //          "method": "GET",
- //          "headers": {
- //              "accept": "application/json",
- //              "Access-Control-Allow-Origin":"*"
- //          }
- //      }
+ 	var changelogUrl = $(".the-changelog").attr("url");
 
- //      $.ajax(settings).done(function (response) {
- //          console.log(response);
+ 	if (changelogUrl) {
+		$.ajax({
+		  url: changelogUrl,
+		  context: document.body
+		}).done(function(xml) {
+		  
+			 $(xml).find("item").reverse().each(function (index, item) {
+			 	let $item = $(item);
+			 	
+			 	let version = $item.find("title").html();
+			 	let pubDate = $item.find("pubDate").html();
+			 	let description = $item.find("description").html();
 
- //      });
+			 	if(pubDate) {
+			 		pubDate = pubDate.substring(0, pubDate.length - 15);
+			 	}
+			 	if(description) {
+			 		description = description.replace("<![CDATA[", "");
+			 		description = description.replace("]]>", "");
+			 	}
 
-	$.ajax({
-	  // url: "https://objects-us-east-1.dream.io/ua-midi-control/appcast.xml",
-	  url: "https://ua-midi-control.raduvarga.com/appcast.xml",
-	  context: document.body
-	}).done(function(obj) {
-	  
-	  dbg(obj);
-	});
+			 	$(".the-changelog").append('<div class="item">' +
+
+			 							   		'<div class="title">' + version + 
+			 							   			'<span class="date">' + pubDate + 
+			 							   			'</span>' + 
+			 							   		'</div>' +
+
+			 							    	'<div class="description">' + description + 
+			 							    	'</div>' +
+
+			 							    '</div>');
+			 });
+
+		});
+	}
 
 })(jQuery);

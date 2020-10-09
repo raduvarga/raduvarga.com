@@ -8,7 +8,12 @@ layout: default
 {% if page.fundraiser != nil %}
 
 	{% assign fund = site.fundraisers | where:"slug", page.fundraiser-tag  | first %}
-
 	{% include fundraisers.html fundraiser = fund %}
+
+{% endif %}
+
+{% if page.changelog != nil %}
+
+	{% include changelog.html changelog = page.changelog %}
 
 {% endif %}

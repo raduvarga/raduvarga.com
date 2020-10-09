@@ -1,0 +1,134 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>UA Midi Control</title>
+        <item>
+            <title>2.0.0</title>
+            <pubDate>Fri, 03 Jul 2020 13:41:00 +0200</pubDate>
+            <description><![CDATA[First release of commercial version.]]></description>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <enclosure url="https://objects-us-east-1.dream.io/ua-midi-control/UA%20Midi%20Control.zip" sparkle:version="47" sparkle:shortVersionString="2.0.0" length="5816603" type="application/octet-stream" sparkle:edSignature="+VXpNleeubkUCHrl+84xoFzjGbzf7THYmfqg8SF6EYfBBFfP6/tzOt0u9FuDeZ8xDgBxpeZyiCkyBNcHiC3OCg=="/>
+        </item>
+        <item>
+            <title>2.1.0</title>
+            <pubDate>Fri, 03 Jul 2020 13:41:00 +0200</pubDate>
+            <description><![CDATA[Improved Channel ordering with Multi-Units.
+Improved memory usage and CPU performance.
+Added "Latency" and "Theme" preferences.]]></description>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <enclosure url="https://objects-us-east-1.dream.io/ua-midi-control/UA%20Midi%20Control.zip" sparkle:version="48" sparkle:shortVersionString="2.1.0" length="5816603" type="application/octet-stream" sparkle:edSignature="+VXpNleeubkUCHrl+84xoFzjGbzf7THYmfqg8SF6EYfBBFfP6/tzOt0u9FuDeZ8xDgBxpeZyiCkyBNcHiC3OCg=="/>
+        </item>
+        <item>
+            <title>2.1.1</title>
+            <pubDate>Fri, 03 Jul 2020 13:41:00 +0200</pubDate>
+            <description><![CDATA[Added "Status Bar Icon" and "Start Minimized" settings.]]></description>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <enclosure url="https://objects-us-east-1.dream.io/ua-midi-control/UA%20Midi%20Control.zip" sparkle:version="49" sparkle:shortVersionString="2.1.1" length="5816912" type="application/octet-stream" sparkle:edSignature="Mh9hi2GtIqKDHNA6eE+oc+UACudouSHy0x4bmJKCtsF8wS8VnXqA8Hc5MUZUFw0+yLgqON00ipYG+3V4FC1VDQ=="/>
+        </item>
+        <item>
+            <title>3.0.0</title>
+            <pubDate>Fri, 03 Jul 2020 13:41:00 +0200</pubDate>
+            <description><![CDATA[Major Update: Control all individual Effect Parameters, Control Outputs (Monitoring, CUE, HP), Control Send: Mute and Pan, Stereo Linked channels are now supported. Warning: This will break the your old mapping files, you will have to create them again.]]></description>
+            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+            <enclosure url="https://objects-us-east-1.dream.io/ua-midi-control/UA%20Midi%20Control.zip" sparkle:version="56" sparkle:shortVersionString="3.0.0" length="5855129" type="application/octet-stream" sparkle:edSignature="8coSIy+R51Wmv6WGP5bB5TyvT1Q0aRrYRiJSYgu76H24reI6k5t4eWHp542NoJaXstbr1HYXLceIgzCB8m1QDQ=="/>
+        </item>
+        <item>
+            <title>3.0.1</title>
+            <pubDate>Fri, 03 Jul 2020 13:41:00 +0200</pubDate>
+            <description><![CDATA[Major Update: Control all individual Effect Parameters, Control Outputs (Monitoring, CUE, HP), Control Send: Mute and Pan, Stereo Linked channels are now supported. Warning: This will break the your old mapping files, you will have to create them again.]]></description>
+            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+            <enclosure url="https://objects-us-east-1.dream.io/ua-midi-control/UA%20Midi%20Control.zip" sparkle:version="58" sparkle:shortVersionString="3.0.1" length="5856438" type="application/octet-stream" sparkle:edSignature="mJk6ahr8YkQVfEaq9QzizgKgSaT/UDRGHlNSJhs/ImqBCue650ojs+3PnzZxQmJcGBNQQFZBaQXGe7TfkaU+Cw=="/>
+        </item>
+        <item>
+            <title>3.1.0</title>
+            <pubDate>Fri, 03 Jul 2020 13:41:00 +0200</pubDate>
+            <description><![CDATA[Added Midi Feedback to Effect Parameters.]]></description>
+            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+            <enclosure url="https://objects-us-east-1.dream.io/ua-midi-control/UA%20Midi%20Control.zip" sparkle:version="59" sparkle:shortVersionString="3.1.0" length="5854197" type="application/octet-stream" sparkle:edSignature="VoKM2emox0steneDsKqIuATo9DKpJRtgtqjf13C1h0HjjrGbvYMuNfU5lxnJTY7TQtNDhFN3gsMvcQjv7M+mBA=="/>
+        </item>
+        <item>
+            <title>3.2.0</title>
+            <pubDate>Fri, 03 Jul 2020 13:41:00 +0200</pubDate>
+            <description><![CDATA[Added support for Virtual Midi Controllers such as Lemur, TouchOSC, etc. The setting called "Allow Virtual Midi Ports" needs to be enabled.]]></description>
+            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+            <enclosure url="https://objects-us-east-1.dream.io/ua-midi-control/UA%20Midi%20Control.zip" sparkle:version="61" sparkle:shortVersionString="3.2.0" length="5860586" type="application/octet-stream" sparkle:edSignature="cDyu1a2DXUQTVnMti8kuwW3PjI2p6ALit29teJcb9H4WFnhy2ZVAnoNpiYVvwYiJKlmrr4qrOVJ/rTVYeastBw=="/>
+        </item>
+        <item>
+            <title>3.2.1</title>
+            <pubDate>Fri, 03 Jul 2020 13:41:00 +0200</pubDate>
+            <description><![CDATA[Fixed channels not showing when unlinking. Added "Auto Update" setting.]]></description>
+            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+            <enclosure url="https://objects-us-east-1.dream.io/ua-midi-control/UA%20Midi%20Control.zip" sparkle:version="64" sparkle:shortVersionString="3.2.1" length="5870999" type="application/octet-stream" sparkle:edSignature="qxfV09wGruCQqNfK3Z+X4oampG5NPxWJxhp1CltLW/IbCfffEw1Hit1S2YsZeDzWt+KCf6i3iaNxI84uWHPPDA=="/>
+        </item>
+        <item>
+            <title>3.2.2</title>
+            <pubDate>Fri, 03 Jul 2020 13:41:00 +0200</pubDate>
+            <description><![CDATA[Fixed "Free" instead of "Trial" mode being shown. Fixed channels not showing when unlinking. Added "Auto Update" setting.]]></description>
+            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+            <enclosure url="https://objects-us-east-1.dream.io/ua-midi-control/UA%20Midi%20Control.zip" sparkle:version="67" sparkle:shortVersionString="3.2.2" length="5868882" type="application/octet-stream" sparkle:edSignature="A0zTiHeu1n20GsIkzhxMSodRvFlolJ2/hmErr/+mXno9h/n8Hp/srSBUY4lN7YafgIWmOXcjnlMJuhCxA24YAg=="/>
+        </item>
+        <item>
+            <title>3.3.0</title>
+            <pubDate>Fri, 03 Jul 2020 13:41:00 +0200</pubDate>
+            <description><![CDATA[Added Midi Feedback for Motorized Faders and Infinite Knobs. Added Pre/Post chooser for Aux Channels.]]></description>
+            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+            <enclosure url="https://objects-us-east-1.dream.io/ua-midi-control/UA%20Midi%20Control.zip" sparkle:version="70" sparkle:shortVersionString="3.3.0" length="5875441" type="application/octet-stream" sparkle:edSignature="iBZpp7CZ8xMeDhxCmtJMStkYqLadDVA8kP8V1L32gDhyJ0bFoYokH6Abpw8WkXWf9ZpjhgO4VaVg/JCBYAKCDQ=="/>
+        </item>
+        <item>
+            <title>3.3.1</title>
+            <pubDate>Fri, 03 Jul 2020 13:41:00 +0200</pubDate>
+            <description><![CDATA[Solved a bug where a preset error would show at startup. Added Midi Feedback for Motorized Faders and Infinite Knobs. Added Pre/Post chooser for Aux Channels.]]></description>
+            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+            <enclosure url="https://objects-us-east-1.dream.io/ua-midi-control/UA%20Midi%20Control.zip" sparkle:version="71" sparkle:shortVersionString="3.3.1" length="5876542" type="application/octet-stream" sparkle:edSignature="EQSjIkPP3TjbYsgnJQR5u61Xs0wQwX4o19BT0nOJsHlCgdeaLOW3JMV5loTp/VVvdFT+qjqGmNhA2j+xe7fpAA=="/>
+        </item>
+        <item>
+            <title>3.4.0</title>
+            <pubDate>Fri, 03 Jul 2020 13:41:00 +0200</pubDate>
+            <description><![CDATA[Added ability to map Console Sessions. Fixed Dim Amount parameter. Reorganized Monitor channel sections.]]></description>
+            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+            <enclosure url="https://objects-us-east-1.dream.io/ua-midi-control/UA%20Midi%20Control.zip" sparkle:version="72" sparkle:shortVersionString="3.4.0" length="5877582" type="application/octet-stream" sparkle:edSignature="eaYb3NGiXW4/Z8w/dvCQzw7IHVgjV6i7Ti1HNbqR27FfN9gz6+OaOBFz21FB91O6abKF2Jrp9w3XG3i+iF8RAg=="/>
+        </item>
+        <item>
+            <title>3.5.0</title>
+            <pubDate>Fri, 03 Jul 2020 13:41:00 +0200</pubDate>
+            <description><![CDATA[Added ability to link Console Sessions with .ua presets. Added ability to map Effect presets.]]></description>
+            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+            <enclosure url="https://objects-us-east-1.dream.io/ua-midi-control/UA%20Midi%20Control.zip" sparkle:version="80" sparkle:shortVersionString="3.5.0" length="5905888" type="application/octet-stream" sparkle:edSignature="YPnt6OQd/dAWPqUeIrtbbdCnOII1dWik/OFx7nOJIaw0GDqr7QZthg/sTxCUcBsAJhTzukv9G9Yi7hxkZaWdCw=="/>
+        </item>
+        <item>
+            <title>3.5.0</title>
+            <pubDate>Fri, 09 Oct 2020 22:25:33 +0200</pubDate>
+            <description><![CDATA[Tesdt]]></description>
+            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+            <enclosure url="https://objects-us-east-1.dream.io/ua-midi-control/UA%20Midi%20Control.zip" sparkle:version="92" sparkle:shortVersionString="3.5.0" length="5917102" type="application/octet-stream" sparkle:edSignature="FgSDaw1BjFX7kgMYjEh3vTsh89PlFb4MPzNpudVCnR2fBBt8jqyxL34PYjZpuQ4qbP9ElOg8Y+XEM79r/WkUDw=="/>
+        </item>
+        <item>
+            <title>3.5.0</title>
+            <pubDate>Fri, 09 Oct 2020 22:27:54 +0200</pubDate>
+            <description><![CDATA[Tesdt]]></description>
+            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+            <enclosure url="https://objects-us-east-1.dream.io/ua-midi-control/UA%20Midi%20Control.zip" sparkle:version="93" sparkle:shortVersionString="3.5.0" length="5915150" type="application/octet-stream" sparkle:edSignature="hYwM5SeWXidExt9oqTkX0uGEE621L30U+68y9Cv96GV+fd0DAtQ7Jaf+d1vhltQjL3+ymII5nAxYCytEfhggAA=="/>
+        </item>
+        <item>
+            <title>3.5.0</title>
+            <pubDate>Fri, 09 Oct 2020 22:28:41 +0200</pubDate>
+            <description><![CDATA[Tesdt]]></description>
+            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+            <enclosure url="https://objects-us-east-1.dream.io/ua-midi-control/UA%20Midi%20Control.zip" sparkle:version="94" sparkle:shortVersionString="3.5.0" length="5919168" type="application/octet-stream" sparkle:edSignature="zrSeFV0ARDIKWqmgL8n7bhUeWPk8Kn5n3W56pOgkVR99ZEyiUxVdKjkpqwLT8iN9OaMA/mqEjkAuo543W6tlCA=="/>
+        </item>
+        <item>
+            <title>3.5.0</title>
+            <pubDate>Fri, 09 Oct 2020 22:30:44 +0200</pubDate>
+            <description><![CDATA[Tesdt]]></description>
+            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+            <enclosure url="https://objects-us-east-1.dream.io/ua-midi-control/UA%20Midi%20Control.zip" sparkle:version="95" sparkle:shortVersionString="3.5.0" length="5914378" type="application/octet-stream" sparkle:edSignature="izgrzNd1DQSY4Iy/keDNTKzScvMCT05br+D9NaP3Gs2Pj7capVkIxBNstGsnv/PTaWdFZ4H+/oQaSK2e2+u+Aw=="/>
+        </item>
+        <item>
+            <title>3.5.0</title>
+            <pubDate>Fri, 09 Oct 2020 22:32:37 +0200</pubDate>
+            <description><![CDATA[Tesdt]]></description>
+            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+            <enclosure url="https://objects-us-east-1.dream.io/ua-midi-control/UA%20Midi%20Control.zip" sparkle:version="96" sparkle:shortVersionString="3.5.0" length="5910792" type="application/octet-stream" sparkle:edSignature="2DTylAau++AQsxdeXU1kUi1L3irt+BFz5DhS/BQtiG/c97SzUIQs13b8qwlaoX1NwWJgr1gU41zmtYhOjq3IBQ=="/>
+        </item>
+    </channel>
+</rss>

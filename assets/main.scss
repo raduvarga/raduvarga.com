@@ -23,7 +23,7 @@ $body_background: #f0f0f0;
 $post_background: #e4e4e4;
 $body_color: #333333;
 $body_font: 'Lato', serif;
-$body_size: 14px;
+$body_size: 15px;
 $body_line_height: 24px;
 
 $selection_background: #222222;
@@ -37,6 +37,8 @@ $sub_title_color: #868686;
 $event_past_color: #8c8c8c;
 $title_line_height: 30px;
 $title_size: 24px;
+$sub_title_size: 20px;
+$sub_sub_title_size: 16px;
 
 $menu_font: 'Roboto', serif;
 $menu_size: 18px;
@@ -531,7 +533,7 @@ blockquote {
 	margin: $margin-bottom 0;
 	font-style: italic;
 	overflow: hidden;
-	font-size: 13px;
+	font-size: 14px;
 
 	p {
 		&:last-child {
@@ -1208,7 +1210,7 @@ body {
 
 .post-details {
 	font-style: italic;
-	font-size: 12.5px;
+	font-size: 13.5px;
 
 	a {
 		display: inline-block;
@@ -1236,7 +1238,7 @@ body {
 	}
 
 	ul, ol {
-		font-size: 13px;
+		font-size: 14px;
 		font-style: italic;
 		padding-left: 20px;
 
@@ -1259,6 +1261,26 @@ body {
 }
 .embed-fundraiser {
 	margin-top: 10px;
+}
+
+.changelog {
+	.item {
+		margin-top: 30px;
+
+		.title {
+			font-size: $sub_title_size;
+		}
+		.date {
+			color: $sub_title_color;
+			font-size: $sub_sub_title_size;
+			vertical-align: bottom;
+			margin-left: 8px;
+		}
+		.description {
+			margin-top: 8px;
+			font-size: $body_size;
+		}
+	}
 }
 
 .post-footer {
