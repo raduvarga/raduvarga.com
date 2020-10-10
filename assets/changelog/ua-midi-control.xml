@@ -95,5 +95,14 @@ Added "Latency" and "Theme" preferences.]]></description>
             <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
             <enclosure url="https://objects-us-east-1.dream.io/ua-midi-control/UA%20Midi%20Control.zip" sparkle:version="80" sparkle:shortVersionString="3.5.0" length="5905888" type="application/octet-stream" sparkle:edSignature="YPnt6OQd/dAWPqUeIrtbbdCnOII1dWik/OFx7nOJIaw0GDqr7QZthg/sTxCUcBsAJhTzukv9G9Yi7hxkZaWdCw=="/>
         </item>
+        <item>
+            <title>3.5.1</title>
+            <pubDate>Sat, 10 Oct 2020 13:25:39 +0200</pubDate>
+            <description><![CDATA[Fixed issues with inverted Min/Max values. 
+Improved overral performance, the minimum possible latency is now 1ms and the default is 10ms. Switching to at least 10ms is recommended. For motorized faders/infinite knobs feedback, the lowest values give best results.
+Changelog and Feature Requests have been added to the App Page (Menu -> App Page...)]]></description>
+            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+            <enclosure url="https://objects-us-east-1.dream.io/ua-midi-control/UA%20Midi%20Control.zip" sparkle:version="109" sparkle:shortVersionString="3.5.1" length="5911749" type="application/octet-stream" sparkle:edSignature="ftYKQe3FhgT6jIJRihgNrVRzP3uaU4+lrMlDCmbLEeZKDUJQrcXIiGccSmoMW8bU+U+CCZzbcg23mkh28SQMBA=="/>
+        </item>
     </channel>
 </rss>

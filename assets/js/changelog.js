@@ -1,5 +1,5 @@
 (function ($) {
-	
+
  	jQuery.fn.reverse = [].reverse;
 
  	var changelogUrl = $(".the-changelog").attr("url");
@@ -23,6 +23,7 @@
 			 	if(description) {
 			 		description = description.replace("<![CDATA[", "");
 			 		description = description.replace("]]>", "");
+			 		description = description.replace("\n", "\n\n");
 			 	}
 
 			 	$(".the-changelog").append('<div class="item">' +
