@@ -3,6 +3,7 @@ title: Feature Requests
 fundraisers:
 - talkback-button-ua-midi-control
 - midi-inputampoutput-chooser-ua-midi-control
+- change-startup-preset-ua-midi-control
 - mackie-control-ua-midi-control
 - clips-and-solo-clear-buttons-ua-midi-control
 - tempo-and-tap-ua-midi-control
