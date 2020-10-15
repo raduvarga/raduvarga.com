@@ -104,5 +104,12 @@ Changelog and Feature Requests have been added to the App Page (Menu -> App Page
             <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
             <enclosure url="https://objects-us-east-1.dream.io/ua-midi-control/UA%20Midi%20Control.zip" sparkle:version="109" sparkle:shortVersionString="3.5.1" length="5911749" type="application/octet-stream" sparkle:edSignature="ftYKQe3FhgT6jIJRihgNrVRzP3uaU4+lrMlDCmbLEeZKDUJQrcXIiGccSmoMW8bU+U+CCZzbcg23mkh28SQMBA=="/>
         </item>
+        <item>
+            <title>3.5.2</title>
+            <pubDate>Thu, 15 Oct 2020 18:24:54 +0200</pubDate>
+            <description><![CDATA[Fixed a bug where the feedback for knobs/faders would be incorrect when using custom Min/Max values.]]></description>
+            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+            <enclosure url="https://objects-us-east-1.dream.io/ua-midi-control/UA%20Midi%20Control.zip" sparkle:version="111" sparkle:shortVersionString="3.5.2" length="5908264" type="application/octet-stream" sparkle:edSignature="KUS9cPFUCLoikyUg2pBmayCHkPFqt+/q1M3Bwq1hXHHB3vPjjNvnjU9vBcMAem1MC8F2VsyewflarCbrB9nVCw=="/>
+        </item>
     </channel>
 </rss>
