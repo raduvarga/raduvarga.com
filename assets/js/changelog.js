@@ -6,6 +6,7 @@
 
  	if (changelogUrl) {
 		$.ajax({
+		  cache: false,
 		  url: changelogUrl,
 		  context: document.body
 		}).done(function(xml) {
