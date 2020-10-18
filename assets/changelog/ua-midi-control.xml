@@ -111,5 +111,12 @@ Changelog and Feature Requests have been added to the App Page (Menu -> App Page
             <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
             <enclosure url="https://objects-us-east-1.dream.io/ua-midi-control/UA%20Midi%20Control.zip" sparkle:version="111" sparkle:shortVersionString="3.5.2" length="5908264" type="application/octet-stream" sparkle:edSignature="KUS9cPFUCLoikyUg2pBmayCHkPFqt+/q1M3Bwq1hXHHB3vPjjNvnjU9vBcMAem1MC8F2VsyewflarCbrB9nVCw=="/>
         </item>
+        <item>
+            <title>3.5.3</title>
+            <pubDate>Sun, 18 Oct 2020 14:33:43 +0200</pubDate>
+            <description><![CDATA[Further performance optimisations. The standby CPU consumption should be close to zero. Removed the Latency preference, the App works now with near-zero latency.]]></description>
+            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+            <enclosure url="https://objects-us-east-1.dream.io/ua-midi-control/UA%20Midi%20Control.zip" sparkle:version="112" sparkle:shortVersionString="3.5.3" length="5900347" type="application/octet-stream" sparkle:edSignature="zapXLCTPpIpVPPoCqo5O17/RaS4t3ghenEkfM/g445a/Nhw7Li/bTCR+x0+QHnQ97Qic94Cx6qxD+2M83unhBw=="/>
+        </item>
     </channel>
 </rss>
