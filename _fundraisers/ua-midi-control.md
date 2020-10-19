@@ -2,13 +2,14 @@
 title: Feature Requests
 fundraisers:
 - talkback-button-ua-midi-control
-- midi-inputampoutput-chooser-ua-midi-control
-- change-startup-preset-ua-midi-control
 - mackie-control-ua-midi-control
+- ua-midi-control-windows-version
+- midi-inputampoutput-chooser-ua-midi-control
+- run-as-a-service-ua-midi-control
+- change-startup-preset-ua-midi-control
 - clips-and-solo-clear-buttons-ua-midi-control
 - tempo-and-tap-ua-midi-control
 - midi-takeover-mode-ua-midi-control
-- ua-midi-control-windows-version
 ---
 
 At the moment I am receiving many requests for future enhancements. I am always working on improvements for the App, but given my current workload I cannot deliver as quickly as I may like to.
