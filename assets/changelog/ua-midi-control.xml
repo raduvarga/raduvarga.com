@@ -125,5 +125,12 @@ Changelog and Feature Requests have been added to the App Page (Menu -> App Page
             <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
             <enclosure url="https://objects-us-east-1.dream.io/ua-midi-control/UA%20Midi%20Control.zip" sparkle:version="114" sparkle:shortVersionString="3.5.4" length="5907561" type="application/octet-stream" sparkle:edSignature="DGJDu4ZlqokQTidYlJqrp/EnuE9fC4N4grzLgOyLwdHSBScurhG5Ce2WQJFghHmNZnpt65cbDVMr1F8Rz8sVCQ=="/>
         </item>
+        <item>
+            <title>3.5.5</title>
+            <pubDate>Thu, 05 Nov 2020 18:52:15 +0100</pubDate>
+            <description><![CDATA[Fixed a feedback loop that was affecting the IAC Driver (Mac Virtual Port).]]></description>
+            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+            <enclosure url="https://objects-us-east-1.dream.io/ua-midi-control/UA%20Midi%20Control.zip" sparkle:version="119" sparkle:shortVersionString="3.5.5" length="5906083" type="application/octet-stream" sparkle:edSignature="VpJVUXwfbjicxHD0sDQcyq//6yvZd30mHUXkOb4Zf3YopBPrb4v6SyeElqz4S9JAe1g4+YJ52WX6my52XK1gDg=="/>
+        </item>
     </channel>
 </rss>
