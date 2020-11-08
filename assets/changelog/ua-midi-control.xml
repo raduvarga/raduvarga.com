@@ -132,5 +132,12 @@ Changelog and Feature Requests have been added to the App Page (Menu -> App Page
             <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
             <enclosure url="https://objects-us-east-1.dream.io/ua-midi-control/UA%20Midi%20Control.zip" sparkle:version="119" sparkle:shortVersionString="3.5.5" length="5906083" type="application/octet-stream" sparkle:edSignature="VpJVUXwfbjicxHD0sDQcyq//6yvZd30mHUXkOb4Zf3YopBPrb4v6SyeElqz4S9JAe1g4+YJ52WX6my52XK1gDg=="/>
         </item>
+        <item>
+            <title>3.5.6</title>
+            <pubDate>Sun, 08 Nov 2020 12:20:37 +0100</pubDate>
+            <description><![CDATA[Added Keyboard shortcuts: M - Map, S - Show All. Fixed a bug with the authorization input fields.]]></description>
+            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+            <enclosure url="https://objects-us-east-1.dream.io/ua-midi-control/UA%20Midi%20Control.zip" sparkle:version="121" sparkle:shortVersionString="3.5.6" length="5902494" type="application/octet-stream" sparkle:edSignature="gfhCnNcY9+t+PsFn91UHZsyxKWO9nkdJd6aIanX3NG9cqDUl3HeJGg5VMpFrUbKiFOyE6nbrTjny3skHdYCqAA=="/>
+        </item>
     </channel>
 </rss>
