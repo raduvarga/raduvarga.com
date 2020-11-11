@@ -19,6 +19,8 @@ gem "github-pages", group: :jekyll_plugins
 # end
 # gem "kramdown", ">= 2.3.0"
 
+gem 'jekyll-analytics'
+
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
 install_if -> { RUBY_PLATFORM =~ %r!mingw|mswin|java! } do

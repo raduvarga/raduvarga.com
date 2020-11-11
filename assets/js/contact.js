@@ -10,6 +10,8 @@ $("#contact-form").submit(function (e) {
 	console.log("sending email...");
 	$(".contact-message").html("");
 
+	body += "\n\n--------------\n" + jscd.os; 
+
 	body = body.replaceAll("\n", "<br>");
 
 	Email.send({
