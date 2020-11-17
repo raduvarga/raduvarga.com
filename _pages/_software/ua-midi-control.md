@@ -13,7 +13,7 @@ video: 3LLFUaXEhuY
 fundraiser: ua-midi-control
 changelog: ua-midi-control
 html-class: software
-description: Software
+description: Control Apollo Console via Midi
 ---
 
 UA Midi Control allows you to control the Apollo Console software via Midi.

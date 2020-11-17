@@ -1,0 +1,19 @@
+---
+layout: default
+description: Sheet music
+---
+
+<h2 class="center-title"> {{ page.title }} - {{ page.artist }} 
+
+<div class="title-download">
+	<a href="/assets/scores/{{ page.title }}.pdf" class="download-btn" download>
+		<i class="fa fa-download"></i>
+		<b> PDF </b>
+	</a>
+</div>
+
+</h2> 
+
+
+
+{%- include musescore.html uri = page.musescore-uri -%}

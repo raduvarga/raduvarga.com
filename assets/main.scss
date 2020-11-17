@@ -127,12 +127,13 @@ table {
 	width: 100%;
 }
 
-.concerts {
+table {
 	color: #000000;
 
 	tr {
 		border-top: 1px solid rgba(0,0,0,.2);
-		height: 80px;
+		border-bottom: 1px solid rgba(0,0,0,.2);
+		height: 64px;
 		text-align: center; 
 
 		&.past {
@@ -154,8 +155,16 @@ table {
 	}
 }
 
+#tableSearch {
+	margin-bottom: -1px;
+}
+
 #player {
 	max-width: auto !important;
+}
+
+.center-title {
+	text-align: center;
 }
 
 .form-privacy input {
@@ -1166,6 +1175,42 @@ body {
 			margin-bottom: 0px;
 		}
 	}
+}
+
+.title-download {
+	float: right;
+
+	.download-btn {
+		background-color: #0D0D0D;
+	    border-radius: 5px;
+	    color: white;
+	    font-size: 16px;
+	    font-weight: bold;
+	    padding: 13px 15px 13px 15px;
+
+	    &:hover {
+			opacity: 0.7;
+	    	color: white !important;
+		}
+
+
+		i {
+			font-size: 20px;
+		}
+
+		b {
+			margin-left: 8px;
+		}
+	}
+
+
+	p {
+		margin-top: 14px;
+		font-size: 11px;
+		text-align: center;
+		color: $sub_title_color;
+	}
+
 }
 
 .slick-arrow {

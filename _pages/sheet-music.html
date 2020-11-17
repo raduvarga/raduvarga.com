@@ -1,0 +1,20 @@
+---
+title: Sheet Music
+layout: default
+permalink: /sheet-music
+---
+
+{% assign sorted = site.data.scores.items %}
+
+<input type="text" id="tableSearch" placeholder="Search">
+
+<table>
+{% for item in sorted %}
+  
+  {% include score.html  uri = item.uri
+  					     title = item.title
+		  				 artist = item.artist
+		  				 tags = item.tags %}
+
+{% endfor %}
+</table>

@@ -24,8 +24,8 @@ items:
 - title: Collaborations
   url: /collaborations
 
-# - title: Sheet Music
-#   url: /sheet-music
+- title: Sheet Music
+  url: /sheet-music
 
 - title: Software
   url: /software

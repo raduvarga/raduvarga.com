@@ -3,20 +3,17 @@ title: Concerts
 layout: default
 permalink: /concerts
 ---
-<!-- <br>
-<h2 class="title">Concerts</h2>
-<br> -->
 
-{% assign sorted = site.data.concerts.items | sort: 'date' | reverse %}
+{% assign sorted = site.data.concerts.items  %}
 
-<table class="concerts">
+<table>
 {% for item in sorted %}
   
   {% include concert.html  date = item.date
-		  						   venue = item.venue
-		  						   city = item.city
-		  						   country = item.country
-		  						   href = item.href %}
+  						   venue = item.venue
+  						   city = item.city
+  						   country = item.country
+  						   href = item.href %}
 
 {% endfor %}
 </table>

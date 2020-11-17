@@ -37,18 +37,11 @@ bandcamp_username: raduvarga
 theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-analytics
 
 include: ['_pages', '_collaborations', '_instruments', '_software']
 
 collections:
   - fundraisers
-
-#ga
-jekyll_analytics:
-  GoogleAnalytics:          # Add, if you want to track with Google Analytics
-    id: G-ZVEZE2HGY1        # Required - replace with your tracking id
-    anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking
 
 # Exclude from processing.
 # The following items will not be processed, by default.

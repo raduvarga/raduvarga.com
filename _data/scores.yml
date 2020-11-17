@@ -1,0 +1,36 @@
+items:
+
+- artist: Taraf de Haïdouks
+  title: Rustem
+  tags: Traditional Romanian
+  uri: rustem
+
+- artist: Tcha Limberger
+  title: Jocul Dianca
+  tags: Traditional Romanian
+  uri: jocul-dianca
+
+- artist: Abdülkadir Meragi
+  title: Rast Devr-i Revan
+  tags: Turkish Ottoman
+  uri: rast-devr-i-revan
+
+- artist: Rahim AlHaj
+  title: Waterfall
+  tags: Arabic
+  uri: waterfall
+
+- artist: Arvo Pärt
+  title: Für Alina (Santur)
+  tags: Western Classical
+  uri: fur-alina
+
+- artist: Esbjörn Svensson Trio
+  title: From Gagarin's Point Of View
+  tags: Jazz
+  uri: gargarin
+
+- artist: Byron & Alexandru Andrieș
+  title: Cea mai frumoasă zi
+  tags: Romanian Rock
+  uri: cea-mai-frumoasa-zi
