@@ -135,9 +135,10 @@ Changelog and Feature Requests have been added to the App Page (Menu -> App Page
         <item>
             <title>3.5.6</title>
             <pubDate>Sun, 08 Nov 2020 12:20:37 +0100</pubDate>
-            <description><![CDATA[Added Keyboard shortcuts: M - Map, S - Show All, Backspace - Reset Selected. Fixed a bug with the authorization input fields.]]></description>
+            <description><![CDATA[Implemented Feature Request: Talkback Button.
+App now runs in background, the menu items have been moved to the Taskbar.]]></description>
             <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
-            <enclosure url="https://objects-us-east-1.dream.io/ua-midi-control/UA%20Midi%20Control.zip" sparkle:version="121" sparkle:shortVersionString="3.5.6" length="5902494" type="application/octet-stream" sparkle:edSignature="gfhCnNcY9+t+PsFn91UHZsyxKWO9nkdJd6aIanX3NG9cqDUl3HeJGg5VMpFrUbKiFOyE6nbrTjny3skHdYCqAA=="/>
+            <enclosure url="https://objects-us-east-1.dream.io/ua-midi-control/UA%20Midi%20Control.zip" sparkle:version="121" sparkle:shortVersionString="3.5.6" length="12351250" type="application/octet-stream" sparkle:edSignature="TZOgBiDsunsAxk5YK1GiZ9/0rhpqBses5XG9KNlGv80EySEuzpqj97meEziqj+r4Io8t0EnzrHy4XYLQ2KQoDw=="/>
         </item>
     </channel>
 </rss>
