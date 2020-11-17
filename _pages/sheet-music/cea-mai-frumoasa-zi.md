@@ -3,6 +3,7 @@ title: Cea mai frumoasa zi
 artist: Byron & Alexandru Andrieș
 layout: default
 permalink: /sheet-music/cea-mai-frumoasa-zi
+youtube-uri: oB9DjDbyQ1c
 ---
 
 <iframe src="https://www.soundslice.com/slices/Yj8fc/embed/" width="100%" height="900px" frameBorder="0" allowfullscreen></iframe>

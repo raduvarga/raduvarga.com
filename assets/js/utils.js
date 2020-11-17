@@ -188,3 +188,16 @@
         flashVersion: flashVersion
     };
 }(this));
+
+function setIframHeight() {
+    var position = $('.iframe-dynamic').position();
+    
+    if(position) {
+        var height = window.innerHeight - 108 - position.top;
+        if(height < 300) {
+            height = 300;
+        }
+
+        $('.iframe-dynamic').attr("height", height);
+    }
+}

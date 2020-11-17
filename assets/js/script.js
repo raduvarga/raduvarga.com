@@ -52,6 +52,11 @@ $('.slick-prev').click(function(){
     $('.slick-itemsa').slick('slickPrev');
 });
 
+setIframHeight();
+$( window ).resize(function() {
+  setIframHeight();
+});
+
 $(".download-btn").on("click", function (e) {
   let counterKey = $(e.currentTarget).attr("counter-key");
 
