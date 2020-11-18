@@ -1,6 +1,6 @@
 ---
 title: Max for Live devices
-layout: single-project
+layout: software-project
 permalink: /software/max-for-live
 img: 
 - /assets/img/software/max-clip-length.png
