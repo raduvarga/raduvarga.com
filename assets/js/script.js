@@ -8,9 +8,6 @@
 
 'use strict';
 
-let counterHitUrl = "https://api.countapi.xyz/hit/raduvarga.com/";
-let counterGetUrl = "https://api.countapi.xyz/get/raduvarga.com/";
-
 (function ($) {
 
 // load default image
@@ -35,55 +32,9 @@ $('[date]').each(function(e) {
   }
 });
 
-// slick swipe for projects
-$('.slick-items').slick({
-	infinite: false,
-	adaptiveHeight: true,
-	// prevArrow: null,
-	// nextArrow: null,
-	 prevArrow: '<span class="prev"><i class="fa fa-caret-left fa-3x" aria-hidden="true"></i></span>',
-    nextArrow: '<span class="next"><i class="fa fa-caret-right fa-3x" aria-hidden="true"></i></span>'
-});
-
-$('slick-next').click(function(){
-    $('.slick-items').slick('slickNext');
-});
-$('.slick-prev').click(function(){
-    $('.slick-itemsa').slick('slickPrev');
-});
-
 setIframHeight();
 $( window ).resize(function() {
   setIframHeight();
 });
-
-$(".download-btn").on("click", function (e) {
-  let counterKey = $(e.currentTarget).attr("counter-key");
-
-  if (counterKey && counterKey != "") {
-    $.ajax({url: counterHitUrl + counterKey,
-      success: function(result) {
-        $(e.currentTarget).next().html(numberWithCommas(result.value));
-    }});
-  }
-});
-
-function refreshCounter(counterKey) {
-  let $counter = $(".title-download").find(".counter[counter-key=" + counterKey + "]");
-
-  // if we are on the counter page
-  if ($counter.length > 0) {
-    $.ajax({url: counterGetUrl + counterKey, 
-      success: function(result){
-        $counter.html(numberWithCommas(result.value));
-    }});
-  }
-}
-
-refreshCounter("ua-midi-control-app");
-
-function numberWithCommas(x) {
-    return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
-}
 
 })(jQuery);

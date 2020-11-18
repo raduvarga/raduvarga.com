@@ -4,24 +4,22 @@ description: Sheet music
 ---
 
 <h2 class="center-title"> {{ page.title }} - {{ page.artist }} 
+	<div class="title-download">
 
-<div class="title-download">
+		{% if page.youtube-uri != nil %}
+			<a href="https://www.youtube.com/watch?v={{ page.youtube-uri }}" class="youtube-btn" target="_blank">
+				<i class="fa fa-youtube"></i>
+			</a>
+		{% endif %}
 
-	{% if page.youtube-uri != nil %}
-		<a href="https://www.youtube.com/watch?v={{ page.youtube-uri }}" class="youtube-btn" target="_blank">
-			<i class="fa fa-youtube"></i>
+
+		<a href="/assets/scores/{{ page.title }}.pdf" class="download-btn" download>
+			<i class="fa fa-download"></i>
+			<b> PDF </b>
 		</a>
-	{% endif %}
-
-
-	<a href="/assets/scores/{{ page.title }}.pdf" class="download-btn" download>
-		<i class="fa fa-download"></i>
-		<b> PDF </b>
-	</a>
-</div>
-
+	</div>
 </h2> 
 
-
-
 {%- include musescore.html uri = page.musescore-uri -%}
+
+<div class="commentbox"></div>

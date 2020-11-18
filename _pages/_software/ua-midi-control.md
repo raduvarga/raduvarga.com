@@ -1,7 +1,7 @@
 ---
 title: UA Midi Control
 image: /assets/img/software/ua-youtube.jpg
-layout: single-project
+layout: software-project
 permalink: /software/ua-midi-control
 logo: /assets/img/software/ua-logo.png
 download: https://objects-us-east-1.dream.io/ua-midi-control/UA%20Midi%20Control.zip
@@ -38,6 +38,6 @@ Pricing: 14 Day Trial, then 39€
 
 The App is only available for <b> Mac </b> <i style="margin-left: 2px" class="fa fa-apple"></i> at the moment. 
 
-The <b> Windows </b> <i style="margin-left: 2px" class="fa fa-windows"></i> Version is currently in development. See details below.
+The <b> Windows </b> <i style="margin-left: 2px" class="fa fa-windows"></i> Version is currently in development.
 
 <i>Note: If you get a Security error while opening the Mac App, do the following: <br/> Right Click on the App -> Open.</i> 

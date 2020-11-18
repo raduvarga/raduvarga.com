@@ -1,0 +1,37 @@
+<div class="post-content" tab-id="content">
+	<div class="title-div">
+		<span class="title-span"> 
+			{% if include.project.logo %}
+				<img class="title-logo" src="{{ include.project.logo }}"></img>
+			{% endif %}
+
+			<h2 class="title"> {{ include.project.title }} </h2>
+		</span>
+		{% if include.project.download %}
+			<div class="title-download">
+				<a href="{{ include.project.download }}" class="download-btn" counter-key="{{ include.project.counter-key }}">
+					<i class="fa fa-apple"></i>
+					<b> Download </b>
+				</a>
+				<p class="counter" counter-key="{{ include.project.counter-key }}"> </p>
+			</div>
+			
+		{% endif %}
+		{% if include.project.website %}
+			<a href="{{ include.project.website }}" class="title-link fa fa-external-link" target="_blank"></a>
+		{% endif %}
+	 </div>
+
+	{% if include.project.website %}
+		<div class="post-details">
+			<a href="{{ include.project.website }}" class="post-url" target="_blank">{{ include.project.website }}</a>
+		</div>
+	{% endif %}
+
+	<!-- The Content -->
+	<div class="the-content">
+		{{ include.content }}
+	</div>
+	<!-- End The Content -->
+
+</div>

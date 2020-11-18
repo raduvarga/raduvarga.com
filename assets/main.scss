@@ -31,6 +31,8 @@ $selection_color: #f7f7f7;
 $link_hover_color: #000000;
 $link_hover_color_white: #ffffff;
 
+$tab_hover_color: #cdcdcd;
+
 $title_font: 'Lato', serif;
 $title_color: #4a4a4a;
 $sub_title_color: #868686;
@@ -1287,6 +1289,23 @@ body {
 	}
 }
 
+.tab {
+	height: 35px;
+	width: 33.33%;
+	border: 0px;
+	font-weight: 700;
+	font-size: 15px;
+
+	background: $body_background;
+
+	&.selected {
+		background: $post_background;
+	}
+	&:not(.selected):hover {
+		background: $tab_hover_color;
+	}
+}
+
 .the-content {
 	margin-top: 20px;
 	p {
@@ -1321,7 +1340,7 @@ body {
 	margin-top: 10px;
 }
 
-.changelog {
+.the-changelog {
 	.item {
 		margin-top: 30px;
 
