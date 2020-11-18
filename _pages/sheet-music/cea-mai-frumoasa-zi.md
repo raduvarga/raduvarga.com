@@ -8,4 +8,6 @@ youtube-uri: oB9DjDbyQ1c
 
 <iframe src="https://www.soundslice.com/slices/Yj8fc/embed/" width="100%" height="900px" frameBorder="0" allowfullscreen></iframe>
 
+<div class="commentbox commentbox-score"></div>
+
 <!-- <iframe src="https://www.soundslice.com/slices/Yj8fc/embed-channelpost/" width="100%" height="320" frameBorder="0"></iframe> -->
