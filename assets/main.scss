@@ -31,7 +31,8 @@ $selection_color: #f7f7f7;
 $link_hover_color: #000000;
 $link_hover_color_white: #ffffff;
 
-$tab_hover_color: #cdcdcd;
+$tab_color: #cdcdcd;
+$tab_hover_color: #d8d8d8;
 
 $title_font: 'Lato', serif;
 $title_color: #4a4a4a;
@@ -1296,7 +1297,7 @@ body {
 	font-weight: 700;
 	font-size: 15px;
 
-	background: $body_background;
+	background: $tab_color;
 
 	&.selected {
 		background: $post_background;
