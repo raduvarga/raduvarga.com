@@ -147,5 +147,12 @@ App now runs in background, the menu items have been moved to the Taskbar.]]></d
             <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
             <enclosure url="https://objects-us-east-1.dream.io/ua-midi-control/UA%20Midi%20Control.zip" sparkle:version="126" sparkle:shortVersionString="3.6.0" length="6212857" type="application/octet-stream" sparkle:edSignature="iPUKdTBoEoDcj+B94DzaIlOdUCsDB6cXWL66Pz8NfqdwQ1cl/QdziNSSGwTnZSfDggZqw5MN6FWZFFUrxK8UBg=="/>
         </item>
+        <item>
+            <title>3.6.1</title>
+            <pubDate>Thu, 19 Nov 2020 22:55:17 +0100</pubDate>
+            <description><![CDATA[Fixed an issue with the Open/Save As windows.]]></description>
+            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+            <enclosure url="https://objects-us-east-1.dream.io/ua-midi-control/UA%20Midi%20Control.zip" sparkle:version="128" sparkle:shortVersionString="3.6.1" length="6203827" type="application/octet-stream" sparkle:edSignature="PUc3qlVm1XwMJZBSyOxiTjUp04Hehli6vfcwBmg3xXsLo0PpsxCoF04pfE+aU9rFCtuRkk5YlxjJcqNBN5L+Ag=="/>
+        </item>
     </channel>
 </rss>
