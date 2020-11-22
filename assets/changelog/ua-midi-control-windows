@@ -1,6 +1,15 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <item>
+      <title>0.8.0</title>
+      <pubDate>Sun, 22 Nov 2020 23:04:13 +0100</pubDate>
+      <description><![CDATA[Updated the App Icon to work on a dark Taskbar.
+Changed the way preferences are saved and solved a bug where the preferences would randomly not work. The preferences will be reset to default on the first run of this version.
+Added "Allow Virtual Midi Ports" setting.
+UI is not blocked any more when the App starts.]]></description>
+      <enclosure url="https://objects-us-east-1.dream.io/ua-midi-control/windows/UA%20Midi%20Control%20Setup.msi" sparkle:dsaSignature="MEQCIBLQbrKUgnXV0g2Q7nfo7N4GBWSQBTeFGaMZ2jaKvZCfAiBn+2zsDFS1UVHq9k6U2tTc+x1aEjDTywDaSU5eU9NZ6A==" sparkle:version="0.8.0" length="0" type="application/octet-stream" />
+    </item>
+    <item>
       <title>0.7.1</title>
       <pubDate>Wed, 18 Nov 2020 23:09:53 +0100</pubDate>
       <description><![CDATA[Solved another bug where the app would not start correctly.]]></description>
