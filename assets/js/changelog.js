@@ -1,5 +1,13 @@
 function loadChangelog(forWindows) {
 
+	$(".os").removeClass("selected");
+	
+	if(forWindows) {
+		$(".os-windows").addClass("selected");
+	} else {
+		$(".os-mac").addClass("selected");
+	}
+
 	let changelogUrl = $(".the-changelog").attr(forWindows?  "url-windows" : "url");
 
  	if (changelogUrl) {
@@ -47,13 +55,6 @@ function loadChangelog(forWindows) {
 }
 
 $(".os").click(function(e) {
-	$(".os").removeClass("selected");
-
-	var $this = $(this);
-	$this.addClass("selected");
-
-	console.log();
-
 	loadChangelog($this.hasClass("os-windows"));
 });
 
