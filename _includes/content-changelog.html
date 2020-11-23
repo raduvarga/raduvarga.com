@@ -7,7 +7,12 @@
 		<h2 class="title"> Changelog </h2>
 	</span>
 
-	<div class="the-changelog" url="/assets/changelog/{{ include.changelog }}.xml" >
+	<div class="title-os">
+		<a class="fa fa-windows os os-windows"></a>
+		<a class="fa fa-apple os os-mac selected"></a>
+	</div>
+
+	<div class="the-changelog" url="/assets/changelog/{{ include.project.changelog }}.xml" url-windows="/assets/changelog/{{ include.project.changelog-windows }}.xml">
 		
 	</div>
 

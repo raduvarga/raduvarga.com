@@ -19,7 +19,7 @@
 	<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
 
 	<!-- <link rel="stylesheet" type="text/css" href="css/styles.css"> -->
-  <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+  <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}?{{ site.time | date: '%s%N' }}">
 
   {%- feed_meta -%}
 </head>

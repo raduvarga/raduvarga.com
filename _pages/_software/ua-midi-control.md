@@ -7,12 +7,16 @@ permalink: /software/ua-midi-control
 logo: /assets/img/software/ua-logo.png
 download: https://objects-us-east-1.dream.io/ua-midi-control/UA%20Midi%20Control.zip
 counter-key: ua-midi-control-app
+download-windows: https://objects-us-east-1.dream.io/ua-midi-control/windows/UA%20Midi%20Control%20Setup.msi
+counter-key-windows: ua-midi-control-app-windows
 img: 
 - /assets/img/software/ua-screenshot-dark.png
 - /assets/img/software/ua-screenshot-light.png
 video: 3LLFUaXEhuY
 fundraiser: ua-midi-control
 changelog: ua-midi-control
+changelog-windows: ua-midi-control-windows
+faq: ua-midi-control
 html-class: software
 description: Control Apollo Console via Midi with UA Midi Control
 ---
@@ -35,10 +39,4 @@ Extra features in the <b> FULL </b> version:
 - Save and load file Presets
 - Link Console Sessions with Presets and midi map them
 
-Pricing: 14 Day Trial, then 39€
-
-The App is only available for <b> Mac </b> <i style="margin-left: 2px" class="fa fa-apple"></i> at the moment. 
-
-The <b> Windows </b> <i style="margin-left: 2px" class="fa fa-windows"></i> Version is currently in development.
-
-<i>Note: If you get a Security error while opening the Mac App, do the following: <br/> Right Click on the App -> Open.</i> 
+Pricing: 14 Day Trial, then <b> 39€ </b>

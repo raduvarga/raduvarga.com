@@ -1,0 +1,24 @@
+<?xml version="1.0" standalone="yes"?>
+<faq>
+
+    <item>
+        <question> Does it work with Luna? </question>
+        <answer> No, it doens't. I have tried to integrate it, but it's simply not possible, Luna communicates in a different way than Console. </answer>
+    </item>
+
+     <item>
+        <question> Does it work with Mackie Control Protocol ? </question>
+        <answer> Currently not, but this feature is in development. Check more details in the Feature Requests. </answer>
+    </item>
+    
+    <item>
+        <question> I get a security error when I try to open the App on Mac. </question>
+        <answer> You need to right-click on the App and click Open. Alternatively, allow the App from the Security tab in System Preferences. </answer>
+    </item>
+    
+    <item>
+        <question> How to use the Button Type (Knob, Momentary, Toggle) ? </question>
+        <answer> The Button Type selection in the App needs to match how your button is setup inside your controller. In most cases, the automatic assignment (based on the Parameter type) will work completely fine. Knob and Fader are equivalent. This will not change the actual type of your button in your contrtoller, you can only achieve that with a special customisation software provided by the device manufacturer (if available). </answer>
+    </item>
+
+</faq>

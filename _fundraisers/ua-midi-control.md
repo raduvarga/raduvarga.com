@@ -4,7 +4,6 @@ fundraisers:
 - mackie-control-ua-midi-control
 - ua-midi-control-windows-version
 - midi-inputampoutput-chooser-ua-midi-control
-- change-startup-preset-ua-midi-control
 - clips-and-solo-clear-buttons-ua-midi-control
 - tempo-and-tap-ua-midi-control
 - midi-takeover-mode-ua-midi-control
@@ -18,4 +17,4 @@ To speed up the development process, I've created separate fundraisers for a lis
 When any of the feature fundraiser goals have been fully reached, they will be prioritized, implemented and released as soon as possible. The estimated time is described separately for each. 
 Partial funding will also be taken into consideration.
 
-If you have any feature requests, don't hesitate to send a message via the [Contact](https://www.raduvarga.com/contact) form.
+If you have any feature requests, don't hesitate to leave a comment below.
