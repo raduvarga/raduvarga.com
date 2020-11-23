@@ -1,8 +1,6 @@
-(function ($) {
+function loadChangelog(forWindows) {
 
- 	jQuery.fn.reverse = [].reverse;
-
- 	var changelogUrl = $(".the-changelog").attr("url");
+	let changelogUrl = $(".the-changelog").attr(forWindows?  "url-windows" : "url");
 
  	if (changelogUrl) {
 		$.ajax({
@@ -10,8 +8,12 @@
 		  url: changelogUrl,
 		  context: document.body
 		}).done(function(xml) {
-		  
-			 $(xml).find("item").reverse().each(function (index, item) {
+
+			 var $items = $(xml).find("item");
+			 $items = forWindows? $items : $items.reverse();
+		   
+		  	 $(".the-changelog").empty();
+			 $items.each(function (index, item) {
 			 	let $item = $(item);
 			 	
 			 	let version = $item.find("title").html();
@@ -42,5 +44,19 @@
 
 		});
 	}
+}
 
-})(jQuery);
+$(".os").click(function(e) {
+	$(".os").removeClass("selected");
+
+	var $this = $(this);
+	$this.addClass("selected");
+
+	console.log();
+
+	loadChangelog($this.hasClass("os-windows"));
+});
+
+loadChangelog(isWindows());
+
+jQuery.fn.reverse = [].reverse;

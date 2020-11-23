@@ -54,6 +54,7 @@
 		<div class="tabs">
 		  <button tab-id="content" class="tab"> App </a>
 		  <button tab-id="feature-requests" class="tab"> Feature Requests </a>
+		  <button tab-id="faq" class="tab"> FAQ </a>
 		  <button tab-id="changelog" class="tab"> Changelog </a>
 		</div>
 
@@ -64,12 +65,14 @@
 
 
 	{% if include.project.has-tabs == true %}
+
 		{% assign fund = site.fundraisers | where:"slug", page.fundraiser-tag  | first %}
 		{% include content-feature-requests.html project = page
 												 fundraiser = fund %}
 
-		{% include content-changelog.html project = page
-										  changelog = page.changelog %}
+		{% include content-faq.html project = page %}
+
+		{% include content-changelog.html project = page %}
 
 	{% endif %}
 							 
