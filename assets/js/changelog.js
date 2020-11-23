@@ -55,7 +55,7 @@ function loadChangelog(forWindows) {
 }
 
 $(".os").click(function(e) {
-	loadChangelog($this.hasClass("os-windows"));
+	loadChangelog($(this).hasClass("os-windows"));
 });
 
 loadChangelog(isWindows());
