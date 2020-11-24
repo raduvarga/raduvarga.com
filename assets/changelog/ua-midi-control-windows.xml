@@ -1,6 +1,14 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <item>
+      <title>3.7.0</title>
+      <pubDate>Tue, 24 Nov 2020 15:32:27 +0100</pubDate>
+      <description><![CDATA[First official alpha release. Synchronized the version with the Mac App.
+Added ability to change the Startup Preset in Preferences. 
+Added FAQ.]]></description>
+      <enclosure url="https://objects-us-east-1.dream.io/ua-midi-control/windows/UA%20Midi%20Control%20Setup.msi" sparkle:dsaSignature="MEQCIDEbrekKS3KF/1OgrI3eRGam+g+LviZgE/u66keS2/uSAiAi87iIYJcixQPrgo7t4w/+TPymAbU0JdV3+oFJeZ/Cdw==" sparkle:version="3.7.0" length="0" type="application/octet-stream" />
+    </item>
+    <item>
       <title>0.8.0</title>
       <pubDate>Sun, 22 Nov 2020 23:04:13 +0100</pubDate>
       <description><![CDATA[Updated the App Icon to work on a dark Taskbar.
@@ -25,7 +33,7 @@ Solved a bug where the app would not start correctly.]]></description>
     <item>
       <title>0.6.2</title>
       <pubDate>Sun, 15 Nov 2020 22:33:38 +0100</pubDate>
-      <description><![CDATA[The App now responsds to Plugins being added, removed, moved.
+      <description><![CDATA[The App now responds to Plugins being added, removed, moved.
 Plugin Presets are now mappable.
 Added "Preset" column to Sessions.
 Created "About" page.
@@ -35,7 +43,7 @@ Various other fixes.]]></description>
     <item>
       <title>0.6.1</title>
       <pubDate>Sun, 15 Nov 2020 22:11:51 +0100</pubDate>
-      <description><![CDATA[The App now responsds to Plugins being added, removed, moved.
+      <description><![CDATA[The App now responds to Plugins being added, removed, moved.
 Plugin Presets are now mappable.
 Added "Preset" column to Sessions.
 Created "About" page.
@@ -68,9 +76,9 @@ Added Channel Column for "Show All" Table.]]></description>
     </item>
     <item>
       <title>0.4.1</title>
-      <pubDate>Thu, 12 Nov 2020 16:04:44 +0100</pubDate>
+      <pubDate>Thu, 12 Nov 2020 16:16:14 +0100</pubDate>
       <description><![CDATA[Solved some issues with automatic pairing of Midi Input/Output ports.]]></description>
-      <enclosure url="https://objects-us-east-1.dream.io/ua-midi-control/windows/UA%20Midi%20Control%20Setup.msi" sparkle:dsaSignature="MEQCICFzX17GMhUdRYnpSpdgKt7l5ERXM7IExBkjcf7nKvgvAiALpCWGftV8esNJw7ws+GCC5ZvvrHTztdyRl/01iYwZfA==" sparkle:version="0.4.1" length="0" type="application/octet-stream" />
+      <enclosure url="https://objects-us-east-1.dream.io/ua-midi-control/windows/UA%20Midi%20Control%20Setup.msi" sparkle:dsaSignature="MEUCIQC/4RozNoTmqDlkBwTth4IjEW0mkp2MgBsUpHKKxdbnuQIgdlrWO6QcX/rrpYabwheOtWy3wB1hOMdTFAfZWGCYdpE=" sparkle:version="0.4.1" length="0" type="application/octet-stream" />
     </item>
     <item>
       <title>0.4.0</title>
