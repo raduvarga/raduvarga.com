@@ -35,8 +35,9 @@ Extra features in the <b> FULL </b> version:
 - Control Inserts & Unison: Power, all Effect Parameters, all Effect Presets
 - Control Aux: Volume, Mute, Mono, Pre/Post, Inserts, Sends
 - Control Outputs (Monitoring, CUE, HP): Volume, Mute, Mono, Dim, Alt, Source
+- Control Talkback
 - Synchronized feedback on your midi device with adjustable color
 - Save and load file Presets
-- Link Console Sessions with Presets and midi map them
+- Link Console Sessions with Presets and load them via midi commands
 
 Pricing: 14 Day Trial, then <b> 39€ </b>
