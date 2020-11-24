@@ -11,7 +11,7 @@ download-windows: https://objects-us-east-1.dream.io/ua-midi-control/windows/UA%
 counter-key-windows: ua-midi-control-app-windows
 img: 
 - /assets/img/software/ua-screenshot-dark.png
-- /assets/img/software/ua-screenshot-light.png
+- /assets/img/software/ua-screenshot-windows-dark.png
 video: 3LLFUaXEhuY
 fundraiser: ua-midi-control
 changelog: ua-midi-control
