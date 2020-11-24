@@ -2,11 +2,11 @@
   <channel>
     <item>
       <title>3.7.0</title>
-      <pubDate>Tue, 24 Nov 2020 15:32:27 +0100</pubDate>
+      <pubDate>Tue, 24 Nov 2020 17:09:23 +0100</pubDate>
       <description><![CDATA[First official alpha release. Synchronized the version with the Mac App.
 Added ability to change the Startup Preset in Preferences. 
 Added FAQ.]]></description>
-      <enclosure url="https://objects-us-east-1.dream.io/ua-midi-control/windows/UA%20Midi%20Control%20Setup.msi" sparkle:dsaSignature="MEQCIDEbrekKS3KF/1OgrI3eRGam+g+LviZgE/u66keS2/uSAiAi87iIYJcixQPrgo7t4w/+TPymAbU0JdV3+oFJeZ/Cdw==" sparkle:version="3.7.0" length="0" type="application/octet-stream" />
+      <enclosure url="https://objects-us-east-1.dream.io/ua-midi-control/windows/UA%20Midi%20Control%20Setup.msi" sparkle:dsaSignature="MEUCIEQUlXDomhYkV1yQy2sQoL9jUMfg83u57Sj3pQaBX8X4AiEAijoqYmTl6CQ6v+v7Js4aUkkfZqA3g0kBBZI0iPoIxUw=" sparkle:version="3.7.0" length="0" type="application/octet-stream" />
     </item>
     <item>
       <title>0.8.0</title>
