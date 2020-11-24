@@ -2,8 +2,9 @@
 title: Feature Requests
 fundraisers:
 - mackie-control-ua-midi-control
-- ua-midi-control-windows-version
+- eucon-ua-midi-control
 - midi-inputampoutput-chooser-ua-midi-control
+- ua-midi-control-windows-version
 - talkback-button-ua-midi-control
 - clips-and-solo-clear-buttons-ua-midi-control
 - tempo-and-tap-ua-midi-control
