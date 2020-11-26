@@ -1,6 +1,12 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <item>
+      <title>3.7.1</title>
+      <pubDate>Thu, 26 Nov 2020 22:01:57 +0100</pubDate>
+      <description><![CDATA[Solved a bug where Midi feedback wasn't being sent on startup.]]></description>
+      <enclosure url="https://objects-us-east-1.dream.io/ua-midi-control/windows/UA%20Midi%20Control%20Setup.msi" sparkle:dsaSignature="MEUCIFJJy0k9jaHPDwWNFczTLicVsIqtvrEiVD4/ZiMzYjKDAiEA0e9SNsvCu+dqO5upQTmAWJ0XviR6vMJONOfMFLWpn1w=" sparkle:version="3.7.1" length="0" type="application/octet-stream" />
+    </item>
+    <item>
       <title>3.7.0</title>
       <pubDate>Tue, 24 Nov 2020 17:26:19 +0100</pubDate>
       <description><![CDATA[Added ability to change the Startup Preset in Preferences. Added FAQ. First official alpha release. Synchronized the version with the Mac App.]]></description>
