@@ -10,6 +10,11 @@
         <question> Does it work with Mackie Control Protocol ? </question>
         <answer> Currently not, but this feature is in development. Check more details in the Feature Requests. </answer>
     </item>
+
+    <item>
+        <question> The App doens't open on Windows. </question>
+        <answer> You likely have an outdated .NET Framework need to upgrade least version 4.7.2 </answer>
+    </item>
     
     <item>
         <question> I get a security error when I try to open the App on Mac. </question>
