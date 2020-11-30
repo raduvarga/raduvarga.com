@@ -40,4 +40,7 @@ Extra features in the <b> FULL </b> version:
 - Save and load file Presets
 - Link Console Sessions with Presets and load them via midi commands
 
-Pricing: 14 Day Trial, then <b> 39€ </b>
+
+Trial: 14 Days
+
+Pricing: <s> 59€ </s> <b> 39€ </b> (In-App purchase, valid until 15 Dec 2020)
