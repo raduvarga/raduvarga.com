@@ -1,6 +1,12 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <item>
+      <title>3.7.2</title>
+      <pubDate>Thu, 03 Dec 2020 14:52:52 +0100</pubDate>
+      <description><![CDATA[Showing more details in the names of the Midi Input/Output ports.]]></description>
+      <enclosure url="https://objects-us-east-1.dream.io/ua-midi-control/windows/UA%20Midi%20Control%20Setup.msi" sparkle:dsaSignature="MEYCIQC3swlO9rFbmlqAfLaBOoK9b7cQVfbQrwumzM49jrGY4wIhAKi4UB5yp/2wHFVJMcSYtFkgAOiXMYxnS6HCgrFRVVt5" sparkle:version="3.7.2" length="0" type="application/octet-stream" />
+    </item>
+    <item>
       <title>3.7.1</title>
       <pubDate>Thu, 26 Nov 2020 22:01:57 +0100</pubDate>
       <description><![CDATA[Solved a bug where Midi feedback wasn't being sent on startup.]]></description>
