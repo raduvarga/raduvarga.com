@@ -1209,7 +1209,7 @@ body {
 	    padding: 13px 15px 13px 15px;
 
 	    &:hover {
-			opacity: 0.7;
+			opacity: 0.75;
 	    	color: white !important;
 		}
 
@@ -1310,8 +1310,18 @@ body {
 	}
 }
 
-.commentbox {
+.commentbox{
 	margin-top: 14px;
+}
+
+.powr-reviews {
+	margin-top: 8px;
+	margin-right: -10px;
+	margin-left: -2px;
+}
+
+.comments .rating-2 {
+    color: black !important;
 }
 
 .title-os {
@@ -1334,7 +1344,7 @@ body {
 .tab {
 	white-space: nowrap;
 	height: 35px;
-	width: 25%;
+	width: 20%;
 	border: 0px;
 	font-weight: 700;
 	font-size: 15px;
@@ -1379,6 +1389,16 @@ body {
 .fundraiser {
 	margin-top: -20px;
 }
+.fundraiser-completed {
+	opacity: 0.5;
+}
+.fundraiser-icon {
+	font-size: 30px;
+	vertical-align: top;
+    margin-top: 80px;
+    width: 14%;
+    text-align: right;
+}
 .embed-fundraiser {
 	margin-top: 10px;
 }
@@ -1401,6 +1421,10 @@ body {
 			font-size: $body_size;
 		}
 	}
+}
+
+.the-new-quesions {
+		margin-top: 30px;
 }
 
 .post-footer {

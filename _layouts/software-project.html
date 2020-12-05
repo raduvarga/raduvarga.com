@@ -6,4 +6,8 @@ description: Software Project
 {% include project.html project = page
 						content = content %}
 
-<div class="commentbox commentbox-software"></div>
+<!-- <div class="commentbox commentbox-software"></div> -->
+
+{% if page.reviews-id  %}
+	<div class="powr-reviews" id="{{ page.reviews-id }}"></div>
+{% endif %}

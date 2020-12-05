@@ -3,7 +3,9 @@ title: Contact Me
 layout: single-project
 permalink: /contact
 ---
-If you wish to get in contact for booking or any other reason, feel free to leave me a message in the form below or via any of the social platforms below.
+If you wish to get in contact, feel free to leave me a message in the form or via any of the social platforms below.
+
+If you have a question about the UA Midi Control App, you can also check the active Topics in the App's Discussion Group <a href="https://www.everforo.com/g/uamidicontrol/all/All" target="_blank"> HERE </a>.
 <br><br>
 
 <form id="contact-form" action="#" method="post" class="comment-form contact">

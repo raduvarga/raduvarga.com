@@ -17,6 +17,8 @@ fundraiser: ua-midi-control
 changelog: ua-midi-control
 changelog-windows: ua-midi-control-windows
 faq: ua-midi-control
+reviews-id: 834934ee_1607109019
+discussion-url: https://www.everforo.com/g/uamidicontrol/all/All
 html-class: software
 description: Control Apollo Console via Midi with UA Midi Control
 ---
