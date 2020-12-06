@@ -21,4 +21,4 @@ To speed up the development process, I've created separate fundraisers for a lis
 When any of the feature fundraiser goals have been fully reached, they will be prioritized, implemented and released as soon as possible. The estimated time is described separately for each. 
 Partial funding will also be taken into consideration.
 
-If you have any other feature requests, please post a new Topic <a href="https://www.everforo.com/g/uamidicontrol/all/Relevant/1/3" target="_blank"> HERE </a>.
+If you have any other feature requests, please post a new Topic <a href="https://www.everforo.com/g/uamidicontrol/all/All/1/3" target="_blank"> HERE </a>.
