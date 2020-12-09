@@ -175,5 +175,14 @@ App now runs in background, the menu items have been moved to the Taskbar.]]></d
             <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
             <enclosure url="https://objects-us-east-1.dream.io/ua-midi-control/UA%20Midi%20Control.zip" sparkle:version="133" sparkle:shortVersionString="3.7.2" length="6206870" type="application/octet-stream" sparkle:edSignature="+DmxpIUL/c5fKDtbHhTWLa6X7Ldi69MA+ExmKUcFhMqM86d1mckCuijHEmLVWlzIAhw7OX8XXRf/Wc/JkrdTCg=="/>
         </item>
+        <item>
+            <title>3.8.0</title>
+            <pubDate>Wed, 09 Dec 2020 17:03:03 +0100</pubDate>
+            <description><![CDATA[Added Mono to CUE Outputs.
+Added Next/Previous Preset parameter.
+Reorganized the Menu.]]></description>
+            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+            <enclosure url="https://objects-us-east-1.dream.io/ua-midi-control/UA%20Midi%20Control.zip" sparkle:version="135" sparkle:shortVersionString="3.8.0" length="6222922" type="application/octet-stream" sparkle:edSignature="qc75Pipe+qfh2LYrLO6toEvQf+1HjjMDJdELRctKFHMHIsay/19rUqE7l1NqA3uzNYEk2PBzDjmGyUvQWm/8DQ=="/>
+        </item>
     </channel>
 </rss>
