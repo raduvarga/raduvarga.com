@@ -14,6 +14,8 @@ $("#contact-form").submit(function (e) {
 
 	body = body.replaceAll("\n", "<br>");
 
+	// https://smtpjs.com/
+	
 	Email.send({
 		SecureToken : "e84d4126-5583-46ed-a3ef-b301f2c02743",
 	    To : "contact@raduvarga.com",
