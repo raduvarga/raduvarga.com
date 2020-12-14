@@ -3,7 +3,6 @@ title: Feature Requests
 fundraisers:
 - eucon-ua-midi-control
 - midi-inputampoutput-chooser-ua-midi-control
-- nextprevious-effect-preset
 - clips-and-solo-clear-buttons-ua-midi-control
 - tempo-and-tap-ua-midi-control
 - midi-takeover-mode-ua-midi-control
