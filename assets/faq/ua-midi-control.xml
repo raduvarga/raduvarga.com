@@ -20,6 +20,13 @@
         <question> I get a security error when I try to open the App on Mac. </question>
         <answer> You need to right-click on the App and click Open. Alternatively, allow the App from the Security tab in System Preferences. </answer>
     </item>
+
+     <item>
+        <question> Which Midi Controllers are supported ? </question>
+        <answer>  You can find a list <a href="https://www.everforo.com/g/uamidicontrol/thread/list-of-known-supported-midi-controllers-2398 " target="_blank"> HERE </a>. 
+
+    </answer>
+    </item>
     
     <item>
         <question> How to use the Button Type (Knob, Momentary, Toggle) ? </question>
