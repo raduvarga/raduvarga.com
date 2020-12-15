@@ -1,6 +1,12 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <item>
+      <title>3.8.1</title>
+      <pubDate>Tue, 15 Dec 2020 18:12:54 +0100</pubDate>
+      <description><![CDATA[Solved a bug where the App would crash at startup when not connected to the Internet.]]></description>
+      <enclosure url="https://objects-us-east-1.dream.io/ua-midi-control/windows/UA%20Midi%20Control%20Setup.msi" sparkle:dsaSignature="MEUCIEsYyZB58JU0nO6CkIQHs39B/XselVMtqVnefOtIjhmCAiEA1f00MQaUvN2WswfUjdpGmr1CrAYW8PoaZ1ZUFAyh3w4=" sparkle:version="3.8.1" length="0" type="application/octet-stream" />
+    </item>
+    <item>
       <title>3.8.0</title>
       <pubDate>Thu, 10 Dec 2020 20:18:47 +0100</pubDate>
       <description><![CDATA[Added Mono to CUE Outputs.
