@@ -45,4 +45,4 @@ Extra features in the <b> FULL </b> version:
 
 Trial: 14 Days
 
-Pricing: <s> 59€ </s> <b> 39€ </b> (In-App purchase, sale valid until 15 Dec 2020)
+Pricing: <b> 59€ </b> (In-App Purchase)
