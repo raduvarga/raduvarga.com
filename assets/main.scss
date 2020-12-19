@@ -1422,7 +1422,9 @@ body {
 
 			img {
 				width: auto;
-				margin-bottom: 10px;
+			}
+			img + li {
+				margin-top: 10px;
 			}
 		}
 	}
