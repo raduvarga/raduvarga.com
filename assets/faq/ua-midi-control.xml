@@ -3,7 +3,7 @@
 
     <item>
         <question> Does it work with Luna? </question>
-        <answer> No, it doens't. I have tried to integrate it, but it's simply not possible, Luna communicates in a different way than Console. </answer>
+        <answer> No, currently it doens't. But I am trying to find ways to make this work, it might be possible to control the effects inside Luna at least. </answer>
     </item>
 
      <item>
