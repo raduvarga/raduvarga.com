@@ -1419,6 +1419,10 @@ body {
 		.description {
 			margin-top: 8px;
 			font-size: $body_size;
+
+			img {
+				width: auto;
+			}
 		}
 	}
 }
