@@ -25,7 +25,7 @@ description: Control Apollo Console via Midi with UA Midi Control
 
 UA Midi Control allows you to control the Apollo Console software via Midi.
 
-Features in the <b> FREE </b> version:
+<b> FREE version </b> includes:
 - Control Inputs: Volume, Mute, Pan, Solo, Sends, UAD REC
 - Control Preamps: Gain, 48V, Low Cut, Phase, Pad 
 - Control Sends: Gain, Mute, Pan
@@ -33,7 +33,7 @@ Features in the <b> FREE </b> version:
 - Edit the range (Min/Max)
 - Mapping is linked to specific midi device
 
-Extra features in the <b> FULL </b> version:
+<b> FULL version </b> also includes:
 - Control Inserts & Unison: Power, all Effect Parameters, all Effect Presets
 - Control Aux: Volume, Mute, Mono, Pre/Post, Inserts, Sends
 - Control Outputs (Monitoring, CUE, HP): Volume, Mute, Mono, Dim, Alt, Source
@@ -42,7 +42,15 @@ Extra features in the <b> FULL </b> version:
 - Save and load file Presets
 - Link Console Sessions with Presets and load them via midi commands
 
+<b> Compatibility: </b>
 
-Trial: 14 Days
+- Mac OS Sierra (10.12) -> Mac OS Big Sur (11.x)   
+- Windows 10 & .NET Framework 4.7.2
+- Any midi enabled controller (including Midi Apps)
 
-Pricing: <b> 59€ </b> (In-App Purchase)
+<b> Trial </b>: 
+- 14 Days
+
+<b> Pricing </b>: 
+- Free version: Free
+- Full version: 59€ (In-App Purchase)

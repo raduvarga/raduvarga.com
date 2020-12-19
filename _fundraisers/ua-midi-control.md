@@ -3,9 +3,6 @@ title: Feature Requests
 fundraisers:
 - eucon-ua-midi-control
 - midi-inputampoutput-chooser-ua-midi-control
-- clips-and-solo-clear-buttons-ua-midi-control
-- tempo-and-tap-ua-midi-control
-- midi-takeover-mode-ua-midi-control
 in-progress:
 - mackie-control-ua-midi-control
 completed: 
@@ -13,11 +10,9 @@ completed:
 - ua-midi-control-windows-version
 ---
 
-At the moment I am receiving many requests for future enhancements. I am always working on improvements for the App, but given my current workload I cannot deliver as quickly as I may like to.
+Too see the complete list of feature requests or to submit a new one, click <a href="https://www.everforo.com/g/uamidicontrol/all/All/1/3" target="_blank"> HERE </a>.
 
-To speed up the development process, I've created separate fundraisers for a list of feature requested by users.
+Based on the interest, I will include smaller features in upcoming updates.
 
-When any of the feature fundraiser goals have been fully reached, they will be prioritized, implemented and released as soon as possible. The estimated time is described separately for each. 
-Partial funding will also be taken into consideration.
-
-If you have any other feature requests, please post a new Topic <a href="https://www.everforo.com/g/uamidicontrol/all/All/1/3" target="_blank"> HERE </a>.
+For more complex requests, I've created separate fundraisers, which usually act as a pre-order for that feature.
+When any of the feature fundraiser goals have been fully reached, they will be prioritized, implemented and released as soon as possible. The estimated time is described separately for each.
