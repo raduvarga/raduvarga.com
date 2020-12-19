@@ -1,10 +1,10 @@
-<div class="post-content hidden" tab-id="changelog">
+<div class="post-content hidden" tab-id="release-notes" alternate-id="changelog">
 	<span class="title-span"> 
 		{% if include.project.logo %}
 			<img class="title-logo" src="{{ include.project.logo }}"></img>
 		{% endif %}
 
-		<h2 class="title"> Changelog </h2>
+		<h2 class="title"> Release Notes </h2>
 	</span>
 
 	<div class="title-os">
@@ -12,7 +12,7 @@
 		<a class="fa fa-apple os os-mac selected"></a>
 	</div>
 
-	<div class="the-changelog" url="/assets/changelog/{{ include.project.changelog }}.xml" url-windows="/assets/changelog/{{ include.project.changelog-windows }}.xml">
+	<div class="the-release-notes" url="{{ include.project.release-notes }}" url-windows="{{ include.project.release-notes-windows }}">
 		
 	</div>
 
