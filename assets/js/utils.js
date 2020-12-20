@@ -64,6 +64,25 @@ function isWindows() {
     return Detect.os == "Windows";
 }
 
+function getCacheBustedUrl(urlString) {
+    var url = new URL(urlString);
+    var params = new URLSearchParams(url.search);
+    params.set('_', Date.now());
+    url.search = params.toString();
+
+    return url;
+}
+
+function download(urlString) {
+    var link = document.createElement("a");
+    link.href = getCacheBustedUrl(urlString);
+    document.body.appendChild(link);
+    link.click();
+
+    document.body.removeChild(link);
+    delete link;
+}
+
 function setIframHeight() {
     var position = $('.iframe-dynamic').position();
     
