@@ -14,8 +14,8 @@ img:
 - /assets/img/software/ua-screenshot-windows-dark.png
 video: 3LLFUaXEhuY
 fundraiser: ua-midi-control
-release-notes: /assets/release-notes/UA Midi Control.html
-release-notes-windows: /assets/release-notes/UA Midi Control Windows.html
+release-notes: https://objects-us-east-1.dream.io/ua-midi-control/UA Midi Control.html
+release-notes-windows: https://objects-us-east-1.dream.io/ua-midi-control/windows/UA Midi Control Windows.html
 faq: ua-midi-control
 reviews-id: 834934ee_1607109019
 discussion-url: https://www.everforo.com/g/uamidicontrol/all/All
