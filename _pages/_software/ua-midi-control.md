@@ -53,4 +53,4 @@ UA Midi Control allows you to control the Apollo Console software via Midi.
 
 <b> Pricing </b>: 
 - Free version: <b> Free </b>
-- Full version: <s> 59€ </s>
+- Full version: <b> 59€ </b>
