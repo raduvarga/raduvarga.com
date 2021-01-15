@@ -4,7 +4,9 @@ image: /assets/img/collaborations/ante.jpg
 layout: single-project
 permalink: /collaborations/the-ante-dote
 img: /assets/img/collaborations/ante.jpg
-video: nsYJ-KgMkd4
+video: 
+- yt: nsYJ-KgMkd4
+  title: Impro Sessions - Episode 2 (Annalinde)
 website: https://ante-dote.net
 description: Collaborations
 ---

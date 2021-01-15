@@ -6,7 +6,9 @@ permalink: /collaborations/henrik-baumgarten
 img: 
 - /assets/img/collaborations/henrik-black.jpg
 - /assets/img/collaborations/henrik.jpg
-video: JwEKpQYzcPA
+video: 
+- yt: JwEKpQYzcPA
+  title: Rêverie | Radu Varga & Henrik Baumgarten
 bandcamp: 
 website: http://bediscology.de
 description: Collaborations

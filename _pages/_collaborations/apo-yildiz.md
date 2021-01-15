@@ -6,9 +6,12 @@ permalink: /collaborations/apo-yildiz
 img: 
 - /assets/img/collaborations/apo.jpg
 video: 
-- 7hdzFyl5SbY
-- a2sJPvACG48
-- JB3kmsEZe3U
+- yt: 7hdzFyl5SbY
+  title: Kele Kele | Guitar & Duduk
+- yt: a2sJPvACG48
+  title: Ben Giderim Batuma | Sala Fest
+- yt: JB3kmsEZe3U
+  title: Sareri Hovin Mernem | Duduk & Guitar
 bandcamp: 
 website: https://apoduduk.com/
 description: Collaborations

@@ -6,10 +6,9 @@ permalink: /collaborations/siti-naturaleza
 img: 
 - /assets/img/collaborations/siti.jpg
 - /assets/img/gallery/1 siti/1.jpg
-video: VtoP1EtA45g
-soundcloud:
-- users/320552002
-bandcamp: 
+video: 
+- yt: VtoP1EtA45g
+  title: Impro Sessions - Episode 4 (Clara Zetkin)
 website: https://soundcloud.com/sitinaturaleza
 description: Collaborations
 ---

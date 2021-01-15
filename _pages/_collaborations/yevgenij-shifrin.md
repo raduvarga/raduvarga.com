@@ -6,7 +6,9 @@ permalink: /collaborations/yevgenij-shifrin
 img: 
 - /assets/img/collaborations/yevgenij.jpg
 - /assets/img/collaborations/yevgenij-black.jpg
-video: 2NLxce5bBBY
+video: 
+- yt: 2NLxce5bBBY
+  title: Impro Sessions - Episode 3 (Treehouse)
 <!-- soundcloud: playlists/864579057 -->
 <!-- bandcamp: album=4155025283 -->
 website: https://www.shifrinmusic.com
