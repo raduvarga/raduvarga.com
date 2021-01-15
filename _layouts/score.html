@@ -3,8 +3,22 @@ layout: default
 description: Sheet music
 ---
 
+{%assign pdfPath = "/assets/scores/" | append: page.title | append: ".pdf" %}
+
 <h2 class="center-title"> {{ page.title }} - {{ page.artist }} 
 	<div class="title-download">
+
+		{% if page.musescore-uri != nil %}
+			<a href="https://www.musescore.com/{{ page.musescore-uri }}" class="musescore-btn" target="_blank">
+				<img src="/assets/img/musescore-icon.png"></i>
+			</a>
+		{% endif %}
+
+		{% if page.soundslice-uri != nil %}
+			<a href="https://www.soundslice.com/{{ page.soundslice-uri }}" class="soundslice-btn" target="_blank">
+				<img src="/assets/img/soundslice-icon.png"></i>
+			</a>
+		{% endif %}
 
 		{% if page.youtube-uri != nil %}
 			<a href="https://www.youtube.com/watch?v={{ page.youtube-uri }}" class="youtube-btn" target="_blank">
@@ -13,13 +27,11 @@ description: Sheet music
 		{% endif %}
 
 
-		<a href="/assets/scores/{{ page.title }}.pdf" class="download-btn" download>
+		<a href="{{ pdfPath }}" class="download-btn download-score" download>
 			<i class="fa fa-download"></i>
 			<b> PDF </b>
 		</a>
 	</div>
 </h2> 
 
-{%- include musescore.html uri = page.musescore-uri -%}
-
-<div class="commentbox commentbox-score"></div>
+{%- include pdf.html uri = pdfPath -%}

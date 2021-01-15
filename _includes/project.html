@@ -15,8 +15,9 @@
 					<!-- video -->
 					{% for item in include.project.video %}
 					<span>
-						{% include youtube.html uri = item
-		  						  								ratio = "hd" %}
+						{% include youtube.html uri = item.yt
+												title = item.title
+		  						  			    ratio = "hd" %}
 					</span>
 					{% endfor %}
 

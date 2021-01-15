@@ -1,3 +1,14 @@
-<div class="aspect-ratio-container aspect-ratio-{{ include.ratio }}">
-	<iframe class="youtube" src="https://www.youtube-nocookie.com/embed/{{ include.uri }}?rel=0&iv_load_policy=3"  frameborder="0" scrolling="no"></iframe>
+{%assign aTag = "<a href='https://www.youtube.com/watch?v=" | append: include.uri | append: "' class='clickable' target='_blank'>"%}
+
+<div class="project-item aspect-ratio-hd">
+		{{ aTag }}
+		  <img class="aspect-img" src="https://img.youtube.com/vi/{{ include.uri }}/sddefault.jpg" >
+		</a>
+	<h2 class="title">
+	  {{ aTag }}
+	  	<i class="fa fa-play"> </i>
+			{{ include.title }}
+		</a>
+	</h2>
 </div>
+

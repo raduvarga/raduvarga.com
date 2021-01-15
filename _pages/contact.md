@@ -8,6 +8,7 @@ If you wish to get in contact, feel free to leave me a message in the form or vi
 If you have a question about the UA Midi Control App, you can also check the active Topics in the App's Discussion Group <a href="https://www.everforo.com/g/uamidicontrol/all/All" target="_blank"> HERE </a>.
 <br><br>
 
+
 <form id="contact-form" action="#" method="post" class="comment-form contact">
 	<div class="contact-item form-name">
 		<input name="name" value="" type="text" placeholder="Your Name">

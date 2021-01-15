@@ -8,10 +8,11 @@ permalink: /video
 
 	{% if item.fb %}
 	  {% include facebook.html uri = item.fb 
-	  						 					   ratio = "hd" %}
+	  						 	ratio = "hd" %}
   {% elsif item.yt %}
  		{% include youtube.html uri = item.yt 
-  						  						ratio = "hd" %}
+ 								title = item.title 
+  						  		ratio = "hd" %}
   {% endif %}
 
 {% endfor %}
