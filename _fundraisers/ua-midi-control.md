@@ -16,4 +16,4 @@ Too see the complete list of feature requests or to submit a new one, click <a h
 Based on the interest, I will include smaller features in upcoming updates.
 
 For more complex requests, I've created separate fundraisers, which usually act as a pre-order for that feature.
-When any of the feature fundraiser goals have been fully reached, they will be prioritized, implemented and released as soon as possible. The estimated time is described separately for each.
+When any of the feature fundraiser goals have been fully reached, they will be prioritized, implemented and released as soon as possible. Click on each fundraiser for more details.
