@@ -72,4 +72,5 @@ Allows you to control the Apollo Console software via Midi.
 - MIDI license: <b> 59€ </b> <a class="buy-button" href="https://buy.paddle.com/product/597389" target="_blank"> Buy </a>
 - MACKIE license: <b> 59€ </b> <a class="buy-button" href="https://buy.paddle.com/product/643526" target="_blank"> Buy </a>
 - MIDI + MACKIE license: <b> 89€ </b> <a class="buy-button" href="https://buy.paddle.com/product/643527" target="_blank"> Buy </a>
+- Existing users buying any other license: <b> 39€ </b> (Contact me for the offer)
 - Bulk discount: <b> 3 licenses + 1 free </b> (Contact me for details)
