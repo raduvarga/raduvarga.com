@@ -3,12 +3,12 @@
 
     <item>
         <question> Does it work with Luna? </question>
-        <answer> No, currently it doens't. But I am trying to find ways to make this work, it might be possible to control the effects inside Luna at least. </answer>
+        <answer> No, currently it doens't. But as soon as it will be possible, I will implement asap. </answer>
     </item>
 
      <item>
-        <question> Does it work on Big Sur? </question>
-        <answer> YES! No special update needed. </answer>
+        <question> Does it work on Big Sur? How about on the M1 Macs? </question>
+        <answer> YES! No special update needed.</answer>
     </item>
 
      <item>
@@ -29,7 +29,7 @@
 
     <item>
         <question> How can I bring the window in focus? </question>
-        <answer> From the menu press "UA Midi Control". </answer>
+        <answer> From the menu, press "UA Midi Control". </answer>
     </item>
 
      <item>

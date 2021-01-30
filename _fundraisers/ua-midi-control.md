@@ -2,12 +2,13 @@
 title: Feature Requests
 fundraisers:
 - eucon-ua-midi-control
-- midi-inputampoutput-chooser-ua-midi-control
+- ua-ios-android-app
 in-progress:
-- mackie-control-ua-midi-control
 completed: 
 - talkback-button-ua-midi-control
 - ua-midi-control-windows-version
+- mackie-control-ua-midi-control
+- midi-inputampoutput-chooser-ua-midi-control
 ---
 
 Too see the complete list of feature requests or to submit a new one, click <a href="https://www.everforo.com/g/uamidicontrol/all/All/1/3" target="_blank"> HERE </a>.

@@ -503,6 +503,23 @@ a {
 			color: $sub_title_color !important;
 		}
 	}
+
+	.buy-button {
+		display: inline-block;
+		// width: 39px;
+		background-color: #0D0D0D;
+	    border-radius: 5px;
+		color: white !important;
+	    font-size: 14px;
+	    margin-left: 8px;
+	    border: 0px;
+	    padding: 1px 7px 2px 5px;
+
+	    &:hover {
+			opacity: 0.75;
+	    	color: white !important;
+		}
+	}
 }
 
 .quicklinks  a {
@@ -1205,6 +1222,14 @@ body {
 		&.windows {
 		    float: right;
 		}
+	}
+
+	.download-note {
+		width: 170px;
+		margin-top: -15px;
+		line-height: 17px;
+		text-align: end;
+		float: right;
 	}
 
 	.download-btn {
