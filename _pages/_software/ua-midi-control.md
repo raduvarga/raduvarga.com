@@ -50,7 +50,7 @@ Allows you to control the Apollo Console software via Midi.
 - Map and load Console Sessions and link them to app Presets
 - Map and load Presets (a.k.a Midi Banks/Pages)
 
-<b> MACKIE license </b> includes:
+<b> MACKIE license </b> <i> (*the Windows release will be available soon) </i> includes: 
 - Use the MCU protocol to automatically map and fully control Console
 - Ability to add VPot as a Button Type
 
