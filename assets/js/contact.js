@@ -18,8 +18,8 @@ $("#contact-form").submit(function (e) {
 	
 	Email.send({
 		SecureToken : "e84d4126-5583-46ed-a3ef-b301f2c02743",
-	    To : "contact@raduvarga.com",
-	    From : "contact-form@raduvarga.com",
+	    To : obfuscateEmail("contact", "raduvarga.com"),
+	    From : obfuscateEmail("contact-form", "raduvarga.com"),
 	    FromName: name,
 	    ReplyAddress : email,
 	    Subject : subject,
@@ -35,6 +35,10 @@ $("#contact-form").submit(function (e) {
 	  	}
 	});
 });
+
+function obfuscateEmail(user, domain) {
+	return user + "@" + domain;
+}
 
 String.prototype.replaceAll = function(search, replace){
    return this.replace(new RegExp(search, 'g'), replace)
