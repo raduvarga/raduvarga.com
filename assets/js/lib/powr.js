@@ -155,16 +155,21 @@
         F()("Settings got a message!", e);
         try {
             var t = JSON.parse(e.data);
+
+                // Radu
+                onPowrLoaded();
             if ("viewLoaded" == t.message) {
                 F()("Settings received view loaded");
                 var o = t.data.iframe_index;
+
                 POWR_RECEIVERS[o].loaded = !0;
-                var n = t.data.cookiesToGet;
+                
                 0 < n.length &&
                     ((POWR_RECEIVERS[o].cookies = n.map(function (e) {
                         return { cname: e, value: z(e) };
                     })),
                     POWR_RECEIVERS[o].receiver.postMessage(JSON.stringify({ message: "cookiesSent", cookies: POWR_RECEIVERS[o].cookies }), POWR_RECEIVERS[o].url));
+                
             } else if ("updateSize" == t.message) {
                 "undefined" != typeof gadgets && void 0 !== gadgets.window && void 0 !== gadgets.window.adjustHeight && gadgets.window.adjustHeight(t.data.height);
                 var o = t.data.iframe_index,
