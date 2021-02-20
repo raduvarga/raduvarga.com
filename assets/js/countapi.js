@@ -4,14 +4,16 @@ let counterGetUrl = "https://api.countapi.xyz/get/raduvarga.com/";
 $(".download-btn").on("click", function (e) {
   console.log('download');
 
-  let $counter = $(this);
-  let counterKey = $counter.attr("counter-key");
+  if (!isLocalhost()) {
+    let $counter = $(this);
+    let counterKey = $counter.attr("counter-key");
 
-  if (counterKey && counterKey != "") {
-    $.ajax({url: counterHitUrl + counterKey,
-      success: function(result) {
-        $("p[counter-key=" + counterKey + "]").html(numberWithCommas(result.value));
-    }});
+    if (counterKey && counterKey != "") {
+      $.ajax({url: counterHitUrl + counterKey,
+        success: function(result) {
+          $("p[counter-key=" + counterKey + "]").html(numberWithCommas(result.value));
+      }});
+    }
   }
 });
 
