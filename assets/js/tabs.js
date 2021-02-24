@@ -32,9 +32,9 @@ function showTab(tabId) {
 
 function onPowrLoaded() {
 	console.log("onPowrLoaded");
-		setTimeout(function() {
-			window.location.hash = window.location.hash;
-		}, 100);
+		// setTimeout(function() {
+		// 	window.location.hash = window.location.hash;
+		// }, 100);
 }
 
 var hash = window.location.hash;
