@@ -13,12 +13,12 @@ img:
 - /assets/img/software/ua-screenshot-dark.png
 - /assets/img/software/ua-screenshot-windows-dark.png
 video: 
-- yt: 3LLFUaXEhuY
-  title: Control the UAD Apollo Console with MIDI | UA Midi Control App
 - yt: -rKfKjD1NgQ
   title: Control the UAD Console with Mackie Control (MCU) | UA Midi Control
 - yt: 4XWNGff0h_E
   title: Change banks/pages within UA Midi Control
+- yt: 3LLFUaXEhuY
+  title: Control the UAD Apollo Console with MIDI | UA Midi Control App
 fundraiser: ua-midi-control
 release-notes: https://objects-us-east-1.dream.io/ua-midi-control/UA Midi Control.html
 release-notes-windows: https://objects-us-east-1.dream.io/ua-midi-control/windows/UA Midi Control Windows.html

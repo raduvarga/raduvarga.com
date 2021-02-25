@@ -2,6 +2,13 @@
 <faq>
 
     <item>
+        <question> How can I bring the window in focus? How can I quit the app? </question>
+        <answer> From the menu from the statusbar icon, then click "UA Midi Control".
+                <img src="/assets/img/software/ua-app-menu.png"/> 
+        </answer>
+    </item>
+
+    <item>
         <question> Does it work with Luna? </question>
         <answer> No, currently it's not possible to communicate with Luna. </answer>
     </item>
@@ -11,31 +18,19 @@
         <answer> YES! No special update needed.</answer>
     </item>
 
-     <item>
-        <question> Does it work with Mackie Control Protocol ? </question>
-        <answer> Currently not, but this feature is in development. You can follow the progress <a href="https://www.everforo.com/g/uamidicontrol/thread/mackie-control-funding-goal-reached-2399" target="_blank"> HERE </a>. 
-         </answer>
-    </item>
-    
-    <item>
-        <question> I get a security error when I try to open the App on Mac. </question>
-        <answer> You need to right-click on the App and click Open. Alternatively, allow the App from the Security tab in System Preferences. </answer>
-    </item>
-
     <item>
         <question> The App doens't open on Windows. </question>
         <answer> You likely have an outdated .NET Framework need to upgrade least version 4.7.2 </answer>
     </item>
 
     <item>
-        <question> How can I bring the window in focus? </question>
-        <answer> From the menu, press "UA Midi Control". </answer>
+        <question> Can I automate Console parameters from my DAW? </question>
+        <answer> Yes. I will create a tutorial on this soon. </answer>
     </item>
 
      <item>
         <question> Which Midi Controllers are supported ? </question>
         <answer>  You can find a list <a href="https://www.everforo.com/g/uamidicontrol/thread/list-of-known-supported-midi-controllers-2398 " target="_blank"> HERE </a>. 
-
     </answer>
     </item>
     
