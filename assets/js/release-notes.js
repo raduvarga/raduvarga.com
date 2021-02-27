@@ -28,7 +28,7 @@ function loadReleaseNotes(forWindows) {
 					var versionNr = parseFloat(version);
 					if(versionNr >= 3.6) {
 						var href = "https://objects-us-east-1.dream.io/ua-midi-control/builds/UA Midi Control " + version + ".zip"
-						$item.find(".title").append('<a class="fa fa-download" aria-label="download" href="' + href + '"/>');
+						$item.find(".title").append('<a class="fa fa-download" aria-label="download" href="' + href + '" target="_blank"/>');
 					}
 				}
 			});
