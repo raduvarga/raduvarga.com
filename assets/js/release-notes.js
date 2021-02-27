@@ -27,8 +27,8 @@ function loadReleaseNotes(forWindows) {
 					var version = $item.find(".version").html();
 					var versionNr = parseFloat(version);
 					if(versionNr >= 3.6) {
-						var href = "https://objects-us-east-1.dream.io/ua-midi-control/builds/UA Midi Control " + version + ".zip"
-						$item.find(".title").append('<a class="fa fa-download" aria-label="download" href="' + href + '" target="_blank"/>');
+						var href = "javascript:download('https://objects-us-east-1.dream.io/ua-midi-control/builds/UA Midi Control " + version + ".zip');"
+						$item.find(".title").append('<a class="fa fa-download" aria-label="download" href="' + href + '"/>');
 					}
 				}
 			});
