@@ -56,7 +56,7 @@ Allows you to control the Apollo Console software via Midi.
 
 <b> OS Compatibility: </b>
 
-- Mac OS Sierra (10.12) -> Mac OS Big Sur (11.x)   
+- Mac OS El Capitan (10.11) -> Mac OS Big Sur (11.x)   
 - Windows 10 & .NET Framework 4.7.2
 
 <b> Device Compatibility: </b>

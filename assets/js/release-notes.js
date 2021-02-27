@@ -19,9 +19,21 @@ function loadReleaseNotes(forWindows) {
 		}).done(function(xml) {
 
 			let releaseNotes = $($.parseHTML(xml));
-			let $items = $(releaseNotes[3].innerHTML);
+			let $theReleaseNotes = $(releaseNotes[3].innerHTML);
 
-			$releaseNotesDiv.html($items);
+			$theReleaseNotes.each(function(index, item) {
+				var $item = $(item);
+				if($item.hasClass("item")) {
+					var version = $item.find(".version").html();
+					var versionNr = parseFloat(version);
+					if(versionNr >= 3.6) {
+						var href = "https://objects-us-east-1.dream.io/ua-midi-control/builds/UA Midi Control " + version + ".zip"
+						$item.find(".title").append('<a class="fa fa-download" aria-label="download" href="' + href + '"/>');
+					}
+				}
+			});
+
+			$releaseNotesDiv.html($theReleaseNotes);
 		});
 	}
 }
