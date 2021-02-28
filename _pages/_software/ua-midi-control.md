@@ -35,7 +35,7 @@ Allows you to control the Apollo Console software via Midi.
 - Control Inputs: Volume, Mute, Pan, Solo, Sends, UAD REC
 - Control Preamps: Gain, 48V, Low Cut, Phase, Pad 
 - Control Sends: Gain, Mute, Pan
-- Select the button type on your device (Knob, Momentary, Toggle)
+- Select the button type on your device (Knob, Momentary, Toggle, VPot)
 - Edit the range (Min/Max)
 - Mapping is linked to the midi device by default, global mappings can also be used
 - Accesibility via VoiceOver
@@ -52,7 +52,6 @@ Allows you to control the Apollo Console software via Midi.
 
 <b> MACKIE license </b> <i> (*the Windows release will be available soon) </i> includes: 
 - Use the MCU protocol to automatically map and fully control Console
-- Ability to add VPot as a Button Type
 
 <b> OS Compatibility: </b>
 
