@@ -50,7 +50,7 @@ Allows you to control the Apollo Console software via Midi.
 - Map and load Console Sessions and link them to app Presets
 - Map and load Presets (a.k.a Midi Banks/Pages)
 
-<b> MACKIE license </b> <i> (*the Windows release will be available soon) </i> includes: 
+<b> MACKIE license </b> includes: 
 - Use the MCU protocol to automatically map and fully control Console
 
 <b> OS Compatibility: </b>
@@ -64,7 +64,7 @@ Allows you to control the Apollo Console software via Midi.
 - Mackie Control (MCU) control surfaces.
 
 <b> Trial </b>: 
-- 14 Days
+- 14 Days (the App will automatically switch to Free mode after trial ends)
 
 <b id="pricing"> Pricing </b>: 
 - FREE version: <b> Free </b>
