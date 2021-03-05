@@ -35,7 +35,8 @@ Allows you to control the Apollo Console software via Midi.
 - Control Inputs: Volume, Mute, Pan, Solo, Sends, UAD REC
 - Control Preamps: Gain, 48V, Low Cut, Phase, Pad 
 - Control Sends: Gain, Mute, Pan
-- Select the button type on your device (Knob, Momentary, Toggle, VPot)
+- Supported Midi Messages: CC, Note, Pitch Bend
+- Change the button type (Knob, Momentary, Toggle, VPot)
 - Edit the range (Min/Max)
 - Mapping is linked to the midi device by default, global mappings can also be used
 - Accesibility via VoiceOver

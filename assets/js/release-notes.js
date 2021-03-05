@@ -28,13 +28,17 @@ function loadReleaseNotes(forWindows) {
 				if($item.hasClass("item")) {
 					var version = $item.find(".version").html();
 					var versionNr = parseFloat(version);
+					var build = $item.find(".build").html();
+					if (build != undefined) {
+						version += "." + build;
+					}
 					var folder = forWindows ? "windows/builds/" : "builds/";
 					var file = forWindows ? "UA Midi Control Setup " + version + ".msi" : "UA Midi Control " + version + ".zip";
 					var minVersion = forWindows? 3.8 : 3.6;
 					console.log(versionNr);
 					if(versionNr >= minVersion) {
-						var href = "javascript:download('https://objects-us-east-1.dream.io/ua-midi-control/" + folder + file + "');"
-						$item.find(".title").append('<a class="fa fa-download" aria-label="download" href="' + href + '"/>');
+						var href = "https://objects-us-east-1.dream.io/ua-midi-control/" + folder + file + ""
+						$item.find(".title").append('<a class="fa fa-download" aria-label="download" target="_blank" href="' + href + '"/>');
 					}
 				}
 			});
