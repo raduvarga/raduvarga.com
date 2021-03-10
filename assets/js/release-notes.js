@@ -28,7 +28,7 @@ function loadReleaseNotes(forWindows) {
 				if($item.hasClass("item")) {
 					var version = $item.find(".version").html();
 					var versionNr = parseFloat(version);
-					var build = $item.find(".build").html();
+					var build = $item.find(".version").attr("build");
 					if (build != undefined) {
 						version += "." + build;
 					}

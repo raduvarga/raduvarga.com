@@ -24,6 +24,12 @@
     </item>
 
     <item>
+        <question> On Windows, how can I use my midi controller with UA Midi Control and my DAW at the same time? </question>
+        <answer> There is a Windows limitation that allows only one software per controller, I suggest installing <a href="https://www.tobias-erichsen.de/software/loopmidi.html" target="_blank"> Loop Midi </a> to go around this issue.
+    </answer>
+
+    </item>
+    <item>
         <question> Can I automate Console parameters from my DAW? </question>
         <answer> Yes. I will create a tutorial on this soon. </answer>
     </item>
