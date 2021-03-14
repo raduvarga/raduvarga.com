@@ -1220,7 +1220,7 @@ body {
 		}
 
 		&.windows {
-		    float: right;
+		    //float: right;
 		}
 	}
 
@@ -1241,6 +1241,7 @@ body {
 	    font-size: 16px;
 	    font-weight: bold;
 	    padding: 13px 15px 13px 15px;
+	    float: right;
 
 	    &.download-score {
 	    	width: 96px;

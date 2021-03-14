@@ -22,6 +22,7 @@ function numberWithCommas(x) {
 }
 
 function refreshCounters() {
+
   let $counters = $(".title-download").find(".counter");
   
   $counters.each(function(e) {

@@ -4,7 +4,7 @@
     <item>
         <question> How can I bring the window in focus? How can I quit the app? </question>
         <answer> From the menu from the statusbar icon, then click "UA Midi Control".
-                <img src="/assets/img/software/ua-app-menu.png"/> 
+                <img src="/assets/img/software/ua/ua-app-menu.png"/> 
         </answer>
     </item>
 

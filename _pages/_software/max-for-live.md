@@ -3,10 +3,10 @@ title: Max for Live devices
 layout: software-project
 permalink: /software/max-for-live
 img: 
-- /assets/img/software/max-clip-length.png
-- /assets/img/software/max-clip-delete.png
-- /assets/img/software/max-visual-metronome.png
-- /assets/img/software/max-arm-exclusive.png
+- /assets/img/software/max/max-clip-length.png
+- /assets/img/software/max/max-clip-delete.png
+- /assets/img/software/max/max-visual-metronome.png
+- /assets/img/software/max/max-arm-exclusive.png
 website: https://maxforlive.com/profile/user/vargaradu
 html-class: max-for-live
 description: Various Max for Live utillity devices
