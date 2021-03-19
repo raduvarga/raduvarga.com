@@ -68,7 +68,7 @@
 
 	{% if include.project.has-tabs %}
 
-		{% assign fund = site.fundraisers | where:"slug", page.fundraiser-tag  | first %}
+		{% assign fund = site.fundraisers | where:"slug", page.fundraiser  | first %}
 		{% include content-feature-requests.html project = page
 												 fundraiser = fund %}
 
