@@ -9,6 +9,11 @@
     </item>
 
     <item>
+        <question> How can I transfer my license to another computer? </question>
+        <answer> Open the app on your licensed computer, open Preferences and go to License, then click "Deactivate all Licenses". Afterwards, you can use your license on another computer. </answer>
+    </item>
+
+    <item>
         <question> Does it work with Luna? </question>
         <answer> No, currently it's not possible to communicate with Luna. </answer>
     </item>
