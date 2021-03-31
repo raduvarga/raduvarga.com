@@ -23,7 +23,7 @@
 			{% if include.project.download-windows %}
 				<span class="download-span windows">
 					<p class="counter" counter-key="{{ include.project.counter-key-windows }}"> </p>
-					<a href="{{ include.project.download-windows }}" target="_blank" class="download-btn windows" counter-key="{{ include.project.counter-key-windows }}">
+					<a href="javascript:download('{{ include.project.download-windows }}');" class="download-btn windows" counter-key="{{ include.project.counter-key-windows }}">
 						<i class="fa fa-windows"></i>
 						<b> Download </b>
 					</a>

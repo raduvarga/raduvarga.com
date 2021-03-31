@@ -78,14 +78,19 @@ function getCacheBustedUrl(urlString) {
 }
 
 function download(urlString) {
-    var link = document.createElement("a");
-    link.target = "_blank";
-    link.href = getCacheBustedUrl(urlString);
-    document.body.appendChild(link);
-    link.click();
+    // var link = document.createElement("a");
+    // link.target = "_blank";
+    // link.href = getCacheBustedUrl(urlString);
+    // document.body.appendChild(link);
+    // link.click();
 
-    document.body.removeChild(link);
-    delete link;
+    // document.body.removeChild(link);
+    // delete link;
+
+    var popout = window.open(getCacheBustedUrl(urlString));
+      window.setTimeout(function(){
+         popout.close();
+      }, 2000);
 }
 
 function setIframHeight() {
