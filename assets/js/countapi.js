@@ -28,6 +28,7 @@ function refreshCounters() {
   $counters.each(function(e) {
     let $counter = $(this);
     let counterKey = $counter.attr("counter-key");
+    $counter.html("0");
 
      $.ajax({url: counterGetUrl + counterKey, 
       success: function(result){

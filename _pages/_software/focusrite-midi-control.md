@@ -7,7 +7,7 @@ permalink: /software/focusrite-midi-control
 logo: /assets/img/software/focusrite/focusrite-logo.png
 download: https://objects-us-east-1.dream.io/focusrite-midi-control/Focusrite%20Midi%20Control.zip
 counter-key: focusrite-midi-control-app
-<!-- download-windows: https://objects-us-east-1.dream.io/focusrite-midi-control/windows/UA%20Midi%20Control%20Setup.msi -->
+download-windows: https://objects-us-east-1.dream.io/focusrite-midi-control/windows/Focusrite%20Midi%20Control%20Setup.msi
 counter-key-windows: focusrite-midi-control-app-windows
 img: 
 - /assets/img/software/focusrite/focusrite-screenshot-desktop.png
@@ -34,4 +34,4 @@ Allows you to control the Focusrite Control software via Midi.
 
 Curently in <b> BETA </b>.
 
-<b> WINDOWS </b> version will be available soon.
+After trying the software out, please send me an email with the results of your testing (wether it's working, not working, bugs, suggestions, etc.).
