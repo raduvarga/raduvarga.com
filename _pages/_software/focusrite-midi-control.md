@@ -35,3 +35,13 @@ Allows you to control the Focusrite Control software via Midi.
 Curently in <b> BETA </b>.
 
 After trying the software out, please send me an email with the results of your testing (wether it's working, not working, bugs, suggestions, etc.).
+
+<b> OS Compatibility: </b>
+
+- Mac OS El Capitan (10.11) -> Mac OS Big Sur (11.x)   
+- Windows 10 & .NET Framework 4.7.2
+
+<b> Device Compatibility: </b>
+
+- Any Midi controller or Midi App.
+- Mackie Control (MCU) control surfaces.

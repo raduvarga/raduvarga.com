@@ -1,0 +1,25 @@
+<?xml version="1.0" standalone="yes"?>
+<faq>
+
+     <item>
+        <question> Does it work on Big Sur? How about on the M1 Macs? </question>
+        <answer> YES! No special update needed.</answer>
+    </item>
+
+    <item>
+        <question> The App doens't open on Windows. </question>
+        <answer> You likely have an outdated .NET Framework need to upgrade least version 4.7.2 </answer>
+    </item>
+
+    <item>
+        <question> On Windows, how can I use my midi controller with UA Midi Control and my DAW at the same time? </question>
+        <answer> There is a Windows limitation that allows only one software per controller, I suggest installing <a href="https://www.tobias-erichsen.de/software/loopmidi.html" target="_blank"> Loop Midi </a> to go around this issue.
+    </answer>
+    </item>
+    
+    <item>
+        <question> How to use the Button Type (Knob, Momentary, Toggle) ? </question>
+        <answer> The Button Type selection in the App needs to match how your button is setup inside your controller. In most cases, the automatic assignment (based on the Parameter type) will work completely fine. Knob and Fader are equivalent. This will not change the actual type of your button in your contrtoller, you can only achieve that with a special customisation software provided by the device manufacturer (if available). </answer>
+    </item>
+
+</faq>
