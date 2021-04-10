@@ -10,9 +10,9 @@ counter-key: focusrite-midi-control-app
 download-windows: https://objects-us-east-1.dream.io/focusrite-midi-control/windows/Focusrite%20Midi%20Control%20Setup.msi
 counter-key-windows: focusrite-midi-control-app-windows
 img: 
-- /assets/img/software/focusrite/focusrite-screenshot-desktop.png
-- /assets/img/software/focusrite/focusrite-screenshot-dark.png
-- /assets/img/software/focusrite/focusrite-screenshot-light.png
+- /assets/img/software/focusrite/focusrite-screenshot-desktop.jpg
+- /assets/img/software/focusrite/focusrite-screenshot-dark.jpg
+- /assets/img/software/focusrite/focusrite-screenshot-light.jpg
 <!-- video: 
 - yt: -rKfKjD1NgQ
   title: Control the UAD Console with Mackie Control (MCU) | UA Midi Control

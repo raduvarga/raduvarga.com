@@ -10,8 +10,8 @@ counter-key: ua-midi-control-app
 download-windows: https://objects-us-east-1.dream.io/ua-midi-control/windows/UA%20Midi%20Control%20Setup.msi
 counter-key-windows: ua-midi-control-app-windows
 img: 
-- /assets/img/software/ua/ua-screenshot-dark.png
-- /assets/img/software/ua/ua-screenshot-windows-dark.png
+- /assets/img/software/ua/ua-screenshot-dark.jpg
+- /assets/img/software/ua/ua-screenshot-windows-dark.jpg
 video: 
 - yt: -rKfKjD1NgQ
   title: Control the UAD Console with Mackie Control (MCU) | UA Midi Control
