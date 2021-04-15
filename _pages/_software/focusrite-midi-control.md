@@ -34,7 +34,7 @@ Allows you to control the Focusrite Control software via Midi.
 
 Curently in <b> BETA </b>.
 
-After trying the software out, please send me an email with the results of your testing (wether it's working, not working, bugs, suggestions, etc.).
+After trying the software out, please send me an email with the results of your testing (whether it's working, not working, bugs, suggestions, etc.).
 
 <b> OS Compatibility: </b>
 
