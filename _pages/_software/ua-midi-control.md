@@ -13,6 +13,8 @@ img:
 - /assets/img/software/ua/ua-screenshot-dark.jpg
 - /assets/img/software/ua/ua-screenshot-windows-dark.jpg
 video: 
+- yt: 4z_FV0mN4hE
+  title: Automate UAD Console from Ableton Live (or any other DAW) | UA Midi Control
 - yt: -rKfKjD1NgQ
   title: Control the UAD Console with Mackie Control (MCU) | UA Midi Control
 - yt: 4XWNGff0h_E
