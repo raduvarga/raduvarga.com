@@ -31,7 +31,7 @@ function showTab(tabId) {
 }
 
 function onPowrLoaded() {
-	console.log("onPowrLoaded");
+	// console.log("onPowrLoaded");
 		// setTimeout(function() {
 		// 	window.location.hash = window.location.hash;
 		// }, 100);
