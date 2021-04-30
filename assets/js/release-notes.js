@@ -18,6 +18,14 @@ function loadReleaseNotes(forWindows) {
 		  context: document.body
 		}).done(function(xml) {
 
+			var app = "ua-midi-control";
+			var appName = "UA Midi Control";
+			if(window.location.href.includes("focusrite-midi-control")) {
+				app = "focusrite-midi-control"
+				appName = "Focusrite Midi Control";
+			}
+
+
 			let releaseNotes = $($.parseHTML(xml));
 			let $theReleaseNotes = $(releaseNotes[3].innerHTML);
 
@@ -33,11 +41,15 @@ function loadReleaseNotes(forWindows) {
 						version += "." + build;
 					}
 					var folder = forWindows ? "windows/builds/" : "builds/";
-					var file = forWindows ? "UA Midi Control Setup " + version + ".msi" : "UA Midi Control " + version + ".zip";
-					var minVersion = forWindows? 3.8 : 3.6;
+					var file = forWindows ? appName + " Setup " + version + ".msi" : appName + " " + version + ".zip";
+					
+					var minVersion = 0;
+					if(app == "ua-midi-control"){ 
+						minVersion = forWindows? 3.8 : 3.6;
+					}
 					// console.log(versionNr);
 					if(versionNr >= minVersion) {
-						var href = "https://objects-us-east-1.dream.io/ua-midi-control/" + folder + file + ""
+						var href = "https://objects-us-east-1.dream.io/" + app + "/" + folder + file + ""
 						$item.find(".title").append('<a class="fa fa-download" aria-label="download" target="_blank" href="' + href + '"/>');
 					}
 				}

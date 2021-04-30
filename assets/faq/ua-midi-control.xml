@@ -4,7 +4,7 @@
     <item>
         <question> How can I bring the window in focus? How can I quit the app? </question>
         <answer> From the menu from the statusbar icon, then click "UA Midi Control".
-                <img src="/assets/img/software/ua/ua-app-menu.png"/> 
+                <img src="/assets/img/software/ua/ua-app-menu.jpg"/> 
         </answer>
     </item>
 
@@ -36,7 +36,7 @@
     </item>
     <item>
         <question> Can I automate Console parameters from my DAW? </question>
-        <answer> Yes. I will create a tutorial on this soon. </answer>
+        <answer> Yes, follow <a href="https://youtu.be/4z_FV0mN4hE" target="_blank"> this </a> tutorial.  </answer>
     </item>
 
      <item>

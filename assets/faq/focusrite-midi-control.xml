@@ -7,13 +7,24 @@
     </item>
 
     <item>
+        <question> How can I transfer my license to another computer? </question>
+        <answer> Open the app on your licensed computer, open Preferences and go to License, then click "Deactivate all Licenses". Afterwards, you can use your license on another computer. </answer>
+    </item>
+
+    <item>
         <question> The App doens't open on Windows. </question>
         <answer> You likely have an outdated .NET Framework need to upgrade least version 4.7.2 </answer>
     </item>
 
     <item>
-        <question> On Windows, how can I use my midi controller with UA Midi Control and my DAW at the same time? </question>
+        <question> On Windows, how can I use my midi controller with Focusrite Midi Control and my DAW at the same time? </question>
         <answer> There is a Windows limitation that allows only one software per controller, I suggest installing <a href="https://www.tobias-erichsen.de/software/loopmidi.html" target="_blank"> Loop Midi </a> to go around this issue.
+    </answer>
+    </item>
+
+     <item>
+        <question> Which Midi Controllers are supported ? </question>
+        <answer>  You can find a list <a href="https://www.everforo.com/g/focusritemidicontrol/thread/list-of-known-working-midi-controllers-6206" target="_blank"> HERE </a>. 
     </answer>
     </item>
     
