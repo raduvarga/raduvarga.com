@@ -1,6 +1,6 @@
 ---
 title: Focusrite Midi Control
-image: /assets/img/software/focusrite/focusite-screenshot-desktop.jpg
+image: /assets/img/software/focusrite/focusrite-screenshot-desktop.jpg
 layout: software-project
 has-tabs: true
 permalink: /software/focusrite-midi-control
