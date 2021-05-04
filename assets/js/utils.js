@@ -105,3 +105,7 @@ function setIframHeight() {
         $('.iframe-dynamic').attr("height", height);
     }
 }
+
+function isFirefox() {
+    return typeof InstallTrigger !== 'undefined';
+}
