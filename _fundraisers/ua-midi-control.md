@@ -1,9 +1,9 @@
 ---
 title: Feature Requests
 fundraisers:
-- eucon-ua-midi-control
 - ua-ios-android-app
 in-progress:
+- eucon-ua-midi-control
 completed: 
 - talkback-button-ua-midi-control
 - ua-midi-control-windows-version
