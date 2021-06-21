@@ -1,5 +1,16 @@
 items:
 
+- date: "2021-06-23"
+  venue: Őriszentpéter
+  city: Őriszentpéter
+  country: HU
+
+- date: "2021-06-19"
+  venue: Fűszertár
+  city: Orfalu
+  country: HU
+  href: https://www.facebook.com/events/6304042412954559
+
 - date: "2020-03-07"
   venue: Nebenan
   city: Leipzig

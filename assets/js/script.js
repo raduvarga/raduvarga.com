@@ -19,11 +19,15 @@ $(window).load(function() {
     }
   });
 });
-
+ 
 $('[date]').each(function(e) { 
 	let concertDate = new Date($(this).attr("date"));
 	let now = new Date();
 	now.setHours(0,0,0,0);
+
+ console.log("---");
+ console.log(concertDate);
+ console.log(now);
 
   if(concertDate >= now) {
   	$(this).addClass("upcoming");

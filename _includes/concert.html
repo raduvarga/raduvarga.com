@@ -1,4 +1,4 @@
-{% capture date %} {{include.date | date: '%Y-%b-%d' }}{% endcapture %}
+{% capture date %} {{include.date }}{% endcapture %}
 
 {% if include.href != null %}
 	{% assign trTag = '<tr class="clickable-row" href="' | append: include.href | append: '"' %}
