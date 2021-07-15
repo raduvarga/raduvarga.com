@@ -102,7 +102,7 @@
 				margins = 3;
 			}
 			$tiled.justifiedGallery({
-				rowHeight: 220,
+				rowHeight: 180,
 				margins: margins,
 				borders: 0,
 				lastRow: 'justify',

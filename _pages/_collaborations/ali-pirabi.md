@@ -6,6 +6,8 @@ permalink: /collaborations/ali-pirabi
 img: 
 - /assets/img/collaborations/ali.jpg
 video: 
+- yt: ToeMjhTsWS8
+  title: Khazan - Parviz Meshkatian | خزان - پرویز مشکاتیان
 - yt: HjWSfTo1Q-s
   title: Jocul Dianca | Caval & Kamancheh
 bandcamp: 
