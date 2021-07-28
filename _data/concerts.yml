@@ -1,15 +1,16 @@
 items:
 
-
-- date: "2021-08-0"7
+- date: "2021-08-07"
   venue: Palatul Culturii
   city: Călugăreni
   country: RO
+  href:
 
 - date: "2021-08-06"
   venue: Palatul Culturii
   city: Târgu Mureș
   country: RO
+  href:
 
 - date: "2021-06-23"
   venue: Őriszentpéter
