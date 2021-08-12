@@ -1,10 +1,18 @@
 items:
 
+  
+
+- date: "2021-08-19"
+  venue: Londohhome
+  city: București
+  country: RO
+  href: https://www.facebook.com/events/175399794659236
+
 - date: "2021-08-07"
-  venue: Palatul Culturii
+  venue: Csűrszínház
   city: Călugăreni
   country: RO
-  href:
+  href: https://www.facebook.com/events/1213725549067447
 
 - date: "2021-08-06"
   venue: Palatul Culturii
