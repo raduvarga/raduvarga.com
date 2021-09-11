@@ -1,6 +1,10 @@
 items:
 
-  
+- date: "2021-09-11"
+  venue: Street Music Festival
+  city: Târgu Mureș
+  country: RO
+  href: https://www.facebook.com/events/233252301954845
 
 - date: "2021-08-19"
   venue: Londohhome
