@@ -22,6 +22,7 @@ release-notes-windows: https://objects-us-east-1.dream.io/focusrite-midi-control
 faq: focusrite-midi-control
 reviews-id: 4af6a436_1615727094
 discussion-url: https://www.everforo.com/g/focusritemidicontrol/all/All
+forum-url: https://www.reddit.com/r/FocusriteMidiControl/
 html-class: software
 description: Control your Focusrite interface via Midi with Focusrite Midi Control
 ---

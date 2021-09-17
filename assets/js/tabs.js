@@ -11,8 +11,8 @@ function showTab(tabId) {
 	$(".post-content").addClass("hidden");
 	$(".tab").removeClass("selected");
 
-	if(tabId == "forum") {
-		tabId = "discussion";
+	if(tabId == "discussion") {
+		tabId = "forum";
 		window.location.hash = tabId;
 	}
 	if(tabId == "changelog") {

@@ -2,20 +2,13 @@
 <faq>
 
     <item>
-        <question> How can I bring the window in focus? How can I quit the app? </question>
-        <answer> From the menu from the statusbar icon, then click "UA Midi Control".
-                <img src="/assets/img/software/ua/ua-app-menu.jpg"/> 
-        </answer>
+        <question> Does it work with Luna? </question>
+        <answer> No, currently it's not possible to communicate with Luna. </answer>
     </item>
 
     <item>
         <question> How can I transfer my license to another computer? </question>
         <answer> Open the app on your licensed computer, open Preferences and go to License, then click "Deactivate all Licenses". Afterwards, you can use your license on another computer. </answer>
-    </item>
-
-    <item>
-        <question> Does it work with Luna? </question>
-        <answer> No, currently it's not possible to communicate with Luna. </answer>
     </item>
 
      <item>
