@@ -33,6 +33,8 @@ html-class: software
 description: Control Apollo Console via Midi with UA Midi Control
 ---
 
+<p class="attention"> <b> Attention: </b> There will be a price increase starting with the 15th of October 2021. </p>
+
 Allows you to control the Apollo Console software via Midi.
 
 <b> FREE version </b> includes:
