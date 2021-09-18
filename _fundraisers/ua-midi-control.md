@@ -11,7 +11,7 @@ completed:
 - midi-inputampoutput-chooser-ua-midi-control
 ---
 
-Too see the complete list of feature requests or to submit a new one, click <a href="https://www.everforo.com/g/uamidicontrol/all/All/1/3" target="_blank"> HERE </a>.
+Too see the complete list of feature requests or to submit a new one, click <a href="https://www.reddit.com/r/UaMidiControl/" target="_blank"> HERE </a>.
 
 Based on the interest, I will include smaller features in upcoming updates.
 

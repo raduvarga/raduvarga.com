@@ -1,0 +1,64 @@
+
+<html lang="en">
+    <head>
+        <style>
+            body {
+                line-height: 20px;
+                word-spacing: 1px;
+            }
+            img {
+                width: auto;
+            }
+            img + li {
+                margin-top: 10px;
+            }
+            .item:not(:first-child) {
+                margin-top: 30px;
+            }
+            .title {
+                font-size: 19px;
+            }
+            .date {
+                color: #868686;
+                font-size: 13px;
+                vertical-align: bottom;
+                margin-left: 4px;
+            }
+            .description {
+                margin-top: 8px;
+                font-size: 13px;
+            }
+        </style>
+    </head>
+    <body>
+         <div class="the-release-notes">
+            <div class="item">
+                <div class="title">
+                    <span class="version">5 Beta</span>
+                    <span class="date">18 Sep 2021</span>
+                </div>
+                <ul class="description">
+                    <li> Implemented standard "Save" functionality for presets, replacing the previous autosave functionality. The "Extra" mappings will still autosave. </li>
+                    <li> Save plugin mappings per channel.  </li>
+                    <li> "Assign last touched parameter" feature. </li>
+                    <li> Automatically detect virtual ports and fix problems associated with them (like midi settings or mappings being forgotten at restart). Removed "Allow Virtual Midi Ports" setting. </li>
+
+                    <li> Combine Mackie and Midi Mode: it is now possible to map custom controls in Mackie Mode.</li>
+                    <li> Added "Mackie" section in Extra where special Mackie functions can be mapped. </li>
+                    <li> Added "DAW Mode" for Mackie. This creates a virtual port with the suffix "DAW", which you should use in your DAW instead of the original port. </li>
+
+                    <li> "Program Change" messages are now supported in Midi Mode. </li>
+                    <li> Added "Relative" button type. </li>
+                    <li> Added "No Value" to Midi Output list. </li>
+                    <li> Added "Ref" level toggle for Line Inputs. </li>
+                    <li> Added "Channel Strip" to AUX channels. </li>
+                    <li> Added LED Feedback for Mackie navigation buttons. </li>
+                    <li> Added "Gain Reset" and "Volume Reset" to Preamp and Sends. </li>
+                    <li> Fixed plugins being skipped in Mackie Mode. </li>
+                    <li> Fixed "Global Mappings" causing issues in Mackie Mode. </li>
+                    <li> Fixed somoe rare random crashes that could occur. </li>
+                </ul>
+            </div>
+        </div>
+    </body>
+</html>

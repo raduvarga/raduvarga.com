@@ -1431,7 +1431,7 @@ body {
 
 	ul, ol {
 		font-size: 14px;
-		font-style: italic;
+		// font-style: italic;
 		padding-left: 20px;
 
 		li {
@@ -1475,7 +1475,10 @@ body {
 		.date {
 			color: $sub_title_color;
 			font-size: $sub_sub_title_size;
-			vertical-align: bottom;
+			// vertical-align: bottom;
+			margin-left: 8px;
+		}
+		.fa-download {
 			margin-left: 8px;
 		}
 		.description {
