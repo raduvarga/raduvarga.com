@@ -82,3 +82,5 @@ Allows you to control the Apollo Console software via Midi.
 - 2 x MACKIE licenses: <b> 89€ </b> <a class="buy-button" href="https://checkout.paddle.com/checkout/custom/eyJ0IjoiVUEgTWFja2llIENvbnRyb2wiLCJpIjoiaHR0cHM6XC9cL3BhZGRsZS5zMy5hbWF6b25hd3MuY29tXC91c2VyXC8xMTY1MjlcLzlOMWtkRHFoVDh5YjNlTlJNc1RFX2t5NmJ5WDlLUlY1VEkwUTQ0WEk0X2FwcF9pY29uX21hY2tpZS5wbmciLCJyIjpudWxsLCJjbSI6IjIgeCBNYWNraWUgbGljZW5zZXMiLCJyZSI6MCwicCI6NjQzNTI2LCJjYyI6eyJFVVIiOiI0NC41In0sInkiOiIiLCJxIjowLCJxMiI6MiwiZCI6MSwiYSI6W10sInYiOiIxMTY1MjkiLCJkdyI6ZmFsc2UsInMiOiIzZDYxNDUwODlhMTE3ZDVlNmQxMGE0OTZmNWM3NmRmOTJiNzFhMmNhN2M4YzNiZDlkOWJjMTRjMWNhZTNlZjY2ZjQ3ZTJlZjc0ZWM2Y2IyZTQxNWYxYzA0ZmRmN2ViNTdlZTFiN2ExMWI0OTg2OWVlZWE5MDgxOGJjZDM0OGZiNyJ9" target="_blank"> Buy </a>
 - Any license for existing users: <b> 39€ </b> (Available inside App -> Preferences -> License)
 - Other bulk discounts: Contact me for offers
+
+<p class="attention"> <b> Attention: </b> There will be a price increase starting with the 15th of October 2021. </p>
