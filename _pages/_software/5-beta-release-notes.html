@@ -18,7 +18,7 @@ description: Control Apollo Console via Midi with UA Midi Control
         <br>
         <h2> Midi updates </h2>
         <ul class="description">
-            <li> Implemented standard manual "Save" functionality for preset files, replacing the previous "autosave" functionality. The "Extra" mappings will still use "autosave" (which are globally saved in <i> extra.uax </i>). </li>
+            <li> Implemented standard manual "Save" (Cmd+S or File->Save) functionality for preset files, replacing the previous "autosave" functionality. The "Extra" mappings will still use "autosave" (which are globally saved in <i> extra.uax </i>). </li>
             <li> Plugin mappings are now saved per channel, so if a plugin is removed and reinserted later into any slot in the channel, the previous mappings will be loaded. </li>
             <li> Improved Midi Mapping process: After clicking "Start Mapping", clicking any button or moving a fader in Console will choose the appropriate parameter in the app, so you can now map like with a regular DAW: first move in Console, then move on your midi device. </li>
             <li> Automatically detect virtual ports and fix problems associated with them (like midi settings or mappings being forgotten at restart). Removed "Allow Virtual Midi Ports" setting. </li>
