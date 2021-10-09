@@ -16,6 +16,13 @@ description: Control Apollo Console via Midi with UA Midi Control
             <a class="fa fa-download" aria-label="download" target="_blank" href="https://www.reddit.com/r/UaMidiControl/comments/pqppa3/ua_midi_control_5_beta_release/"> <samp> Download instructions (MacOs)</samp> </a>
         </div>
         <br>
+        <h2> General updates </h2>
+        <ul class="description">
+            <li> Added "No Value" to Midi Output list. </li>
+            <li> Fixed some rare random crashes that could occur. </li>
+            <li> Migrated from the old discussion group to a new <a href="https://www.reddit.com/r/UaMidiControl/"> forum </a>. </li>
+        </ul>
+        <br>
         <h2> Midi updates </h2>
         <ul class="description">
             <li> Implemented standard manual "Save" (Cmd+S or File->Save) functionality for preset files, replacing the previous "autosave" functionality. The "Extra" mappings will still use "autosave" (which are globally saved in <i> extra.uax </i>). </li>
@@ -26,23 +33,18 @@ description: Control Apollo Console via Midi with UA Midi Control
             <li> Added "Relative" button type. </li>
             <li> Added "Ref" level toggle for Line Inputs. </li>
             <li> Added "Channel Strip" to AUX channels. </li>
+            <li> Added "Show Aux" and "Show Talkback" in Preferences->Console. </li>
             <li> Added "Gain Reset" and "Volume Reset" to Preamp and Sends. </li>
         </ul>
         <br>
         <h2> Mackie updates </h2>
         <ul class="description">
             <li> Combined Mackie and Midi Modes: It is now possible to create custom midi mappings with a device in Mackie Mode. </li>
-            <li> Added "Mackie" section in Extra where special Mackie functions can be mapped. </li>
+            <li> Added "Mackie" section in Extra where special Mackie functions can be re-mapped. This smaller Mackie devices and also Eucon devices to re-map essential funtions like Sends, Plugin, Fader Banks, etc. </li>
             <li> Added "DAW Mode" for Mackie (default is F1, or can be custom mapped in Extra/Mackie). The app will create a virtual port for every Mackie device with the suffix "DAW", which you should use in your DAW instead of the original port. Then using the "DAW Mode" button, you can quickly switch your Mackie device between Console and your DAW.</li>
             <li> Added LED Feedback for Mackie navigation buttons. </li>
             <li> Fixed plugins being skipped in Mackie Mode. </li>
             <li> Fixed "Global Mappings" causing issues in Mackie Mode. </li>
-        </ul>
-        <br>
-        <h2> General updates </h2>
-        <ul class="description">
-            <li> Added "No Value" to Midi Output list. </li>
-            <li> Fixed some rare random crashes that could occur. </li>
         </ul>
     </div>
 </div>

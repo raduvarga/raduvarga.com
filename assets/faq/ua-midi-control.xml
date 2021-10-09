@@ -32,11 +32,11 @@
         <answer> Yes, follow <a href="https://youtu.be/4z_FV0mN4hE" target="_blank"> this </a> tutorial.  </answer>
     </item>
 
-     <item>
+    <!--  <item>
         <question> Which Midi Controllers are supported ? </question>
         <answer>  You can find a list <a href="https://www.everforo.com/g/uamidicontrol/thread/list-of-known-supported-midi-controllers-2398 " target="_blank"> HERE </a>. 
     </answer>
-    </item>
+    </item> -->
     
     <item>
         <question> How to use the Button Type (Knob, Momentary, Toggle) ? </question>
