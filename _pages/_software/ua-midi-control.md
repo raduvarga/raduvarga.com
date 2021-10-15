@@ -33,7 +33,7 @@ html-class: software
 description: Control Apollo Console via Midi with UA Midi Control
 ---
 
-<p class="attention"> <b> Attention: </b> There will be a price increase starting with the 15th of October 2021. </p>
+<!-- <p class="attention"> <b> Attention: </b> There will be a price increase starting with the 15th of October 2021. </p> -->
 
 Allows you to control the Apollo Console software via Midi.
 
@@ -75,14 +75,14 @@ Allows you to control the Apollo Console software via Midi.
 
 <b id="pricing"> Pricing </b>: 
 - FREE version: <b> Free </b>
-- MIDI license: <b> 59€ </b> <a class="buy-button" href="https://buy.paddle.com/product/597389" target="_blank"> Buy </a>
-- MACKIE license: <b> 59€ </b> <a class="buy-button" href="https://buy.paddle.com/product/643526" target="_blank"> Buy </a>
+- MIDI license: <b> 69€ </b> <a class="buy-button" href="https://buy.paddle.com/product/597389" target="_blank"> Buy </a>
+- MACKIE license: <b> 69€ </b> <a class="buy-button" href="https://buy.paddle.com/product/643526" target="_blank"> Buy </a>
 
 <b id="bulk-discounts"> Bulk discounts </b>: 
-- MIDI + MACKIE license: <b> 89€ </b> <a class="buy-button" href="https://buy.paddle.com/product/643527" target="_blank"> Buy </a>
-- 2 x MIDI licenses: <b> 89€ </b> <a class="buy-button" href="https://checkout.paddle.com/checkout/custom/eyJ0IjoiVUEgTWlkaSBDb250cm9sIiwiaSI6Imh0dHBzOlwvXC9wYWRkbGUuczMuYW1hem9uYXdzLmNvbVwvdXNlclwvMTE2NTI5XC9tWmRNU0wwT1NOS1k1YzdQbGJEQl91YV9sb2dvX2dyYXlkaWVudC5wbmciLCJyIjpudWxsLCJjbSI6IjIgeCBNaWRpIGxpY2Vuc2VzIiwicmUiOjAsInAiOjU5NzM4OSwiY2MiOnsiRVVSIjoiNDQuNSJ9LCJ5IjoiIiwicSI6MCwicTIiOjIsImQiOjEsImEiOltdLCJ2IjoiMTE2NTI5IiwiZHciOmZhbHNlLCJzIjoiNjNkOGI2MDhhZTEyOWZlZTA4NzAyZWI4ZDU5ZDYyNWU0M2ZiZjI3NTU4NzllZGFhYmJkN2MwMWM5Nzg4M2Y2MmQxOTViZmE4YWNkYWM0MjRjZjRhYTdmMjE0NzE1ODQxNmEwMDExYWEzODEyNDg5NWFlODlhNzUzNjBlYjZjNGMifQ==" target="_blank"> Buy </a>
-- 2 x MACKIE licenses: <b> 89€ </b> <a class="buy-button" href="https://checkout.paddle.com/checkout/custom/eyJ0IjoiVUEgTWFja2llIENvbnRyb2wiLCJpIjoiaHR0cHM6XC9cL3BhZGRsZS5zMy5hbWF6b25hd3MuY29tXC91c2VyXC8xMTY1MjlcLzlOMWtkRHFoVDh5YjNlTlJNc1RFX2t5NmJ5WDlLUlY1VEkwUTQ0WEk0X2FwcF9pY29uX21hY2tpZS5wbmciLCJyIjpudWxsLCJjbSI6IjIgeCBNYWNraWUgbGljZW5zZXMiLCJyZSI6MCwicCI6NjQzNTI2LCJjYyI6eyJFVVIiOiI0NC41In0sInkiOiIiLCJxIjowLCJxMiI6MiwiZCI6MSwiYSI6W10sInYiOiIxMTY1MjkiLCJkdyI6ZmFsc2UsInMiOiIzZDYxNDUwODlhMTE3ZDVlNmQxMGE0OTZmNWM3NmRmOTJiNzFhMmNhN2M4YzNiZDlkOWJjMTRjMWNhZTNlZjY2ZjQ3ZTJlZjc0ZWM2Y2IyZTQxNWYxYzA0ZmRmN2ViNTdlZTFiN2ExMWI0OTg2OWVlZWE5MDgxOGJjZDM0OGZiNyJ9" target="_blank"> Buy </a>
-- Any license for existing users: <b> 39€ </b> (Available inside App -> Preferences -> License)
-- Other bulk discounts: Contact me for offers
+- MIDI + MACKIE license: <b> 99€ </b> <a class="buy-button" href="https://buy.paddle.com/product/643527" target="_blank"> Buy </a>
+- 2 x MIDI licenses: <b> 99€ </b> <a class="buy-button" href="https://checkout.paddle.com/checkout/custom/eyJ0IjoiVUEgTWlkaSBDb250cm9sIiwiaSI6Imh0dHBzOlwvXC9wYWRkbGUuczMuYW1hem9uYXdzLmNvbVwvdXNlclwvMTE2NTI5XC9tWmRNU0wwT1NOS1k1YzdQbGJEQl91YV9sb2dvX2dyYXlkaWVudC5wbmciLCJyIjpudWxsLCJjbSI6IjIgeCBNaWRpIGxpY2Vuc2VzIiwicmUiOjAsInAiOjU5NzM4OSwiY2MiOnsiRVVSIjoiNDQuNSJ9LCJ5IjoiIiwicSI6MCwicTIiOjIsImQiOjEsImEiOltdLCJ2IjoiMTE2NTI5IiwiZHciOmZhbHNlLCJzIjoiNjNkOGI2MDhhZTEyOWZlZTA4NzAyZWI4ZDU5ZDYyNWU0M2ZiZjI3NTU4NzllZGFhYmJkN2MwMWM5Nzg4M2Y2MmQxOTViZmE4YWNkYWM0MjRjZjRhYTdmMjE0NzE1ODQxNmEwMDExYWEzODEyNDg5NWFlODlhNzUzNjBlYjZjNGMifQ==" target="_blank"> Buy </a>
+- 2 x MACKIE licenses: <b> 99€ </b> <a class="buy-button" href="https://checkout.paddle.com/checkout/custom/eyJ0IjoiVUEgTWFja2llIENvbnRyb2wiLCJpIjoiaHR0cHM6XC9cL3BhZGRsZS5zMy5hbWF6b25hd3MuY29tXC91c2VyXC8xMTY1MjlcLzlOMWtkRHFoVDh5YjNlTlJNc1RFX2t5NmJ5WDlLUlY1VEkwUTQ0WEk0X2FwcF9pY29uX21hY2tpZS5wbmciLCJyIjpudWxsLCJjbSI6IjIgeCBNYWNraWUgbGljZW5zZXMiLCJyZSI6MCwicCI6NjQzNTI2LCJjYyI6eyJFVVIiOiI0NC41In0sInkiOiIiLCJxIjowLCJxMiI6MiwiZCI6MSwiYSI6W10sInYiOiIxMTY1MjkiLCJkdyI6ZmFsc2UsInMiOiIzZDYxNDUwODlhMTE3ZDVlNmQxMGE0OTZmNWM3NmRmOTJiNzFhMmNhN2M4YzNiZDlkOWJjMTRjMWNhZTNlZjY2ZjQ3ZTJlZjc0ZWM2Y2IyZTQxNWYxYzA0ZmRmN2ViNTdlZTFiN2ExMWI0OTg2OWVlZWE5MDgxOGJjZDM0OGZiNyJ9" target="_blank"> Buy </a>
+- Extra license for existing users: <b> 49€ </b> (Available inside App -> Preferences -> License)
+- Other bulk discounts: Contact me for offers.
 
-<p class="attention"> <b> Attention: </b> There will be a price increase starting with the 15th of October 2021. </p>
+<!-- <p class="attention"> <b> Attention: </b> There will be a price increase starting with the 15th of October 2021. </p> -->
