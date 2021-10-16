@@ -25,7 +25,12 @@ function showTab(tabId) {
 	if(!tabId) {
 		tabId = "app";
 	}
-
+	if(tabId == "app") {
+		$("#reviews").removeClass("hidden");
+	} else {
+		$("#reviews").addClass("hidden");
+	}
+	
 	$(".post-content[tab-id=" + tabId + "]").removeClass("hidden");
 	$(".tab[tab-id=" + tabId + "]").addClass("selected");
 }
