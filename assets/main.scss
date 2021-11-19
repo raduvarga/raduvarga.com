@@ -1480,6 +1480,11 @@ body {
 		}
 		.fa-download {
 			margin-left: 8px;
+    	color: $body_color !important;
+
+			&:hover {
+				color: $sub_title_color  !important;
+			}
 		}
 		.description {
 			margin-top: 8px;
