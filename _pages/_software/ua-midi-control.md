@@ -37,53 +37,58 @@ description: Control Apollo Console via Midi with UA Midi Control
 
 Allows you to control the Apollo Console software via Midi.
 
-<b> FREE version </b> includes:
-- Control Inputs: Volume, Mute, Pan, Solo, Sends, UAD REC
-- Control Preamps: Gain, 48V, Low Cut, Phase, Pad 
+<b> FREE license </b> includes:
+- Control Inputs: Volume, Mute, Solo, Pan, Sends, Record, Stereo
+- Control Preamps: Input Type, Gain, 48V, Low Cut, Phase, Pad 
 - Control Sends: Gain, Mute, Pan
-- Supported Midi Messages: CC, Note, Pitch Bend
-- Change the button type (Knob, Momentary, Toggle, VPot)
+- Supported Midi Messages: CC, Note, Pitch Bend, Program Change
+- Change the button type (Fader/Knob, Momentary, Toggle, VPot, Relative)
 - Edit the range (Min/Max)
 - Mapping is linked to the midi device by default, global mappings can also be used
 - Accesibility via VoiceOver
 
-<b> MIDI license </b> includes:
-- Control Inserts & Unison: Power, all Effect Parameters, all Effect Presets
-- Control Aux: Volume, Mute, Mono, Pre/Post, Inserts, Sends
-- Control Outputs (Monitoring, CUE, HP): Volume, Mute, Mono, Dim, Alt, Source
+<b> MIDI license </b> includes everything from the FREE license, plus:
+- Control Inserts & Unison: Toggle Window, All Effect Parameters & Presets
+- Control Aux: Volume, Mute, Mono, Pre/Post, Inserts, Chanel Strip, Sends
+- Control Outputs (MONITOR, CUE): Volume, Mute, Mono, Dim, Alt, Source
+- Control Channel Strips: Toggle Window, All Presets
 - Control Talkback
-- Synchronized feedback on your midi device with adjustable color
-- Save and load mapping Presets
-- Map and load Console Sessions and link them to app Presets
-- Map and load Presets (a.k.a Midi Banks/Pages)
+- Synchronized Fader and LED feedback on your midi device with adjustable color
+- Save and load app Presets with custom mappings
+- Midi Map app Presets via Midi (a.k.a Midi Banks/Pages)
+- Midi Map Console Sessions and link them to app Presets
 
 <b> MACKIE license </b> includes: 
 - Use the MCU protocol to automatically map and fully control Console
+- DAW Mode for fast switching between Console and your DAW on the same controller using Mackie Mode. More details <a href="https://www.reddit.com/r/UaMidiControl/wiki/index#wiki_daw_mode" target="_blank"> here </a>.
 
 <b> OS Compatibility: </b>
 
-- Mac OS El Capitan (10.11) -> Mac OS Big Sur (11.x)   
-- Windows 10 & .NET Framework 4.7.2
+- Mac OS El Capitan (10.11) -> Mac OS Monterey (12.x)   
+- Windows 10 & .NET Framework 4.7.2 (minimum)
 
 <b> Device Compatibility: </b>
 
-- Any Midi controller or Midi App. See the known list of <a href="https://www.everforo.com/g/uamidicontrol/thread/list-of-known-supported-midi-controllers-2398" target="_blank"> known working devices<a/>.
-- Mackie Control (MCU) control surfaces.
+- Any Midi controller or Midi App for Midi Mode
+- Mackie Control (MCU) control surfaces or Mackie Apps for Mackie Mode
 
 <b> Trial </b>: 
-- 14 Days (the App will automatically switch to Free mode after trial ends)
+- 14 Days (both Midi and Mackie)
+- The App will automatically switch to Free mode after trial ends
 
-<b id="pricing"> Pricing </b>: 
-- FREE version: <b> Free </b>
+<b id="pricing"> Licensing </b>: 
+- FREE license: <b> Free </b>
 - MIDI license: <b> 55€ </b> <s> 69€ </s> <a class="buy-button" href="https://buy.paddle.com/product/597389" target="_blank"> Buy </a>
 - MACKIE license: <b> 55€ </b> <s> 69€ </s> <a class="buy-button" href="https://buy.paddle.com/product/643526" target="_blank"> Buy </a>
+- 1 activation per license
+- A license can be transferred to another computer via Preferences -> License -> Deactivate all licenses
 
 <b id="bulk-discounts"> Bulk discounts </b>: 
 - MIDI + MACKIE license: <b> 85€ </b> <s> 99€ </s> <a class="buy-button" href="https://buy.paddle.com/product/643527" target="_blank"> Buy </a>
 - 2 x MIDI licenses: <b> 85€ </b> <s> 99€ </s> <a class="buy-button" href="https://create-checkout.paddle.com/checkout/custom/eyJ0IjoiVUEgTWlkaSBDb250cm9sIiwiaSI6Imh0dHBzOlwvXC9wYWRkbGUuczMuYW1hem9uYXdzLmNvbVwvdXNlclwvMTE2NTI5XC9tWmRNU0wwT1NOS1k1YzdQbGJEQl91YV9sb2dvX2dyYXlkaWVudC5wbmciLCJyIjpudWxsLCJjbSI6IjIgeCBNaWRpIGxpY2Vuc2VzIiwicmUiOjAsInAiOjU5NzM4OSwiY2MiOnsiRVVSIjoiNDIuNSJ9LCJ5IjoiIiwicSI6MCwicTIiOjIsImQiOjEsImEiOltdLCJ2IjoiMTE2NTI5IiwiZHciOmZhbHNlLCJzIjoiOTlhNGQyYWZhMmQ0OGY3YmUyYjAwYmVlNTY3NmM4YTM1YzdhNzMwOGFiMzgwMmZkMzM4YTkyOWJjNjVhZWZlZDhjNTkzMGMxZDVmNjYyZmFmZjI4YjZjNWJkMWI5YzljYzc3ZWRkZTQ5NTUwOWU4ZGI2NDgxNjY1ZWQyYWIzOWEifQ==" target="_blank"> Buy </a>
 - 2 x MACKIE licenses: <b> 85€ </b> <s> 99€ </s> <a class="buy-button" href="https://create-checkout.paddle.com/checkout/custom/eyJ0IjoiVUEgTWFja2llIENvbnRyb2wiLCJpIjoiaHR0cHM6XC9cL3BhZGRsZS5zMy5hbWF6b25hd3MuY29tXC91c2VyXC8xMTY1MjlcLzlOMWtkRHFoVDh5YjNlTlJNc1RFX2t5NmJ5WDlLUlY1VEkwUTQ0WEk0X2FwcF9pY29uX21hY2tpZS5wbmciLCJyIjpudWxsLCJjbSI6IjIgeCBNYWNraWUgbGljZW5zZXMiLCJyZSI6MCwicCI6NjQzNTI2LCJjYyI6eyJFVVIiOiI0Mi41In0sInkiOiIiLCJxIjowLCJxMiI6MiwiZCI6MSwiYSI6W10sInYiOiIxMTY1MjkiLCJkdyI6ZmFsc2UsInMiOiJhZmE5OTEwMTQ1MjBiM2FkYzgwZDlmZWQzOWE0MTcwZTQ1NmQyYzAxMTQxMDgxMWQ0MjFkOTMwYTFjMzAxMWNjMzljM2Y0MDM1YTFlMzhkZGYwMDllMDU0NzY3ZmVkOGVlOTk0NjRiMTk0OTQ0YTBhNmFmMzk4ZmFjNTQ4NmI5OSJ9
 " target="_blank"> Buy </a>
-- Extra license for existing users: <b> 39 </b> <s> 49€ </s> (Available inside App -> Preferences -> License)
-- Other bulk discounts: Contact me for offers.
+- Extra license for existing users: <b> 39 </b> <s> 49€ </s> (Available for an already licensed App in Preferences -> License)
+- Other discounts: Contact me for offers.
 
 <p class="attention"> <b> HOLIDAY SALE 2021: </b> 15 Dec - 1 Jan </p>
