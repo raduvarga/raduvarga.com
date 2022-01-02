@@ -27,7 +27,7 @@ html-class: software
 description: Control your Focusrite interface via Midi with Focusrite Midi Control
 ---
 
-<p class="attention"> <b> HOLIDAY SALE 2021: </b> 15 Dec - 1 Jan </p>
+<!-- <p class="attention"> <b> HOLIDAY SALE 2021: </b> 15 Dec - 1 Jan </p> -->
 
 Allows you to control the Focusrite Control software via Midi.
 
@@ -66,17 +66,17 @@ Allows you to control the Focusrite Control software via Midi.
 
 <b id="pricing"> Licensing </b>: 
 - FREE version: <b> Free </b>
-- MIDI license: <b> 19 </b> <s> 25€ </s> <a class="buy-button" href="https://buy.paddle.com/product/648307" target="_blank"> Buy </a>
-- MACKIE license: <b> 19 </b> <s> 25€ </s> <a class="buy-button" href="https://buy.paddle.com/product/648356" target="_blank"> Buy </a>
+- MIDI license: <b> 25€ </b> <a class="buy-button" href="https://buy.paddle.com/product/648307" target="_blank"> Buy </a>
+- MACKIE license: <b> 25€ </b> <a class="buy-button" href="https://buy.paddle.com/product/648356" target="_blank"> Buy </a>
 - 1 activation per license
 - A license can be transferred to another computer via Preferences -> License -> Deactivate all licenses
 
 <b id="bulk-discounts"> Bulk discounts </b>: 
-- MIDI + MACKIE license: <b> 33€ </b> <s> 39€ </s> <a class="buy-button" href="https://buy.paddle.com/product/652265" target="_blank"> Buy </a>
-- 2 x MIDI licenses: <b> 33€ </b> <s> 39€ </s> <a class="buy-button" href="https://create-checkout.paddle.com/checkout/custom/eyJ0IjoiRm9jdXNyaXRlIE1pZGkgQ29udHJvbCIsImkiOiJodHRwczpcL1wvcGFkZGxlLnMzLmFtYXpvbmF3cy5jb21cL3VzZXJcLzExNjUyOVwvNGR0cDg1WmJRTG1GbkdqWEsyZnBfYXBwX2ljb25fNTEyLXJlZC5wbmciLCJyIjpudWxsLCJjbSI6IjIgeCBNaWRpIGxpY2Vuc2VzIiwicmUiOjAsInAiOjY0ODMwNywiY2MiOnsiRVVSIjoiMTYuNSJ9LCJ5IjoiIiwicSI6MCwicTIiOjIsImQiOjEsImEiOltdLCJ2IjoiMTE2NTI5IiwiZHciOmZhbHNlLCJzIjoiNGVkNjZkMDY5OTUwMDRmZDUzNDQ0MTkyZjRkZWQ3YWNlMDk2MjhiM2ZlZmUxMWY4YjY3YmUxYTExZmNhZGQxMTUzODRlNGYyN2M4N2RjNGZkMTQ4YjY0YTJjYzNmZDE0YzQyMTJiZjAyMDM4NzYzNWQzMmJkYzgxOTA0ZjQ3M2YifQ==" target="_blank"> Buy </a>
-- 2 x MACKIE licenses: <b> 33€ </b> <s> 39€ </s> <a class="buy-button" href="https://create-checkout.paddle.com/checkout/custom/eyJ0IjoiRm9jdXNyaXRlIE1hY2tpZSBDb250cm9sIiwiaSI6Imh0dHBzOlwvXC9wYWRkbGUuczMuYW1hem9uYXdzLmNvbVwvdXNlclwvMTE2NTI5XC9jM2hQTmJaU1JzZUE2S0tUNzdlNV9pY29uX21hY2tpZS5wbmciLCJyIjpudWxsLCJjbSI6IjIgeCBNYWNraWUgbGljZW5zZXMiLCJyZSI6MCwicCI6NjQ4MzU2LCJjYyI6eyJFVVIiOiIxNi41In0sInkiOiIiLCJxIjowLCJxMiI6MiwiZCI6MSwiYSI6W10sInYiOiIxMTY1MjkiLCJkdyI6ZmFsc2UsInMiOiJjMDM5NDcwMzE1NjM2ZGUwNjdlMzJlZDUxNGJmZjk1NTI1NmJiZmFlNTk0MzQ2ZWRjYzI4ZWYxNjE4YjgzYzk2Y2RiNGFiNTJhMDI3ZTMyYzM1YWMzYmNjY2FhZjE2YzQxYjllODdlY2EyZWQwZmMwZWRlOWJiNmY3ZDc5NGIwYSJ9
+- MIDI + MACKIE license: <b> 39€ </b> <a class="buy-button" href="https://buy.paddle.com/product/652265" target="_blank"> Buy </a>
+- 2 x MIDI licenses: <b> 39€ </b> <a class="buy-button" href="https://checkout.paddle.com/checkout/custom/eyJ0IjoiRm9jdXNyaXRlIE1pZGkgQ29udHJvbCIsImkiOiJodHRwczpcL1wvcGFkZGxlLnMzLmFtYXpvbmF3cy5jb21cL3VzZXJcLzExNjUyOVwvNGR0cDg1WmJRTG1GbkdqWEsyZnBfYXBwX2ljb25fNTEyLXJlZC5wbmciLCJyIjpudWxsLCJjbSI6IjIgeCBNSURJIGxpY2Vuc2VzIiwicmUiOjAsInAiOjY0ODMwNywiY2MiOnsiRVVSIjoiMTkuNSJ9LCJ5IjoiIiwicSI6MCwicTIiOjIsImQiOjEsImEiOltdLCJ2IjoiMTE2NTI5IiwiZHciOmZhbHNlLCJzIjoiNTVmMTk4MTU5ZmFmYjIyYWMwN2RlMjk2MzU1YjdmNWJmNDBmMDU1NTMyNzZlMzNiOTAxM2RhZTQzOTBmMjIyNjExNzFkZDFjZWEzZWViMWRiNTJhZGUwYjY4YTA4NmYxODMwMWE2OTI4Yjk3NGJmMmFjNTcxY2FmNmI4NjRhMjcifQ==" target="_blank"> Buy </a>
+- 2 x MACKIE licenses: <b> 39€ </b> <a class="buy-button" href="https://checkout.paddle.com/checkout/custom/eyJ0IjoiRm9jdXNyaXRlIE1hY2tpZSBDb250cm9sIiwiaSI6Imh0dHBzOlwvXC9wYWRkbGUuczMuYW1hem9uYXdzLmNvbVwvdXNlclwvMTE2NTI5XC9jM2hQTmJaU1JzZUE2S0tUNzdlNV9pY29uX21hY2tpZS5wbmciLCJyIjpudWxsLCJjbSI6IjIgeCBNQUNLSUUgbGljZW5zZXMiLCJyZSI6MCwicCI6NjQ4MzU2LCJjYyI6eyJFVVIiOiIxOS41In0sInkiOiIiLCJxIjowLCJxMiI6MiwiZCI6MSwiYSI6W10sInYiOiIxMTY1MjkiLCJkdyI6ZmFsc2UsInMiOiJkZTc1NzNlZmVlM2Y4ODUzZmMyNmMyNDg3MTBhYzA0NTRiNDZiZmUzZDc2YjU4YzJmY2VmOWVmMThmZjUzMWM3N2EzYmFkZjc2OTAwYWZlYTEyYzIyNWI5NDkwMWE1NDAzNzE4Nzc4MjZlODI5YTY2OWYyNjE2MTUzMmJmZmY1MSJ9
 " target="_blank"> Buy </a>
-- Any license for existing users: <b> 15€ </b> <s> 19€ </s> (Available for an already licensed App in Preferences -> License)
+- Any license for existing users: <b> 19€ </b> (Available for an already licensed App in Preferences -> License)
 - Other discounts: Contact me for offers
 
-<p class="attention"> <b> HOLIDAY SALE 2021: </b> 15 Dec - 1 Jan </p>
+<!-- <p class="attention"> <b> HOLIDAY SALE 2021: </b> 15 Dec - 1 Jan </p> -->
