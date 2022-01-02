@@ -88,7 +88,7 @@ Allows you to control the Apollo Console software via Midi.
 - 2 x MIDI licenses: <b> 99€ </b> <a class="buy-button" href="https://create-checkout.paddle.com/checkout/custom/eyJ0IjoiVUEgTWlkaSBDb250cm9sIiwiaSI6Imh0dHBzOlwvXC9wYWRkbGUuczMuYW1hem9uYXdzLmNvbVwvdXNlclwvMTE2NTI5XC9tWmRNU0wwT1NOS1k1YzdQbGJEQl91YV9sb2dvX2dyYXlkaWVudC5wbmciLCJyIjpudWxsLCJjbSI6IjIgeCBNaWRpIGxpY2Vuc2VzIiwicmUiOjAsInAiOjU5NzM4OSwiY2MiOnsiRVVSIjoiNDkuNSJ9LCJ5IjoiIiwicSI6MCwicTIiOjIsImQiOjEsImEiOltdLCJ2IjoiMTE2NTI5IiwiZHciOmZhbHNlLCJzIjoiZDg5ZDhhYjQ5YTRjMWQ2MDAxMWE5M2FkZjBlOTMwNTg2MWExMmY1ZTlmOGUzZGEzZGYwODc1ZTQ1MzNjZWY5NTM3ZDBjZTIzYmZmMjUwMzZiZjgyOWM3OTFiOGMzMzliNmY1N2E3ZDk5OTgwMjlhZDMzMWY4OTJlYzA5OWQ0OTEifQ==" target="_blank"> Buy </a>
 - 2 x MACKIE licenses: <b> 99€ </b> <a class="buy-button" href="https://create-checkout.paddle.com/checkout/custom/eyJ0IjoiVUEgTWFja2llIENvbnRyb2wiLCJpIjoiaHR0cHM6XC9cL3BhZGRsZS5zMy5hbWF6b25hd3MuY29tXC91c2VyXC8xMTY1MjlcLzlOMWtkRHFoVDh5YjNlTlJNc1RFX2t5NmJ5WDlLUlY1VEkwUTQ0WEk0X2FwcF9pY29uX21hY2tpZS5wbmciLCJyIjpudWxsLCJjbSI6IjIgeCBNYWNraWUgbGljZW5zZXMiLCJyZSI6MCwicCI6NjQzNTI2LCJjYyI6eyJFVVIiOiI0OS41In0sInkiOiIiLCJxIjowLCJxMiI6MiwiZCI6MSwiYSI6W10sInYiOiIxMTY1MjkiLCJkdyI6ZmFsc2UsInMiOiJlNDk2ZTU0NjM2YmE1ZmIyNjdmZDg5OTgzYzI4YTYzOTk2OTBiNjFjY2ZmODhkODE3MzczOGZmMTNmN2MyYjJjMzgwYjk5Y2EyY2NmNGY3ZWZlYjEyOGNjMTVlNDBiNmZjOTYyYjM0YjQwYzEyNjczN2MyOTRjODMyYjRkZWQwMiJ9
 " target="_blank"> Buy </a>
-- Extra license for existing users: <b> 49 </b> (Available for an already licensed App in Preferences -> License)
+- Extra license for existing users: <b> 49€ </b> (Available for an already licensed App in Preferences -> License)
 - Other discounts: Contact me for offers.
 
 <!-- <p class="attention"> <b> HOLIDAY SALE 2021: </b> 15 Dec - 1 Jan </p> -->
