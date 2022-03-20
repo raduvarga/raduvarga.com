@@ -18,6 +18,6 @@ During a visit in his studio, the following instruments could be discovered: san
 
 După mai mult de 10 ani de chitară clasică, Radu își îndreaptă atenția spre muzica improvizată și studiază chitară jazz și funk bass. Apoi experimentează cu muzica electronică și se specializează în așa numitul "finger drumming", un nou mod de a face beat-uri live.
 
-Din momentul în care descoperă santurul, de al cărui sunet se îndrăgostește iremediabl, Radu își dedică aproape exclusiv timpul  studiind diverse tradiții orientale, printre care sistemul Radif Persan și de Makam Turcesc. În același timp îl interesează latura orientală a muzicii tradiționale românești și caută să le îmbine pe aceastea într-un stil modern.
+Din momentul în care descoperă santurul, de al cărui sunet se îndrăgostește iremediabil, Radu își dedică aproape exclusiv timpul  studiind diverse tradiții orientale, printre care sistemul Radif Persan și de Makam Turcesc. În același timp, îl interesează latura orientală a muzicii tradiționale românești și caută să le îmbine pe aceastea într-un stil modern.
 
 Un vizitator în studioul său ar putea descoperi următoarele instrumente: santur, ney, kaval, țambal, chitară, bas și diverse instrumente electronice.
