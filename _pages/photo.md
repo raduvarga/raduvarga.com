@@ -6,7 +6,7 @@ permalink: /photo
 
 <div class="tiled-gallery">
 
-{% for item in site.static_files %}
+{% for item in site.static_files reversed %}
 
   {% if item.path contains 'gallery' and 
   	    item.path contains "jpg" or 

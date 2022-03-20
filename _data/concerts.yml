@@ -1,5 +1,17 @@
 items:
 
+- date: "2022-03-18"
+  venue: Lolo
+  city: București
+  country: RO
+  href: https://www.facebook.com/events/640929500315428
+
+- date: "2022-02-19"
+  venue: Lolo
+  city: București
+  country: RO
+  href: 
+
 - date: "2021-09-11"
   venue: Street Music Festival
   city: Târgu Mureș

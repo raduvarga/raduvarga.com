@@ -1,5 +1,10 @@
 items:
 
+
+- name: Feras & Noma
+  img: /assets/img/collaborations/feras-noma.jpg
+  href: /collaborations/feras-noma
+
 - name: Ali Pirabi
   img: /assets/img/collaborations/ali.jpg
   href: /collaborations/ali-pirabi
