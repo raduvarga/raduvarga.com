@@ -11,10 +11,10 @@ permalink: /sheet-music
 <table>
 {% for item in sorted %}
   
-  {% include score.html  uri = item.uri
+  {% include scores.html  uri = item.uri
   					     title = item.title
-		  				 artist = item.artist
-		  				 tags = item.tags %}
+		  				 		artist = item.artist
+		  				 		tags = item.tags %}
 
 {% endfor %}
 </table>

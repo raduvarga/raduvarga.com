@@ -1206,6 +1206,19 @@ body {
 	}
 }
 
+@media screen and (min-width: 991px) {
+	.score-links {
+		position: absolute;
+		right: 221px;
+		top: 19px;
+	}
+}
+@media screen and (max-width: 991px) {
+	.score-links {
+			display: none;
+	}
+}
+
 .title-download {
 	float: right;
 
@@ -1270,6 +1283,7 @@ body {
 	.youtube-btn {
 	    font-size: 30px;
 	    margin-right: 15px;
+	    vertical-align: top;
 
 	    i {
 			@include transition(all 0.3s ease);
@@ -1282,6 +1296,8 @@ body {
 	}
 
 	.musescore-btn, .soundslice-btn {
+	    vertical-align: top;
+
 		img {
 			@include transition(all 0.3s ease);
 			width: 30px;
