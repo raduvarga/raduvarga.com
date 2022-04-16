@@ -1,5 +1,5 @@
 ---
-title: Sazbent
+title: Radu, Feras, Noma & Cosmo
 image: /assets/img/collaborations/feras-noma.jpg
 layout: single-project
 permalink: /collaborations/feras-noma
