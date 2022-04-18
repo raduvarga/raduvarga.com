@@ -1,10 +1,10 @@
 ---
 title: Sazende
-image: /assets/img/collaborations/feras-noma.jpg
+image: /assets/img/collaborations/sazende.jpg
 layout: single-project
 permalink: /collaborations/sazende
 img: 
-- /assets/img/collaborations/feras-noma.jpg
+- /assets/img/collaborations/sazende.jpg
 video: 
 - yt: undzAT4k6Yo
   title: Çeçen kızı - Tanbûrî Cemil Bey
