@@ -6,7 +6,7 @@ permalink: /collaborations/sazende
 img: 
 - /assets/img/collaborations/sazende.jpg
 video: 
-- yt: undzAT4k6Yo
+- yt: sr5pBuAUsVc
   title: Çeçen kızı - Tanbûrî Cemil Bey
 bandcamp: 
 description: Collaborations
