@@ -7,7 +7,7 @@ img:
 - /assets/img/collaborations/sazende.jpg
 video: 
 - yt: sr5pBuAUsVc
-  title: Çeçen kızı - Tanbûrî Cemil Bey
+  title: Sazende - Çeçen kızı
 bandcamp: 
 description: Collaborations
 ---
