@@ -15,12 +15,11 @@ $("#contact-form").submit(function (e) {
 	body = body.replaceAll("\n", "<br>");
 
 	// https://smtpjs.com/
-	
 
 	Email.send({
-		SecureToken : "c41fdb12-8aaa-4299-a7bc-d6f5539bc9be",
+		SecureToken : "508bfc16-ae52-4c45-a13b-950f0bbb8814",
 	    To : obfuscateEmail("contact", "raduvarga.com"),
-	    From : obfuscateEmail("contact-form", "raduvarga.com"),
+	    From : obfuscateEmail("contact", "raduvarga.com"),
 	    FromName: name,
 	    ReplyAddress : email,
 	    Subject : subject,
