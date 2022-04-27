@@ -17,7 +17,11 @@ $("#contact-form").submit(function (e) {
 	// https://smtpjs.com/
 
 	Email.send({
-		SecureToken : "5e85ac7f-2b7f-45e4-a80c-61fca7ed2ded",
+		 SecureToken : "56ebf158-293c-48a8-acec-ecdeadc6c69f",
+		 // Host : "smtp.elasticemail.com",
+		 // Port: 2525,
+		 // Username : "contact@raduvarga.com",
+   //  	 Password : "B7D80F7FCF7BA6F52D419AE2770BF7DBD561",
 	    To : obfuscateEmail("contact", "raduvarga.com"),
 	    From : obfuscateEmail("contact", "raduvarga.com"),
 	    FromName: name,
