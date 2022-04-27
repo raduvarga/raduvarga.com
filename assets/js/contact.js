@@ -17,7 +17,7 @@ $("#contact-form").submit(function (e) {
 	// https://smtpjs.com/
 
 	Email.send({
-		 SecureToken : "0c9251f1-ab90-4a93-a369-02556b56165e",
+		 SecureToken : "8e177dde-ad56-4c16-bb79-de7d80267719",
 	    To : obfuscateEmail("contact", "raduvarga.com"),
 	    From : obfuscateEmail("contact", "raduvarga.com"),
 	    FromName: name,
