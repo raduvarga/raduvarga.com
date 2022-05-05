@@ -6,7 +6,7 @@ img: /assets/img/home.jpg
 aspect-photo: true
 ---
 
-After more than 10 years of classical guitar, Radu shifts his attention towards improvised music and studies jazz guitar and funk bass.
+After more than 10 years of classical guitar, Radu shifts his attention towards improvised music and studies jazz guitar and funk la bas.
 Then he starts experimenting with electronic music and he specializes in the so called "finger drumming", a new way of making live beats.
 
 From the moment he discovers the santour, the sound of which he immediately falls in love with, Radu devotes his time almost exclusively studying various oriental traditions, among which the Persian Radif and Turkish Makam. At the same time he is interested in the oriental side of romanian traditional music and seeks to combine them in a modern way.

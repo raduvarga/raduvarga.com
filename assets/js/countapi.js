@@ -4,7 +4,7 @@ let counterGetUrl = "https://api.countapi.xyz/get/raduvarga.com/";
 $(".download-btn").on("click", function (e) {
   console.log('download');
 
-  if (!isLocalhost()) {
+  if (isLocalhost()) {
     let $counter = $(this);
     let counterKey = $counter.attr("counter-key");
 
