@@ -1,12 +1,28 @@
 items:
 
+- date: "2022-05-29"
+  project: Sazende
+  venue: Lolo
+  city: București
+  country: RO
+  href: 
+
+- date: "2022-05-22"
+  project: Sazende
+  venue: Expirat
+  city: București
+  country: RO
+  href: https://www.facebook.com/events/356556449780099
+
 - date: "2022-03-18"
+  project: w/ Zmei3
   venue: Lolo
   city: București
   country: RO
   href: https://www.facebook.com/events/640929500315428
 
 - date: "2022-02-19"
+  project: Sazende
   venue: Lolo
   city: București
   country: RO
@@ -60,24 +76,28 @@ items:
   href: https://www.facebook.com/events/576704716188868/
 
 - date: "2019-10-05"
+  project: w/ Siti Naturaleza
   venue: Projektraum Drahnsdorf
   city: Drahnsdorf
   country: DE
   href: https://www.facebook.com/events/749756058800971/
 
 - date: "2019-09-15"
+  project: w/ Siti Naturaleza
   venue: Festsaal Kreuzberg
   city: Berlin
   country: DE
   href: https://www.facebook.com/events/623961808081214/
 
 - date: "2019-08-31"
+  project: w/ Mika
   venue: Annalinde
   city: Leipzig
   country: DE
   href: https://www.facebook.com/events/340501710192220/
 
 - date: "2019-08-17"
+  project: w/ Mika & Anté
   venue: Bucht der Träumer
   city: Frankfurt (Oder)
   country: DE
@@ -102,6 +122,7 @@ items:
   href:
 
 - date: "2018-10-03"
+  project: Club Bucharest
   venue: Weinhof Schmidt
   city: Gebesee
   country: DE
@@ -114,7 +135,8 @@ items:
   href: https://www.facebook.com/events/1293034497472404/
 
 - date: "2017-05-18"
-  venue: Kulturny Dom Lipsk / Salon Similde
+  project: w/ Sebastien Branche
+  venue: Kulturny Dom Lipsk
   city: Leipzig
   country: DE
   href: https://www.facebook.com/events/124761644747911/
