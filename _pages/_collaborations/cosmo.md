@@ -1,10 +1,10 @@
 ---
 title: Radu Varga & Cosmo
-image: /assets/img/collaborations/cosmo-ambasada.jpg
+image: /assets/img/collaborations/radu-cosmo-poster.jpg
 layout: single-project
 permalink: /collaborations/cosmo
 img: 
-- /assets/img/collaborations/raduandthecosmos.jpg
+- /assets/img/collaborations/radu-cosmo-poster.jpg
 - /assets/img/collaborations/cosmo-santur.jpg
 - /assets/img/collaborations/cosmo-ney.jpg
 - /assets/img/collaborations/cosmo-caval.jpg
