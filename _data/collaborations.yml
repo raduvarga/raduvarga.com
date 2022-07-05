@@ -1,5 +1,9 @@
 items:
 
+- name: Cosmo
+  img: /assets/img/collaborations/raduandthecosmos.jpg
+  href: /collaborations/cosmo
+
 - name: Sazende
   img: /assets/img/collaborations/sazende.jpg
   href: /collaborations/sazende
