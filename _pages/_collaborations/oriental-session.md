@@ -1,20 +1,22 @@
 ---
-title: Radu Varga & Cosmo
-image: /assets/img/collaborations/radu-cosmo-poster.jpg
+title: Oriental Session
+image: /assets/img/collaborations/oriental-session.jpg
 layout: single-project
-permalink: /collaborations/cosmo
+permalink: /collaborations/oriental-session
 img: 
-- /assets/img/collaborations/radu-cosmo-poster.jpg
+- /assets/img/collaborations/oriental-session.jpg
+- /assets/img/collaborations/oriental-session-urfa-divani.jpg
 - /assets/img/collaborations/cosmo-santur.jpg
 - /assets/img/collaborations/cosmo-ney.jpg
 - /assets/img/collaborations/cosmo-caval.jpg
 - /assets/img/collaborations/cosmo-guitar.jpg
 video: 
+- yt: 8n7npua8Yhk
+  title: Oriental Session - Urfa Divani | Santur, Accordion & Darbuka
 - yt: zspq9xtbhcY
-  title: Radu Varga & Cosmo | Live Looping Session
+  title: Oriental Session | Live Looping Session
 - yt: tlV_iTmEZWE
-  title: Aman Doktor | Microtonal Guitar, Ney, Bendir, Live Looping
-bandcamp: 
+  title: Oriental Session - Aman Doktor | Microtonal Guitar, Ney, Bendir, Live Looping
 description: Collaborations
 ---
 
@@ -26,8 +28,12 @@ Cosmo este un percuționist consacrat al proiectelor balcanice din București, c
 Fiind pasionat de sonoritățile din spațiile orientale, își începe doctoratul pe tema muzicii rromilor din Turcia.
 Prin intermediul diverselor experiențe, își formează o colecție vastă de ritmuri din diverse tradiții turcești (köçek, türkü, otomană) și le adaptează la muzica românească și modernă.
 
+Sfichy Daniel este un acordeonist român versatil, membru al grupului Stema și performează alături de numeroase trupe ce reinterpretează sunetele tradiționale. Cu ajutorul adaptărilor moderne ale acordeonului său, reușește să folosească microtonuri pentru a interpreta melodii din diverse sisteme orientale.
+
 ----
 
-Radu Varga - santur, ney, caval, chitară microtonală, live looping
+Radu Varga - santur, ney, caval, chitară microtonală
+
+Sfichy - acordeon microtonal
 
 Cosmo - darbuka, bendir
