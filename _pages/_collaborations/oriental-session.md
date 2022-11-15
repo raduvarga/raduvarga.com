@@ -20,7 +20,7 @@ video:
 description: Collaborations
 ---
 
-În ultimii ani, sub îndrumarea unor maeștri iranieni și turci din Germania, Radu Varga își dedică aproape exclusiv timpul de studiu pentru aprofundarea unor instrumente și tradiții muzicale orientale: sistemul Radif persan prin intermediul Santurului și sistemul de Makam turcesc prin Ney.
+În ultimii ani, sub îndrumarea unor maeștri iranieni și turci din Germania, Radu Varga își dedică aproape exclusiv timpul de studiu pentru aprofundarea unor instrumente și tradiții muzicale orientale: sistemul Radif persan prin intermediul santurului și sistemul de Makam turcesc prin ney.
 De asemenea, pentru a putea folosi microtonurile specifice acestor muzici, își modifică chitara adăugând taste noi.
 Cu ajutorul unui looper, el combină toate aceste instrumente prin aranjamente originale ale unor melodii orientale, românești și moderne.
 
