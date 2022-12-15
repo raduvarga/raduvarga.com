@@ -81,7 +81,7 @@ Allows you to control the Focusrite Control software via Midi.
 - 2 x MIDI licenses: <b> 29€ </b> <s> 39€</s> <a class="buy-button" href="https://create-checkout.paddle.com/checkout/custom/eyJ0IjoiRm9jdXNyaXRlIE1pZGkgQ29udHJvbCIsImkiOiJodHRwczpcL1wvcGFkZGxlLnMzLmFtYXpvbmF3cy5jb21cL3VzZXJcLzExNjUyOVwvNGR0cDg1WmJRTG1GbkdqWEsyZnBfYXBwX2ljb25fNTEyLXJlZC5wbmciLCJyIjpudWxsLCJjbSI6IjIgeCBNSURJIGxpY2Vuc2VzIiwicmUiOjAsInAiOjY0ODMwNywiY2MiOnsiRVVSIjoiMTQuNSJ9LCJ5IjoiIiwicSI6MCwicTIiOjIsImQiOjEsImEiOltdLCJ2IjoiMTE2NTI5IiwicyI6IjRiOTBmMTI2YzRkZWUxN2ExN2E4MWQ1ZWE2Yzg1MDAyMTU5ODkxZTA5YzdhYmUwNGFmYjI0ZGE2NGI3YzM0MDk3N2U1YTJkZmMyMDllMTQ1MDU0OGJlMjc3ZDg3NjNmNTBlNmJjOGM1MTRjYmFmNjk2NjFiYTM4YzU1NmRiNjNiIn0=" target="_blank"> Buy </a>
 - 2 x MACKIE licenses: <b> 29€ </b> <s> 39€</s> <a class="buy-button" href="https://create-checkout.paddle.com/checkout/custom/eyJ0IjoiRm9jdXNyaXRlIE1hY2tpZSBDb250cm9sIiwiaSI6Imh0dHBzOlwvXC9wYWRkbGUuczMuYW1hem9uYXdzLmNvbVwvdXNlclwvMTE2NTI5XC9jM2hQTmJaU1JzZUE2S0tUNzdlNV9pY29uX21hY2tpZS5wbmciLCJyIjpudWxsLCJjbSI6IjIgeCBNQUNLSUUgbGljZW5zZXMiLCJyZSI6MCwicCI6NjQ4MzU2LCJjYyI6eyJFVVIiOiIxNC41In0sInkiOiIiLCJxIjowLCJxMiI6MiwiZCI6MSwiYSI6W10sInYiOiIxMTY1MjkiLCJzIjoiOGUyY2IzN2JlNTRlYTEzZGI1ZGJmMzgzMDFlN2U0NzAxMDEyMzQyZjkyNzQyYTY4MmRiZjVkZjRlODAyNjc1N2I4NjgzY2I4NGNmMGU2ODY4YjIyNzFiZDQzZjczZGY5MGI2YjZiYTNhZjBkMWE4MGIyNTJjN2M4MTU0ZTBiZDMifQ==
 " target="_blank"> Buy </a>
-- Any license for existing users: <b> 15€ </b> <b> 19€</b> (Available for an already licensed App in Preferences -> License)
+- Any license for existing users: <b> 15€ </b> <s> 19€</s> (Available for an already licensed App in Preferences -> License)
 - Other discounts: Contact me for offers
 
 <p class="attention"> <b> HOLIDAY SALE 2021: </b> 15 Dec - 1 Jan </p>
