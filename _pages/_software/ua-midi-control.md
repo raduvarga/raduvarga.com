@@ -30,12 +30,12 @@ reviews-id: 834934ee_1607109019
 discussion-url: https://www.everforo.com/g/uamidicontrol/all/All
 forum-url: https://www.reddit.com/r/UaMidiControl/
 html-class: software
-description: Control Apollo Console via Midi with UA Midi Control
+description: Control UAD Apollo Console via Midi with UA Midi Control
 ---
 
 <p class="attention"> <b> HOLIDAY SALE 2021: </b> 15 Dec - 1 Jan </p>
 
-Allows you to control the Apollo Console software via Midi.
+Allows you to control the UAD Apollo Console software via Midi.
 
 <b> FREE license </b> includes:
 - Control Inputs: Volume, Mute, Solo, Pan, Sends, Record, Stereo
