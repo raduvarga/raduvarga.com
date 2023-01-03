@@ -33,7 +33,7 @@ html-class: software
 description: Control UAD Apollo Console via Midi with UA Midi Control
 ---
 
-<p class="attention"> <b> HOLIDAY SALE 2021: </b> 15 Dec - 1 Jan </p>
+<!-- <p class="attention"> <b> HOLIDAY SALE 2021: </b> 15 Dec - 1 Jan </p> -->
 
 Allows you to control the UAD Apollo Console software via Midi.
 
@@ -98,4 +98,4 @@ Allows you to control the UAD Apollo Console software via Midi.
 
 - Other discounts: Contact me for offers.
 
-<p class="attention"> <b> HOLIDAY SALE 2021: </b> 15 Dec - 1 Jan </p>
+<!-- <p class="attention"> <b> HOLIDAY SALE 2021: </b> 15 Dec - 1 Jan </p> -->
