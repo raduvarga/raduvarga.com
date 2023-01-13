@@ -1,5 +1,9 @@
 items:
 
+- name: Persian Poetry & Music
+  img: /assets/img/collaborations/persian-poetry.jpg
+  href: /collaborations/persian-poetry
+
 - name: Oriental Session
   img: /assets/img/collaborations/oriental-session.jpg
   href: /collaborations/oriental-session
