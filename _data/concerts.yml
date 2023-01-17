@@ -7,6 +7,13 @@ items:
   country: RO
   href: https://www.facebook.com/events/5751308264953729
 
+  - date: "2023-01-20"
+  project: 
+  venue: Liceul 2
+  city: Reghin
+  country: RO
+  href:
+
 - date: "2023-01-17"
   project: 
   venue: Cetatea Medievală
@@ -46,6 +53,13 @@ items:
   city: București
   country: RO
   href: https://www.facebook.com/events/455062529818599
+
+- date: "2022-08-02"
+  project: 
+  venue: Iulie în Grădină
+  city: Viștea de Sus
+  country: RO
+  href: 
 
 - date: "2022-06-23"
   project: w/ Mohamad Zatari Trio
