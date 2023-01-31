@@ -1,5 +1,12 @@
 items:
 
+- date: "2023-02-05"
+  project: Oriental Session
+  venue: Londohome
+  city: București
+  country: RO
+  href: https://www.facebook.com/events/6135170469836044
+
 - date: "2023-01-21"
   project: 
   venue: IKWE yoga studio
@@ -9,7 +16,7 @@ items:
 
 - date: "2023-01-20"
   project: 
-  venue: Liceul 2
+  venue: Liceul "Lucian Blaga"
   city: Reghin
   country: RO
   href:
