@@ -1,5 +1,12 @@
 items:
 
+- date: "2023-03-15"
+  project:
+  venue: Fundația Calea Victoriei
+  city: București
+  country: RO
+  href: https://www.facebook.com/events/6209940512389340
+
 - date: "2023-02-25"
   project: w/ Vika Medviedieva
   venue: Londohome
