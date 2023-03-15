@@ -1,5 +1,12 @@
 items:
 
+- date: "2023-03-30"
+  project:
+  venue: TBA
+  city: Târgu Mureș
+  country: RO
+  href: 
+
 - date: "2023-03-15"
   project:
   venue: Fundația Calea Victoriei
