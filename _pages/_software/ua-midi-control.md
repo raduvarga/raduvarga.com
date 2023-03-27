@@ -64,7 +64,7 @@ Allows you to control the UAD Apollo Console software via Midi.
 
 <b> OS Compatibility: </b>
 
-- Mac OS El Capitan (10.11) -> Mac OS Monterey (12.x)   
+- Mac OS El Capitan (10.11) -> Mac OS Ventura (13.x)   
 - Windows 10 & .NET Framework 4.7.2 (minimum)
 
 <b> Device Compatibility: </b>
