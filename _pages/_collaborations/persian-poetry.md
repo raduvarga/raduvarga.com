@@ -1,5 +1,5 @@
 ---
-title: Persian Poetry
+title: Poezie și muzică persană
 image: /assets/img/collaborations/persian-poetry.jpg
 layout: single-project
 permalink: /collaborations/persian-poetry

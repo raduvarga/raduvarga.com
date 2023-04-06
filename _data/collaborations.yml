@@ -1,5 +1,9 @@
 items:
 
+- name: Vika Medviedieva
+  img: /assets/img/collaborations/vika.jpg
+  href: /collaborations/vika
+
 - name: Persian Poetry & Music
   img: /assets/img/collaborations/persian-poetry.jpg
   href: /collaborations/persian-poetry
