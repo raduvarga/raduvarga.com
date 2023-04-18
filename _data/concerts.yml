@@ -1,11 +1,18 @@
 items:
 
-- date: "2023-04-20"
+- date: "2023-04-21"
   project: Persian Poetry & Music
   venue: AM Social Space
   city: București
   country: RO
   href: https://www.facebook.com/events/757044966050623
+
+- date: "2023-04-20"
+  project: Seară de muzică crecească
+  venue: Londohome
+  city: București
+  country: RO
+  href: 
 
 - date: "2023-03-15"
   project:
