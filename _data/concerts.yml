@@ -1,7 +1,28 @@
 items:
 
+- date: "2023-05-19"
+  project: Solo Santur
+  venue: Via
+  city: Cluj Napoca
+  country: RO
+  href:
+
+- date: "2023-05-18"
+  project: Oriental Session
+  venue: Zadar
+  city: București
+  country: RO
+  href: https://www.facebook.com/events/2358271291014063
+
+- date: "2023-05-1"
+  project: Flamenco w/ Lucas Molina Perez
+  venue: Singureni Manor
+  city: București
+  country: RO
+  href:
+
 - date: "2023-04-23"
-  project: w/ Mohammad Hadi Mogeoi
+  project: Persian music w/ Mohammad Hadi Mogeoi
   venue: Bucharest Street Food Festival
   city: București
   country: RO
@@ -19,17 +40,17 @@ items:
   venue: Londohome
   city: București
   country: RO
-  href: 
+  href: https://www.facebook.com/events/1287555965526237/
 
 - date: "2023-03-15"
-  project:
+  project: Solo Santur
   venue: Fundația Calea Victoriei
   city: București
   country: RO
   href: https://www.facebook.com/events/6209940512389340
 
 - date: "2023-02-25"
-  project: w/ Vika Medviedieva
+  project: Contemporary dance & oriental instruments
   venue: AM Social Space
   city: București
   country: RO
@@ -43,28 +64,28 @@ items:
   href: https://www.facebook.com/events/6135170469836044
 
 - date: "2023-01-21"
-  project: 
+  project: Solo Santur
   venue: IKWE yoga studio
   city: Cluj Napoca
   country: RO
   href: https://www.facebook.com/events/5751308264953729
 
 - date: "2023-01-20"
-  project: 
+  project: Solo Santur & Ney
   venue: Liceul "Lucian Blaga"
   city: Reghin
   country: RO
   href:
 
 - date: "2023-01-17"
-  project: 
+  project: Solo Santur & Ney
   venue: Cetatea Medievală
   city: Târgu Mureș
   country: RO
   href: https://www.facebook.com/events/1347316736017418/
 
 - date: "2022-12-17"
-  project: w/ Ligia Keșișan & Sara Eslami
+  project: Persian Poetry & Music
   venue: Londohome
   city: București
   country: RO
@@ -97,7 +118,7 @@ items:
   href: https://www.facebook.com/events/455062529818599
 
 - date: "2022-08-02"
-  project: 
+  project: Solo Santur
   venue: Iulie în Grădină
   city: Viștea de Sus
   country: RO
