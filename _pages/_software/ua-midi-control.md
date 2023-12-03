@@ -62,10 +62,11 @@ Allows you to control the UAD Apollo Console software via Midi.
 - Use the MCU protocol to automatically map and fully control Console
 - DAW Mode for fast switching between Console and your DAW on the same controller using Mackie Mode. More details <a href="https://www.reddit.com/r/UaMidiControl/wiki/index#wiki_daw_mode" target="_blank"> here </a>.
 
-<b> OS Compatibility: </b>
+<b> Compatibility: </b>
 
-- Mac OS El Capitan (10.11) -> Mac OS Ventura (13.x)   
+- Mac OS El Capitan (10.11) -> Mac OS Sonoma (14.x)   
 - Windows 10 & .NET Framework 4.7.2 (minimum)
+- Compatible with Console v11
 
 <b> Device Compatibility: </b>
 
