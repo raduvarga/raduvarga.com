@@ -99,4 +99,4 @@ Allows you to control the UAD Apollo Console software via Midi.
 
 - Other discounts: Contact me for offers.
 
-<p class="attention"> <b> DECEMBER SALE 2023: </b> 1 Dec -> 1 Jan </p>
+<!-- <p class="attention"> <b> DECEMBER SALE 2023: </b> 1 Dec -> 1 Jan </p> -->

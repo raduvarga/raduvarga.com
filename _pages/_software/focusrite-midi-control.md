@@ -86,4 +86,4 @@ Allows you to control the Focusrite Control software via Midi.
 
 - Other discounts: Contact me for offers
 
-<p class="attention"> <b> HOLIDAY SALE 2021: </b> 15 Dec -> 1 Jan </p>
+<!-- <p class="attention"> <b> HOLIDAY SALE 2021: </b> 15 Dec -> 1 Jan </p> -->
