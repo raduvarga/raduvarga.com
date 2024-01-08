@@ -79,10 +79,10 @@ Allows you to control the UAD Apollo Console software via Midi.
 
 <b id="pricing"> Licensing </b>: 
 - FREE license: <b> Free </b>
-<!-- - MIDI license: <b> 69€ </b> <a class="buy-button" href="https://buy.paddle.com/product/597389" target="_blank"> Buy </a> -->
-<!-- - MACKIE license: <b> 69€ </b> <a class="buy-button" href="https://buy.paddle.com/product/643526" target="_blank"> Buy </a> -->
-- MIDI license: <b> 55€ </b> <s> 69€</s> <a class="buy-button" href="https://buy.paddle.com/product/597389" target="_blank"> Buy </a>
-- MACKIE license: <b> 55€ </b> <s> 69€</s> <a class="buy-button" href="https://buy.paddle.com/product/643526" target="_blank"> Buy </a>
+- MIDI license: <b> 69€ </b> <a class="buy-button" href="https://buy.paddle.com/product/597389" target="_blank"> Buy </a>
+- MACKIE license: <b> 69€ </b> <a class="buy-button" href="https://buy.paddle.com/product/643526" target="_blank"> Buy </a>
+<!-- - MIDI license: <b> 55€ </b> <s> 69€</s> <a class="buy-button" href="https://buy.paddle.com/product/597389" target="_blank"> Buy </a> -->
+<!-- - MACKIE license: <b> 55€ </b> <s> 69€</s> <a class="buy-button" href="https://buy.paddle.com/product/643526" target="_blank"> Buy </a> -->
 - 1 activation per license
 - A license can be transferred to another computer via Settings -> License -> Deactivate all licenses
 

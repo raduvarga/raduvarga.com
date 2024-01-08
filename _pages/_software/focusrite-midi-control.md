@@ -66,10 +66,10 @@ Allows you to control the Focusrite Control software via Midi.
 
 <b id="pricing"> Licensing </b>: 
 - FREE version: <b> Free </b>
-<!-- - MIDI license: <b> 25€ </b> <a class="buy-button" href="https://buy.paddle.com/product/648307" target="_blank"> Buy </a> -->
-<!-- - MACKIE license: <b> 25€ </b> <a class="buy-button" href="https://buy.paddle.com/product/648356" target="_blank"> Buy </a> -->
-- MIDI license: <b> 19 </b> <s> 25€ </s> <a class="buy-button" href="https://buy.paddle.com/product/648307" target="_blank"> Buy </a>
-- MACKIE license: <b> 19 </b> <s> 25€ </s> <a class="buy-button" href="https://buy.paddle.com/product/648356" target="_blank"> Buy </a>
+- MIDI license: <b> 25€ </b> <a class="buy-button" href="https://buy.paddle.com/product/648307" target="_blank"> Buy </a>
+- MACKIE license: <b> 25€ </b> <a class="buy-button" href="https://buy.paddle.com/product/648356" target="_blank"> Buy </a>
+<!-- - MIDI license: <b> 19 </b> <s> 25€ </s> <a class="buy-button" href="https://buy.paddle.com/product/648307" target="_blank"> Buy </a> -->
+<!-- - MACKIE license: <b> 19 </b> <s> 25€ </s> <a class="buy-button" href="https://buy.paddle.com/product/648356" target="_blank"> Buy </a> -->
 - 1 activation per license
 - A license can be transferred to another computer via Settings -> License -> Deactivate all licenses
 
