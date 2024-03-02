@@ -1,18 +1,41 @@
 ---
-title: Ali Pirabi
-image: /assets/img/collaborations/ali.jpg
+title: Ruméliko
+image: /assets/img/collaborations/rumeliko.jpg
 layout: single-project
-permalink: /collaborations/ali-pirabi
+permalink: /collaborations/rumeliko
 img: 
-- /assets/img/collaborations/ali.jpg
-video: 
-- yt: ToeMjhTsWS8
-  title: Khazan - Parviz Meshkatian | خزان - پرویز مشکاتیان
-- yt: HjWSfTo1Q-s
-  title: Jocul Dianca | Caval & Kamancheh
+- /assets/img/collaborations/rumeliko.jpg
 bandcamp: 
-website: https://alipirabi.de/
+website: https://www.facebook.com/rumelikomusic/
 description: Collaborations
 ---
 
-Ali Pirabi (Santur und mehr) wurde 1978 in Shiraz (Iran) geboren. Seinen ersten Santur-Unterricht erhielt er mit sieben Jahren. Heute ist er Musiker und Musiklehrer für persische, orientalische und klassische europäische Musik - Violine, Santur, Setar, Kamancheh, Tombak, Tanbur, Oud und Daf. Er wurde in klassischer iranischer Musik sowie den Grundlagen europäischer Musik ausgebildet und absolvierte das Studium an der Hochschule für Musik Teheran. 2005 gründete er eine Musikschule in Shiraz, wo er Violine, Santur, Setar, Kamanche, Tanbur und Musiktheorie unterrichtete. Er ist u. a. Autor einer Musikgeschichte des Irans und eines Santur-Lehrbuchs. Als internationaler Musiker trat Ali Pirabi z. B. in Paris, Madrid und Amsterdam auf. 2013 floh er vor Verfolgung aus dem Iran und baute sich in Leipzig eine neue Existenz auf. In Deutschland spielt er u. a. in den Ensembles Musighistan und Sama und gründete 2017 eine internationale Musikschule in Leipzig. 
+Ruméliko este un grup nou format din București care adună mai mulți artiști din diferite zone muzicale de influență balcanică.
+
+Numele vine de la termenul “Rumélia", care era folosit pentru a denumi provincia otomana din balcani, care se întindea de la Grecia până în Valahia și de la Bosnia până la Constantinopol.
+
+Valasia Dodulu este o cântăreață din Salonic cu experiență în diferite stiluri muzicale tradiționale grecești și balcanice. De asemenea a studiat și stilul flamenco cu Alba Guerrero și Juan Granados.
+
+Radu Varga este un multi-instrumentist pasionat de diverse tradiții muzicale orientale, în special de cea clasică otomană și persană, dedicându-și ultimii ani studiului santurului iranian și al neyului turcesc.
+
+Shaun Williams, devenit cunoscut ca “Jean Americanu”, locuiește de 7 ani în România și împreună cu Corina Sîrghi creează unul dintre cele mai de success proiecte de taraf modern din România.
+
+Lucian Naste este un chitarist din Târgu Mureș cu formare clasică, care este membru în orchestra Mădălinei Pavăl și colaborator în proiectul Helen.
+
+Alex Corlan este un basist din Timișoara care este de asemenea membru în trupa Mădălinei Pavăl și care a colaborat mulți ani cu formația Impex.
+
+Cosmo este un percuționist consacrat al proiectelor balcanice din București, concertând inclusiv cu muzicieni turci, lăutari renumiți și artiști din zona electronică. 
+
+---
+
+Valasia Dodulu - voce
+
+Radu Varga - santur, ney
+
+Shaun Williams - acordeon, riq
+
+Lucian Naste - chitară microtonală
+
+Alex Corlan - bas
+
+Cosmo - darbuka, bendir

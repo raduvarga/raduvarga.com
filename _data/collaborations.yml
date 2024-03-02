@@ -1,5 +1,9 @@
 items:
 
+- name: Ruméliko
+  img: /assets/img/collaborations/rumeliko.jpg
+  href: /collaborations/rumeliko
+
 - name: Vika Medviedieva
   img: /assets/img/collaborations/vika.jpg
   href: /collaborations/vika
