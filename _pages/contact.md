@@ -3,10 +3,11 @@ title: Contact Me
 layout: single-project
 permalink: /contact
 ---
-If you wish to get in contact, feel free to leave me a message in the form or via any of the social platforms below.
 
-If you have a question about the UA Midi Control App, you can also check the active Topics in the App's forum <a href="https://www.reddit.com/r/UaMidiControl/" target="_blank"> HERE </a>.
-<br><br>
+Attention! For questions related to UA Midi Control, Focusrite Midi Control or any other software, please use <a href="https://fonoflow.com/contact" target="_blank"> this </a> contact form.
+<!-- If you wish to get in contact, feel free to leave me a message in the form or via any of the social platforms below. -->
+
+<!-- <br><br> -->
 
 
 <form id="contact-form" action="#" method="post" class="comment-form contact">
