@@ -35,6 +35,10 @@ description: Control UAD Apollo Console via Midi with UA Midi Control
 
 <!-- <p class="attention"> <b> HOLIDAY SALE 2021: </b> 15 Dec - 1 Jan </p> -->
 
+<p class="attention"> <b> <a href="https://fonoflow.com/products/ua-remote-control" target="_blank"> NEW: UA Remote Control for iOS & Android has been released! </a> </b> </p>
+
+
+
 Allows you to control the UAD Apollo Console software via Midi.
 
 <b> FREE license </b> includes:

@@ -1986,7 +1986,11 @@ body {
 }
 
 .attention {
-	color: darkred;
+	color: darkred  !important;
+}
+
+.software .post-content .the-content a {
+	color: darkred !important;
 }
 
 .counterx {
