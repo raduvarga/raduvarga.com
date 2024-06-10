@@ -10,7 +10,7 @@ $("#contact-form").submit(function (e) {
 	console.log("sending email...");
 	$(".contact-message").html("");
 
-	body += "\n\n--------------\nSent from " + getOS(); 
+	body += "\n\n--------------\nSent from: " + getOS(); 
 
 	body = body.replaceAll("\n", "<br>");
 

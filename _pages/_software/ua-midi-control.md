@@ -27,7 +27,7 @@ release-notes-windows: https://objects-us-east-1.dream.io/ua-midi-control/window
 faq: ua-midi-control
 reviews-id: 834934ee_1607109019
 # reviews-id: f917f3f9_1609100423
-discussion-url: https://www.everforo.com/g/uamidicontrol/all/All
+# discussion-url: https://www.everforo.com/g/uamidicontrol/all/All
 forum-url: https://www.reddit.com/r/UaMidiControl/
 html-class: software
 description: Control UAD Apollo Console via Midi with UA Midi Control
@@ -38,8 +38,7 @@ description: Control UAD Apollo Console via Midi with UA Midi Control
 <p class="attention"> <b> <a href="https://fonoflow.com/products/ua-remote-control" target="_blank"> NEW: UA Remote Control for iOS & Android has been released! </a> </b> </p>
 
 
-
-Allows you to control the UAD Apollo Console software via Midi.
+Allows you to control the Console software via Midi.
 
 <b> FREE license </b> includes:
 - Control Inputs: Volume, Mute, Solo, Pan, Sends, Record, Stereo

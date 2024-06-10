@@ -1,5 +1,9 @@
 items:
 
+# - name: UA Remote Control
+#   img: /assets/img/uarc-device-full.png
+#   href: /software/ua-remote-control
+
 - name: UA Midi Control
   img: /assets/img/software/ua/ua-youtube.jpg
   href: /software/ua-midi-control
