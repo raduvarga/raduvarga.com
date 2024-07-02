@@ -41,9 +41,9 @@ description: Control UAD Apollo Console via Midi with UA Midi Control
 Allows you to control the Console software via Midi.
 
 <b> FREE license </b> includes:
-- Control Inputs: Volume, Mute, Solo, Pan, Sends, Record, Stereo
+- Control Inputs: Volume, Mute, Solo, Pan, Record, Stereo
 - Control Preamps: Input Type, Gain, 48V, Low Cut, Phase, Pad 
-- Control Sends: Gain, Mute, Pan
+- Control Aux: Volume, Mute, Mono, Pre/Post
 - Supported Midi Messages: CC, Note, Pitch Bend, Program Change
 - Change the button type (Fader/Knob, Momentary, Toggle, VPot, Relative)
 - Edit the range (Min/Max)
@@ -52,7 +52,7 @@ Allows you to control the Console software via Midi.
 
 <b> MIDI license </b> includes everything from the FREE license, plus:
 - Control Inserts & Unison: Toggle Window, All Effect Parameters & Presets
-- Control Aux: Volume, Mute, Mono, Pre/Post, Inserts, Chanel Strip, Sends
+- Control Sends: Gain, Mute, Pan
 - Control Outputs (MONITOR, CUE): Volume, Mute, Mono, Dim, Alt, Source
 - Control Channel Strips: Toggle Window, All Presets
 - Control Talkback
