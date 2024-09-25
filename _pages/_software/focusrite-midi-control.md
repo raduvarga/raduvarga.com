@@ -1,4 +1,10 @@
 ---
+permalink: /software/focusrite-midi-control
+layout: redirect
+redirect: https://fonoflow.com/products/focusrite-midi-control
+---
+
+<!-- ---
 title: Focusrite Midi Control
 image: /assets/img/software/focusrite/focusrite-screenshot-desktop.jpg
 layout: software-project
@@ -86,4 +92,4 @@ Allows you to control the Focusrite Control software via Midi.
 
 - Other discounts: Contact me for offers
 
-<!-- <p class="attention"> <b> HOLIDAY SALE 2021: </b> 15 Dec -> 1 Jan </p> -->
+<!-- <p class="attention"> <b> HOLIDAY SALE 2021: </b> 15 Dec -> 1 Jan </p> --> -->
