@@ -1,9 +1,9 @@
-<!-- ---
+---
 title: UA Midi Control
 image: /assets/img/software/ua/ua-youtube.jpg
 layout: software-project
 has-tabs: true
-permalink: /software/ua-midi-control
+permalink: /software/ua-midi-control-old
 logo: /assets/img/software/ua/ua-logo.png
 download: https://objects-us-east-1.dream.io/ua-midi-control/UA%20Midi%20Control.zip
 counter-key: ua-midi-control-app
@@ -102,4 +102,4 @@ Allows you to control the Console software via Midi.
 
 - Other discounts: Contact me for offers.
 
-<!-- <p class="attention"> <b> DECEMBER SALE 2023: </b> 1 Dec -> 1 Jan </p> --> -->
+<!-- <p class="attention"> <b> DECEMBER SALE 2023: </b> 1 Dec -> 1 Jan </p> -->

@@ -1,9 +1,9 @@
-<!-- ---
+---
 title: Focusrite Midi Control
 image: /assets/img/software/focusrite/focusrite-screenshot-desktop.jpg
 layout: software-project
 has-tabs: true
-permalink: /software/focusrite-midi-control
+permalink: /software/focusrite-midi-control-old
 logo: /assets/img/software/focusrite/focusrite-logo.png
 download: https://objects-us-east-1.dream.io/focusrite-midi-control/Focusrite%20Midi%20Control.zip
 counter-key: focusrite-midi-control-app
@@ -86,4 +86,4 @@ Allows you to control the Focusrite Control software via Midi.
 
 - Other discounts: Contact me for offers
 
-<!-- <p class="attention"> <b> HOLIDAY SALE 2021: </b> 15 Dec -> 1 Jan </p> --> -->
+<!-- <p class="attention"> <b> HOLIDAY SALE 2021: </b> 15 Dec -> 1 Jan </p> -->
