@@ -36,8 +36,6 @@ Attention! For questions related to UA Midi Control, Focusrite Midi Control or a
 <div class="post-footer">
 	<div class="post-share-wrap">
 		<div class="post-share">
-
-		{% include social.html %}
 		
 		</div>
 	</div>
