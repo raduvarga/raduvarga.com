@@ -22,6 +22,6 @@ description: Control your interface remotely from iOS and Android
 
 Allows you to control your Console remotely from your tablet and phone and interconnect them with your midi devices.
 
-Connect UARC and UA Midi Control Server to the same network in order to pair (UARC will automatically find the server).
+Connect UARC and UARC Server to the same network in order to pair (UARC will automatically find the server).
 
 Download the server software for your OS by clicking the download button.
