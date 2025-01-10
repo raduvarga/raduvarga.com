@@ -5,7 +5,7 @@ layout: software-project
 has-tabs: false
 permalink: /software/uarc
 logo: /assets/img/software/ua/uarc-logo.png
-download: https://objects-us-east-1.dream.io/ua-midi-control/builds/UA%20Midi%20Control%20Server.zip
+download: https://objects-us-east-1.dream.io/ua-midi-control/builds/UARC%20Server.zip
 # download-windows: https://objects-us-east-1.dream.io/ua-midi-control/windows/UA%20Midi%20Control%20Setup.msi
 img: 
 - /assets/img/software/ua/uarc-device-full.png
@@ -20,7 +20,7 @@ description: Control your interface remotely from iOS and Android
 ---
 
 
-Allows you to control Console remotely from your tablet and phone and interconnect them with your midi devices.
+Allows you to control your Console remotely from your tablet and phone and interconnect them with your midi devices.
 
 Connect UARC and UA Midi Control Server to the same network in order to pair (UARC will automatically find the server).
 
