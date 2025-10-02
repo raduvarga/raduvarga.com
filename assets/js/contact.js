@@ -2,13 +2,12 @@ import { getFunctions, httpsCallable, connectFunctionsEmulator } from 'https://w
 import { initializeApp } from 'https://www.gstatic.com/firebasejs/11.2.0/firebase-app.js'
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCBTuTYo2BggeSrY7ESlxTQhKT59S95yss",
-  authDomain: "ua-remote-control.firebaseapp.com",
-  projectId: "ua-remote-control",
-  storageBucket: "ua-remote-control.firebasestorage.app",
-  messagingSenderId: "1085540391736",
-  appId: "1:1085540391736:web:8717465561e8113480ffcd",
-  measurementId: "G-GZ71MLDYZB"
+  apiKey: "AIzaSyA44yyupKssfkBKsbbmq2h_X7a0vgNzFUE",
+  authDomain: "fonoflow-firebase.firebaseapp.com",
+  projectId: "fonoflow-firebase",
+  storageBucket: "fonoflow-firebase.firebasestorage.app",
+  messagingSenderId: "298854463377",
+  appId: "1:298854463377:web:b2b7d4970c187dee13cc30"
 };
 
 const app = initializeApp(firebaseConfig);
